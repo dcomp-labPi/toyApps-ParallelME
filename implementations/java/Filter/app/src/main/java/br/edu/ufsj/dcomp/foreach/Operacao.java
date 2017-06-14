@@ -1,5 +1,7 @@
 package br.edu.ufsj.dcomp.foreach;
 
+import java.util.Arrays;
+
 /**
  * Created by millas on 14/06/17.
  */
@@ -15,22 +17,26 @@ public class Operacao {
 
     public Integer[] method() {
         Integer smaller = this.tmp[0];
-        Integer count = 0;
-        for (Integer element : this.tmp) {
-            if(smaller > element){
-                smaller = element;
-                count = 1;
-            }else if(smaller == element){
-                count++;
+        Boolean[] save = new Boolean[tmp.length];
+        Arrays.fill(save,false);
+        int cont = 0;
+        for (int i=0;i<tmp.length;i++) {
+            for(int j=0;j<tmp.length;j++){
+                if(tmp[i] > tmp[j]){
+                    save[i] = true;
+                }
+            }
+            if(!save[i]){
+                cont++;
             }
         }
 
-        Integer[] returnVector = new Integer[this.tmp.length-count];
-        count = 0;
-        for (Integer element : this.tmp) {
-            if (element != smaller) {
-                returnVector[count] = element;
-                count++;
+        Integer[] returnVector = new Integer[tmp.length-cont];
+        cont = 0;
+        for (int i=0;i<save.length;i++) {
+            if (save[i]) {
+                returnVector[cont] = tmp[i];
+                cont++;
             }
         }
         return returnVector;
