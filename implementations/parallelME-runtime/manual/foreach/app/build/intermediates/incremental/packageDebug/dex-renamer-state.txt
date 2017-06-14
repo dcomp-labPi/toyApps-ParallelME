@@ -1,0 +1,4 @@
+#Wed Jun 14 09:30:10 BRT 2017
+base.0=/home/labpi/Documentos/renan/projetos/toyApps/manual/foreach/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/labpi/Documentos/renan/projetos/toyApps/manual/foreach/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
