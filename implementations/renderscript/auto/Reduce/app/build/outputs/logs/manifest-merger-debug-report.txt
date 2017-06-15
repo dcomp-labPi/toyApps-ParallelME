@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Reduce/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Reduce/app/src/main/AndroidManifest.xml:3:11-45
+		INJECTED from /home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Reduce/app/src/main/AndroidManifest.xml
+		INJECTED from /home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Reduce/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Reduce/app/src/main/AndroidManifest.xml
+		INJECTED from /home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Reduce/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Reduce/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Reduce/app/src/main/AndroidManifest.xml
+		INJECTED from /home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Reduce/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Reduce/app/src/main/AndroidManifest.xml:6:5-20:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/millas/.android/build-cache/c8562b983b33682615bced61d30059b65f8b8818/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/millas/.android/build-cache/b3c2b031268b0063c6fec716b189044d4d39a088/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/millas/.android/build-cache/41669e7fca7d0b6880ee8e2f8dab3adb102c0c27/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/millas/.android/build-cache/10dec77512dd017c8466e871701b7fc98667918c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/millas/.android/build-cache/e6cda664a43392c429280cd51c0c5dc50e4b83ad/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/millas/.android/build-cache/d07a1e0469f546988dbd987efe2051b18d760c63/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/millas/.android/build-cache/0fd3cf7421014e976b9d5dd5d1e118fea01a988c/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/millas/.android/build-cache/c48efd30249971725a1de26983a47c4c1711f31a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/millas/.android/build-cache/625dc419e95146661fec0f5e317514f99abc70d7/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Reduce/app/src/main/AndroidManifest.xml:9:9-41
+	android:supportsRtl
+		ADDED from /home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Reduce/app/src/main/AndroidManifest.xml:11:9-35
+	android:roundIcon
+		ADDED from /home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Reduce/app/src/main/AndroidManifest.xml:10:9-54
+	android:allowBackup
+		ADDED from /home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Reduce/app/src/main/AndroidManifest.xml:7:9-35
+	android:icon
+		ADDED from /home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Reduce/app/src/main/AndroidManifest.xml:8:9-43
+	android:theme
+		ADDED from /home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Reduce/app/src/main/AndroidManifest.xml:12:9-40
+activity#br.edu.ufsj.dcomp.reduce.MainActivity
+ADDED from /home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Reduce/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Reduce/app/src/main/AndroidManifest.xml:13:19-71
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Reduce/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Reduce/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Reduce/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Reduce/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Reduce/app/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Reduce/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /home/millas/.android/build-cache/c8562b983b33682615bced61d30059b65f8b8818/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/millas/.android/build-cache/b3c2b031268b0063c6fec716b189044d4d39a088/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/millas/.android/build-cache/41669e7fca7d0b6880ee8e2f8dab3adb102c0c27/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/millas/.android/build-cache/10dec77512dd017c8466e871701b7fc98667918c/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/millas/.android/build-cache/e6cda664a43392c429280cd51c0c5dc50e4b83ad/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/millas/.android/build-cache/d07a1e0469f546988dbd987efe2051b18d760c63/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/millas/.android/build-cache/0fd3cf7421014e976b9d5dd5d1e118fea01a988c/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /home/millas/.android/build-cache/c48efd30249971725a1de26983a47c4c1711f31a/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/millas/.android/build-cache/625dc419e95146661fec0f5e317514f99abc70d7/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Reduce/app/src/main/AndroidManifest.xml
+		INJECTED from /home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Reduce/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Reduce/app/src/main/AndroidManifest.xml
+		INJECTED from /home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Reduce/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/millas/.android/build-cache/c8562b983b33682615bced61d30059b65f8b8818/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/millas/.android/build-cache/b3c2b031268b0063c6fec716b189044d4d39a088/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/millas/.android/build-cache/41669e7fca7d0b6880ee8e2f8dab3adb102c0c27/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/millas/.android/build-cache/10dec77512dd017c8466e871701b7fc98667918c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/millas/.android/build-cache/e6cda664a43392c429280cd51c0c5dc50e4b83ad/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/millas/.android/build-cache/d07a1e0469f546988dbd987efe2051b18d760c63/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/millas/.android/build-cache/0fd3cf7421014e976b9d5dd5d1e118fea01a988c/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/millas/.android/build-cache/c48efd30249971725a1de26983a47c4c1711f31a/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/AndroidManifest.xml:26:9-47
