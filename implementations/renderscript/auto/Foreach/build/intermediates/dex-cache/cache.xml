@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/millas/Android/Sdk/build-tools/25.0.3/renderscript/lib/renderscript-v8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3849f1c948fae3f99482a4a0a630ef2d6a490cfe">
+        <dex dex="/home/millas/WorkbenchAndStu/Renderscript/Foreach/app/build/intermediates/pre-dexed/debug/renderscript-v8_7a82f17e3fe34c00de7c4cc755ed1e20ceea0da4.jar" />
+    </item>
+
+</items>
