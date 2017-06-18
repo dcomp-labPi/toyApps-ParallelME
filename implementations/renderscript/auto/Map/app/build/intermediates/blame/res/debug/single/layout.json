@@ -8,12 +8,12 @@
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/notification_template_icon_group.xml"
     },
     {
-        "merged": "/home/labpi/Documentos/renan/projetos/toyApps/auto/Map/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
-        "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/layout/support_simple_spinner_dropdown_item.xml"
-    },
-    {
         "merged": "/home/millas/WorkbenchAndStu/toyApps/auto/Map/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/labpi/Documentos/renan/projetos/toyApps/auto/Map/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/layout/support_simple_spinner_dropdown_item.xml"
     },
     {
         "merged": "/home/labpi/Documentos/renan/projetos/toyApps/auto/Map/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
@@ -32,12 +32,12 @@
         "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "/home/millas/WorkbenchAndStu/Filter/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
-        "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/abc_activity_chooser_view_list_item.xml"
-    },
-    {
         "merged": "/home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/millas/WorkbenchAndStu/Filter/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
         "merged": "/home/labpi/Dropbox/toyApplications/auto/Filter/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
@@ -56,8 +56,16 @@
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/abc_action_bar_up_container.xml"
     },
     {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
         "merged": "/home/labpi/Dropbox/toyApplications/auto/Filter/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
         "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/layout/abc_popup_menu_header_item_layout.xml"
     },
     {
         "merged": "/home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
@@ -72,24 +80,36 @@
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/select_dialog_item_material.xml"
     },
     {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
         "merged": "/home/labpi/Dropbox/toyApplications/auto/Filter/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
         "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/layout/abc_list_menu_item_layout.xml"
     },
     {
         "merged": "/home/millas/WorkbenchAndStu/Foreach/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "/home/millas/WorkbenchAndStu/Foreach/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
-        "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/abc_activity_chooser_view.xml"
-    },
-    {
         "merged": "/home/millas/WorkbenchAndStu/toyApps/auto/Map/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/abc_action_bar_up_container.xml"
     },
     {
+        "merged": "/home/millas/WorkbenchAndStu/Foreach/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
         "merged": "/home/millas/WorkbenchAndStu/Map/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/src/main/res/layout/activity_main.xml"
     },
     {
         "merged": "/home/millas/WorkbenchAndStu/Foreach/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
@@ -144,6 +164,10 @@
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/notification_template_media.xml"
     },
     {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
         "merged": "/home/millas/WorkbenchAndStu/Foreach/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/notification_template_media.xml"
     },
@@ -168,6 +192,10 @@
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/notification_template_part_time.xml"
     },
     {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
+        "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/layout/notification_template_custom_big.xml"
+    },
+    {
         "merged": "/home/millas/WorkbenchAndStu/Reduce/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/abc_popup_menu_item_layout.xml"
     },
@@ -182,6 +210,10 @@
     {
         "merged": "/home/labpi/Dropbox/toyApplications/auto/Filter/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
         "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/layout/abc_action_bar_up_container.xml"
     },
     {
         "merged": "/home/millas/WorkbenchAndStu/Reduce/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
@@ -248,12 +280,20 @@
         "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/layout/abc_list_menu_item_radio.xml"
     },
     {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
         "merged": "/home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/select_dialog_multichoice_material.xml"
     },
     {
         "merged": "/home/millas/WorkbenchAndStu/Foreach/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
         "merged": "/home/millas/WorkbenchAndStu/Foreach/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
@@ -282,6 +322,10 @@
     {
         "merged": "/home/millas/WorkbenchAndStu/Reduce/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/layout/abc_action_bar_title_item.xml"
     },
     {
         "merged": "/home/millas/WorkbenchAndStu/Map/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
@@ -316,6 +360,10 @@
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/notification_action.xml"
     },
     {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
         "merged": "/home/millas/WorkbenchAndStu/Foreach/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
@@ -344,12 +392,20 @@
         "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/layout/select_dialog_item_material.xml"
     },
     {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
         "merged": "/home/millas/WorkbenchAndStu/Filter/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/notification_template_part_chronometer.xml"
     },
     {
         "merged": "/home/millas/WorkbenchAndStu/Reduce/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/layout/abc_search_view.xml"
     },
     {
         "merged": "/home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
@@ -362,6 +418,10 @@
     {
         "merged": "/home/labpi/Dropbox/toyApplications/auto/Filter/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
         "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
         "merged": "/home/millas/WorkbenchAndStu/Foreach/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
@@ -416,6 +476,10 @@
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/notification_action.xml"
     },
     {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
         "merged": "/home/labpi/Dropbox/toyApplications/auto/Filter/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
         "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/layout/notification_template_media_custom.xml"
     },
@@ -434,6 +498,10 @@
     {
         "merged": "/home/labpi/Documentos/renan/projetos/toyApps/auto/Map/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
         "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/layout/abc_select_dialog_material.xml"
     },
     {
         "merged": "/home/millas/WorkbenchAndStu/Reduce/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
@@ -544,6 +612,10 @@
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/notification_template_media.xml"
     },
     {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
         "merged": "/home/labpi/Dropbox/toyApplications/auto/Filter/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
         "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/layout/abc_alert_dialog_material.xml"
     },
@@ -632,12 +704,24 @@
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/abc_search_view.xml"
     },
     {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
         "merged": "/home/millas/WorkbenchAndStu/Foreach/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
         "source": "/home/millas/WorkbenchAndStu/Foreach/app/src/main/res/layout/activity_main.xml"
     },
     {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/layout/notification_action.xml"
+    },
+    {
         "merged": "/home/millas/WorkbenchAndStu/Reduce/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/layout/notification_template_media.xml"
     },
     {
         "merged": "/home/millas/WorkbenchAndStu/toyApps/auto/Map/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
@@ -668,8 +752,16 @@
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/abc_alert_dialog_title_material.xml"
     },
     {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
         "merged": "/home/millas/WorkbenchAndStu/Foreach/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/layout/abc_screen_simple.xml"
     },
     {
         "merged": "/home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
@@ -690,6 +782,10 @@
     {
         "merged": "/home/millas/WorkbenchAndStu/Foreach/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
         "merged": "/home/millas/WorkbenchAndStu/Filter/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
@@ -788,6 +884,10 @@
         "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/layout/notification_action.xml"
     },
     {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
         "merged": "/home/millas/WorkbenchAndStu/Foreach/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/abc_action_mode_bar.xml"
     },
@@ -808,12 +908,28 @@
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/abc_activity_chooser_view.xml"
     },
     {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
         "merged": "/home/labpi/Dropbox/toyApplications/auto/Filter/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
         "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/layout/select_dialog_multichoice_material.xml"
     },
     {
         "merged": "/home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
         "merged": "/home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
@@ -860,6 +976,10 @@
         "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/layout/abc_list_menu_item_radio.xml"
     },
     {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
         "merged": "/home/millas/WorkbenchAndStu/Foreach/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/notification_template_icon_group.xml"
     },
@@ -904,6 +1024,10 @@
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/abc_alert_dialog_material.xml"
     },
     {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/layout/notification_template_part_time.xml"
+    },
+    {
         "merged": "/home/millas/WorkbenchAndStu/Filter/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/abc_dialog_title_material.xml"
     },
@@ -946,6 +1070,10 @@
     {
         "merged": "/home/millas/WorkbenchAndStu/Reduce/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/layout/abc_alert_dialog_material.xml"
     },
     {
         "merged": "/home/labpi/Documentos/renan/projetos/toyApps/auto/Map/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
@@ -1006,6 +1134,10 @@
     {
         "merged": "/home/millas/WorkbenchAndStu/Reduce/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/layout/notification_template_part_chronometer.xml"
     },
     {
         "merged": "/home/millas/WorkbenchAndStu/Filter/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
@@ -1140,12 +1272,20 @@
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/abc_dialog_title_material.xml"
     },
     {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
         "merged": "/home/millas/WorkbenchAndStu/Foreach/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
     {
         "merged": "/home/millas/WorkbenchAndStu/Reduce/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/layout/abc_screen_toolbar.xml"
     },
     {
         "merged": "/home/labpi/Documentos/renan/projetos/toyApps/auto/Map/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
@@ -1196,6 +1336,14 @@
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/abc_expanded_menu_layout.xml"
     },
     {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
         "merged": "/home/labpi/Documentos/renan/projetos/toyApps/auto/Map/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
         "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/layout/abc_list_menu_item_layout.xml"
     },
@@ -1222,6 +1370,10 @@
     {
         "merged": "/home/millas/WorkbenchAndStu/Reduce/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/layout/abc_alert_dialog_title_material.xml"
     },
     {
         "merged": "/home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
@@ -1284,6 +1436,10 @@
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/notification_template_custom_big.xml"
     },
     {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
         "merged": "/home/millas/WorkbenchAndStu/Reduce/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/abc_list_menu_item_layout.xml"
     },
@@ -1292,12 +1448,20 @@
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/notification_template_media_custom.xml"
     },
     {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
         "merged": "/home/labpi/Dropbox/toyApplications/auto/Filter/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
         "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/layout/abc_expanded_menu_layout.xml"
     },
     {
         "merged": "/home/millas/WorkbenchAndStu/Filter/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/layout/abc_list_menu_item_icon.xml"
     },
     {
         "merged": "/home/labpi/Documentos/renan/projetos/toyApps/auto/Map/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",

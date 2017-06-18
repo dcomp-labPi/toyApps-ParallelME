@@ -28,6 +28,14 @@
         "source": "/home/millas/WorkbenchAndStu/Filter/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
     },
     {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Foreach/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Foreach/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Foreach/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Foreach/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
         "merged": "/home/millas/WorkbenchAndStu/Foreach/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
         "source": "/home/millas/WorkbenchAndStu/Foreach/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
     },

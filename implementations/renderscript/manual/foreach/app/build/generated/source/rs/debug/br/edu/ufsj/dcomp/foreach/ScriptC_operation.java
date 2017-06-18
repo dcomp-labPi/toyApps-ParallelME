@@ -16,7 +16,7 @@
 
 /*
  * This file is auto-generated. DO NOT MODIFY!
- * The source Renderscript file: /home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/foreach/app/src/main/rs/operation.rs
+ * The source Renderscript file: /home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/manual/foreach/app/src/main/rs/operation.rs
  */
 
 package br.edu.ufsj.dcomp.foreach;
@@ -40,6 +40,42 @@ public class ScriptC_operation extends ScriptC {
 
     public  ScriptC_operation(RenderScript rs, Resources resources, int id) {
         super(rs, resources, id);
+        __I32 = Element.I32(rs);
+    }
+
+    private Element __I32;
+    //private final static int mExportForEachIdx_root = 0;
+    private final static int mExportForEachIdx_foreach = 1;
+    public Script.KernelID getKernelID_foreach() {
+        return createKernelID(mExportForEachIdx_foreach, 59, null, null);
+    }
+
+    public void forEach_foreach(Allocation ain, Allocation aout) {
+        forEach_foreach(ain, aout, null);
+    }
+
+    public void forEach_foreach(Allocation ain, Allocation aout, Script.LaunchOptions sc) {
+        // check ain
+        if (!ain.getType().getElement().isCompatible(__I32)) {
+            throw new RSRuntimeException("Type mismatch with I32!");
+        }
+        // check aout
+        if (!aout.getType().getElement().isCompatible(__I32)) {
+            throw new RSRuntimeException("Type mismatch with I32!");
+        }
+        Type t0, t1;        // Verify dimensions
+        t0 = ain.getType();
+        t1 = aout.getType();
+        if ((t0.getCount() != t1.getCount()) ||
+            (t0.getX() != t1.getX()) ||
+            (t0.getY() != t1.getY()) ||
+            (t0.getZ() != t1.getZ()) ||
+            (t0.hasFaces()   != t1.hasFaces()) ||
+            (t0.hasMipmaps() != t1.hasMipmaps())) {
+            throw new RSRuntimeException("Dimension mismatch between parameters ain and aout!");
+        }
+
+        forEach(mExportForEachIdx_foreach, ain, aout, null, sc);
     }
 
 }

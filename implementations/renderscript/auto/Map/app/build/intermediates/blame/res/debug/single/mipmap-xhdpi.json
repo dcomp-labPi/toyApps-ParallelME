@@ -36,6 +36,14 @@
         "source": "/home/millas/WorkbenchAndStu/Filter/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     },
     {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
         "merged": "/home/millas/WorkbenchAndStu/Map/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
         "source": "/home/millas/WorkbenchAndStu/Map/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
     },

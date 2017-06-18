@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="br.edu.ufsj.dcomp.map.auto.test" >
+    package="br.edu.ufsj.dcomp.map.auto.render.test" >
 
     <uses-sdk
         android:minSdkVersion="15"
@@ -10,8 +10,8 @@
         android:name="android.support.test.runner.AndroidJUnitRunner"
         android:functionalTest="false"
         android:handleProfiling="false"
-        android:label="Tests for br.edu.ufsj.dcomp.map.auto"
-        android:targetPackage="br.edu.ufsj.dcomp.map.auto" />
+        android:label="Tests for br.edu.ufsj.dcomp.map.auto.render"
+        android:targetPackage="br.edu.ufsj.dcomp.map.auto.render" />
 
     <application>
         <uses-library android:name="android.test.runner" />

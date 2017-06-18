@@ -24,6 +24,10 @@
         "source": "/home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Map/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     },
     {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
         "merged": "/home/labpi/Dropbox/toyApplications/auto/Filter/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
         "source": "/home/labpi/Dropbox/toyApplications/auto/Filter/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     },
@@ -46,6 +50,10 @@
     {
         "merged": "/home/labpi/Documentos/renan/projetos/toyApps/auto/Map/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
         "source": "/home/labpi/Documentos/renan/projetos/toyApps/auto/Map/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     },
     {
         "merged": "/home/millas/WorkbenchAndStu/toyApps/auto/Map/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",

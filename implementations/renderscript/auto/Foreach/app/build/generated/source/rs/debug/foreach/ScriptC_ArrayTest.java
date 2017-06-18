@@ -16,7 +16,7 @@
 
 /*
  * This file is auto-generated. DO NOT MODIFY!
- * The source Renderscript file: /home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Foreach/app/src/main/rs/br/edu/ufsj/dcomp/foreach/ArrayTest.rs
+ * The source Renderscript file: /home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Foreach/app/src/main/rs/br/edu/ufsj/dcomp/foreach/ArrayTest.rs
  */
 
 package foreach;

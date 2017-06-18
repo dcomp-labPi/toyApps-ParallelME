@@ -4,6 +4,10 @@
         "source": "/home/millas/WorkbenchAndStu/Renderscript/Foreach/app/build/generated/res/rs/debug/raw/arraytest.bc"
     },
     {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Foreach/app/build/intermediates/res/merged/debug/raw/arraytest.bc",
+        "source": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Foreach/app/build/generated/res/rs/debug/raw/arraytest.bc"
+    },
+    {
         "merged": "/home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Foreach/app/build/intermediates/res/merged/debug/raw/arraytest.bc",
         "source": "/home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Foreach/app/build/generated/res/rs/debug/raw/arraytest.bc"
     }

@@ -2,5 +2,9 @@
     {
         "merged": "/home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/raw/arraytest.bc",
         "source": "/home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Map/app/build/generated/res/rs/debug/raw/arraytest.bc"
+    },
+    {
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/raw/arraytest.bc",
+        "source": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/build/generated/res/rs/debug/raw/arraytest.bc"
     }
 ]
