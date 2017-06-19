@@ -16,13 +16,13 @@
 
 /*
  * This file is auto-generated. DO NOT MODIFY!
- * The source Renderscript file: /home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Reduce/app/src/main/rs/br/edu/ufsj/dcomp/reduce/ArrayTest.rs
+ * The source Renderscript file: /home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/auto/Reduce/app/src/main/rs/br/edu/ufsj/dcomp/reduce/ArrayTest.rs
  */
 
 package br.edu.ufsj.dcomp.reduce;
 
 import android.support.v8.renderscript.*;
-import android.content.res.Resources;
+import br.edu.ufsj.dcomp.reduce.ArrayTestBitCode;
 
 /**
  * @hide
@@ -31,15 +31,10 @@ public class ScriptC_ArrayTest extends ScriptC {
     private static final String __rs_resource_name = "arraytest";
     // Constructor
     public  ScriptC_ArrayTest(RenderScript rs) {
-        this(rs,
-             rs.getApplicationContext().getResources(),
-             rs.getApplicationContext().getResources().getIdentifier(
-                 __rs_resource_name, "raw",
-                 rs.getApplicationContext().getPackageName()));
-    }
-
-    public  ScriptC_ArrayTest(RenderScript rs, Resources resources, int id) {
-        super(rs, resources, id);
+        super(rs,
+              __rs_resource_name,
+              ArrayTestBitCode.getBitCode32(),
+              ArrayTestBitCode.getBitCode64());
         __ALLOCATION = Element.ALLOCATION(rs);
         __I32 = Element.I32(rs);
     }
@@ -111,6 +106,10 @@ public class ScriptC_ArrayTest extends ScriptC {
     }
 
     private final static int mExportFuncIdx_reduce1 = 0;
+    public Script.InvokeID getInvokeID_reduce1() {
+        return createInvokeID(mExportFuncIdx_reduce1);
+    }
+
     public void invoke_reduce1() {
         invoke(mExportFuncIdx_reduce1);
     }

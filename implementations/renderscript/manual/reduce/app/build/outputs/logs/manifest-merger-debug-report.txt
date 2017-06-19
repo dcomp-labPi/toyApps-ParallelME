@@ -1,87 +1,87 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml:2:1-21:12
+ADDED from /home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml:2:1-21:12
 	package
-		ADDED from /home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml:3:11-46
-		INJECTED from /home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml
-		INJECTED from /home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml
+		ADDED from /home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml:3:11-45
+		INJECTED from /home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml
+		INJECTED from /home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml
-		INJECTED from /home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml
+		INJECTED from /home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml
+		INJECTED from /home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from /home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml
-		INJECTED from /home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml
+		INJECTED from /home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml
+		INJECTED from /home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml
 application
-ADDED from /home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml:5:5-19:19
-MERGED from [com.android.support:appcompat-v7:25.3.1] /home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:25.3.1] /home/rcarvs/.android/build-cache/148833bac278536788b537b219b6f091e06a636b/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] /home/rcarvs/.android/build-cache/2a61bfe25fdd08ff3742a908deeff6c022a2d437/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] /home/rcarvs/.android/build-cache/b250b8a0e5280f08246b7a31e9965ec458d09aa3/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] /home/rcarvs/.android/build-cache/fd9c170630942248161bfd654aa8074ef61b2a58/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] /home/rcarvs/.android/build-cache/18ca50a58ad39c93f88189c30230ae9a953f6a4f/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/rcarvs/.android/build-cache/2b3dc2618f7417f61794c8c89309e8e6e2b6f415/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/rcarvs/.android/build-cache/b1f051d55d52e8d654ec94560ed3b9eab3f25134/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-compat:25.3.1] /home/rcarvs/.android/build-cache/6803f5d5019af8646340b339b23c346e48a45e25/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/rcarvs/.android/build-cache/f0f7c84e10977332e5c426c1a191989d38753894/output/AndroidManifest.xml:9:5-20
+ADDED from /home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/labpi/.android/build-cache/5df6bb49ce658a3521b62a77b71f8b1acd423ba9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/labpi/.android/build-cache/31f3f931cc5007999f262184f7432c0da269a967/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/labpi/.android/build-cache/a972bc0d3ab24f24a738a8bb2dbc9e589ba9431f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/labpi/.android/build-cache/2b35d79f5d42032263e7020c166cdc1f6cc76522/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/labpi/.android/build-cache/94df0ce31714fb2843e2455d246585d7d7a586af/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/labpi/.android/build-cache/d6cfa09671dc04db4fc460a72428442ba468d12f/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/labpi/.android/build-cache/07558c0343a2f221f89772a6dbcd17764a8d2fcd/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/labpi/.android/build-cache/2142f375ee1493897c99af3090cfd2cfa50ce84a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/labpi/.android/build-cache/df3ac126385e48f5271b17e4d262b81421be0b8c/output/AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from /home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml:8:9-41
 	android:supportsRtl
-		ADDED from /home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml:10:9-35
 	android:roundIcon
-		ADDED from /home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml:9:9-54
 	android:allowBackup
-		ADDED from /home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml:6:9-35
 	android:icon
-		ADDED from /home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml:7:9-43
 	android:theme
-		ADDED from /home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml:11:9-40
-activity#br.edu.ufsj.dcomp.foreach.MainActivity
-ADDED from /home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml:12:9-18:20
+		ADDED from /home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml:11:9-40
+activity#br.edu.ufsj.dcomp.reduce.MainActivity
+ADDED from /home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from /home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml:12:19-47
+		ADDED from /home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml:12:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml:13:13-17:29
+ADDED from /home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from /home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml:14:17-68
+ADDED from /home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml:14:17-68
 	android:name
-		ADDED from /home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml:14:25-66
+		ADDED from /home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml:16:17-76
+ADDED from /home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml:16:17-76
 	android:name
-		ADDED from /home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml:16:27-74
+		ADDED from /home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml:16:27-74
 uses-sdk
-INJECTED from /home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:25.3.1] /home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.3.1] /home/rcarvs/.android/build-cache/148833bac278536788b537b219b6f091e06a636b/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] /home/rcarvs/.android/build-cache/2a61bfe25fdd08ff3742a908deeff6c022a2d437/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] /home/rcarvs/.android/build-cache/b250b8a0e5280f08246b7a31e9965ec458d09aa3/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] /home/rcarvs/.android/build-cache/fd9c170630942248161bfd654aa8074ef61b2a58/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] /home/rcarvs/.android/build-cache/18ca50a58ad39c93f88189c30230ae9a953f6a4f/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/rcarvs/.android/build-cache/2b3dc2618f7417f61794c8c89309e8e6e2b6f415/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/rcarvs/.android/build-cache/b1f051d55d52e8d654ec94560ed3b9eab3f25134/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-compat:25.3.1] /home/rcarvs/.android/build-cache/6803f5d5019af8646340b339b23c346e48a45e25/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/rcarvs/.android/build-cache/f0f7c84e10977332e5c426c1a191989d38753894/output/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /home/labpi/.android/build-cache/5df6bb49ce658a3521b62a77b71f8b1acd423ba9/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/labpi/.android/build-cache/31f3f931cc5007999f262184f7432c0da269a967/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/labpi/.android/build-cache/a972bc0d3ab24f24a738a8bb2dbc9e589ba9431f/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/labpi/.android/build-cache/2b35d79f5d42032263e7020c166cdc1f6cc76522/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/labpi/.android/build-cache/94df0ce31714fb2843e2455d246585d7d7a586af/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/labpi/.android/build-cache/d6cfa09671dc04db4fc460a72428442ba468d12f/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/labpi/.android/build-cache/07558c0343a2f221f89772a6dbcd17764a8d2fcd/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /home/labpi/.android/build-cache/2142f375ee1493897c99af3090cfd2cfa50ce84a/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/labpi/.android/build-cache/df3ac126385e48f5271b17e4d262b81421be0b8c/output/AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from /home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml
-		INJECTED from /home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml
+		INJECTED from /home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml
+		INJECTED from /home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml
-		INJECTED from /home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml
+		INJECTED from /home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml
+		INJECTED from /home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/reduce/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:25.3.1] /home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-v4:25.3.1] /home/rcarvs/.android/build-cache/148833bac278536788b537b219b6f091e06a636b/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] /home/rcarvs/.android/build-cache/2a61bfe25fdd08ff3742a908deeff6c022a2d437/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] /home/rcarvs/.android/build-cache/b250b8a0e5280f08246b7a31e9965ec458d09aa3/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] /home/rcarvs/.android/build-cache/fd9c170630942248161bfd654aa8074ef61b2a58/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] /home/rcarvs/.android/build-cache/18ca50a58ad39c93f88189c30230ae9a953f6a4f/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/rcarvs/.android/build-cache/2b3dc2618f7417f61794c8c89309e8e6e2b6f415/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/rcarvs/.android/build-cache/b1f051d55d52e8d654ec94560ed3b9eab3f25134/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-compat:25.3.1] /home/rcarvs/.android/build-cache/6803f5d5019af8646340b339b23c346e48a45e25/output/AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:appcompat-v7:25.3.1] /home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/labpi/.android/build-cache/5df6bb49ce658a3521b62a77b71f8b1acd423ba9/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/labpi/.android/build-cache/31f3f931cc5007999f262184f7432c0da269a967/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/labpi/.android/build-cache/a972bc0d3ab24f24a738a8bb2dbc9e589ba9431f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/labpi/.android/build-cache/2b35d79f5d42032263e7020c166cdc1f6cc76522/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/labpi/.android/build-cache/94df0ce31714fb2843e2455d246585d7d7a586af/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/labpi/.android/build-cache/d6cfa09671dc04db4fc460a72428442ba468d12f/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/labpi/.android/build-cache/07558c0343a2f221f89772a6dbcd17764a8d2fcd/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/labpi/.android/build-cache/2142f375ee1493897c99af3090cfd2cfa50ce84a/output/AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/AndroidManifest.xml:26:9-47

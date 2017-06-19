@@ -15,9 +15,16 @@ using namespace parallelme;
 struct NativeData{
     std::shared_ptr<Runtime> runtime;
     std::shared_ptr<Program> program;
+    std::shared_ptr<Buffer> vectorBuffer;
+    std::shared_ptr<Buffer> sizeBuffer;
+    std::shared_ptr<Buffer> lnBuffer;
+    std::shared_ptr<Buffer> resultBuffer;
+    std::shared_ptr<Buffer> outSizeBuffer;
+    std::shared_ptr<Buffer> outputBuffer;
+    int outputSize = 0;
     int testSize = 0;
 };
-const static char gKernels[] = "__kernel void compare(uint *inputVector,uint *inputSize,uint *lnOfSize,uint *output){ uint id = get_global_id(0); uint end = (((id*lnOfSize[0])+lnOfSize[0]) > inputSize[0])?inputSize[0]:((id*lnOfSize[0])+lnOfSize[0]); uint n1 = inputVector[id*lnOfSize[0]]; for(uint i=(id*lnOfSize[0]);i<end;i++){ if(inputVector[i] > n1){ n1 = inputVector[i]; } } output[id] = n1; } __kernel void reduce(uint *inputVector,uint *inputSize,uint *result){ result[0] = 0; for(uint i=0;i<inputSize[0];i++){ if(inputVector[i] > result[0]){ result[0] = inputVector[i]; } } }";
+const static char gKernels[] = "__kernel void compare(__global uint *inputVector,__global uint *inputSize,__global uint *lnOfSize,__global uint *output){ uint id = get_global_id(0); uint end = (((id*lnOfSize[0])+lnOfSize[0]) > inputSize[0])?inputSize[0]:((id*lnOfSize[0])+lnOfSize[0]); uint n1 = inputVector[id*lnOfSize[0]]; for(uint i=(id*lnOfSize[0]);i<end;i++){ if(inputVector[i] > n1){ n1 = inputVector[i]; } } output[id] = n1; } __kernel void reduce(__global uint *inputVector,__global uint *inputSize,__global uint *result){ result[0] = 0; for(uint i=0;i<inputSize[0];i++){ if(inputVector[i] > result[0]){ result[0] = inputVector[i]; } } }";
 
 
 void generateVector(int size, int *vector){
@@ -40,6 +47,36 @@ JNIEXPORT jlong JNICALL Java_br_edu_ufsj_dcomp_reduce_Operation_nativeInit(JNIEn
     dataPointer->runtime = std::make_shared<Runtime>(jvm);
     dataPointer->program = std::make_shared<Program>(dataPointer->runtime,gKernels);
     dataPointer->testSize = (int) size;
+
+    int *vector = (int*) malloc(sizeof(int)*dataPointer->testSize);
+    //int result = 0;
+    generateVector(dataPointer->testSize,vector);
+
+    int lnOfSize = (int) log2f(dataPointer->testSize);
+    //__android_log_print(ANDROID_LOG_ERROR, "Print Debug", "lnOfSize = %d",lnOfSize);
+    dataPointer->vectorBuffer = std::make_shared<Buffer>(sizeof(int)*dataPointer->testSize);
+    dataPointer->vectorBuffer->setSource(vector);
+    dataPointer->sizeBuffer = std::make_shared<Buffer>(sizeof(int));
+    dataPointer->sizeBuffer->setSource(&dataPointer->testSize);
+    dataPointer->lnBuffer = std::make_shared<Buffer>(sizeof(int));
+    dataPointer->lnBuffer->setSource(&lnOfSize);
+    dataPointer->resultBuffer = std::make_shared<Buffer>(sizeof(int));
+    unsigned int result = 0;
+    dataPointer->resultBuffer->setSource(&result);
+    dataPointer->outSizeBuffer = std::make_shared<Buffer>(sizeof(int));
+    int outSize = (int)(dataPointer->testSize/lnOfSize);
+    //__android_log_print(ANDROID_LOG_ERROR, "Print Debug", "lnOfSize = %d outSize = %d",lnOfSize,outSize);
+    while((outSize*lnOfSize) < dataPointer->testSize){
+        outSize++;
+    }
+    dataPointer->outputSize = outSize;
+    dataPointer->outSizeBuffer->setSource(&outSize);
+
+    dataPointer->outputBuffer = std::make_shared<Buffer>(sizeof(int)*outSize);
+    int *outputVector = (int*) malloc(sizeof(int)*outSize);
+    dataPointer->outputBuffer->setSource(outputVector);
+
+
     return (jlong) dataPointer;
 }
 
@@ -47,32 +84,6 @@ JNIEXPORT void JNICALL Java_br_edu_ufsj_dcomp_reduce_Operation_process(JNIEnv *e
     auto dataPointer = (NativeData *) dataPointerLong;
     JavaVM *jvm;
     env->GetJavaVM(&jvm);
-    int *vector = (int*) malloc(sizeof(int)*dataPointer->testSize);
-    //int result = 0;
-    generateVector(dataPointer->testSize,vector);
-
-    int lnOfSize = (int) log2f(dataPointer->testSize);
-    //__android_log_print(ANDROID_LOG_ERROR, "Print Debug", "lnOfSize = %d",lnOfSize);
-    auto vectorBuffer = std::make_shared<Buffer>(sizeof(int)*dataPointer->testSize);
-    vectorBuffer->setSource(vector);
-    auto sizeBuffer = std::make_shared<Buffer>(sizeof(int));
-    sizeBuffer->setSource(&dataPointer->testSize);
-    auto lnBuffer = std::make_shared<Buffer>(sizeof(int));
-    lnBuffer->setSource(&lnOfSize);
-    auto resultBuffer = std::make_shared<Buffer>(sizeof(int));
-    unsigned int result = 0;
-    resultBuffer->setSource(&result);
-    auto outSizeBuffer = std::make_shared<Buffer>(sizeof(int));
-    int outSize = (int)(dataPointer->testSize/lnOfSize);
-    __android_log_print(ANDROID_LOG_ERROR, "Print Debug", "lnOfSize = %d outSize = %d",lnOfSize,outSize);
-    while((outSize*lnOfSize) < dataPointer->testSize){
-        outSize++;
-    }
-    outSizeBuffer->setSource(&outSize);
-
-    auto outputBuffer = std::make_shared<Buffer>(sizeof(int)*outSize);
-    int *outputVector = (int*) malloc(sizeof(int)*outSize);
-    outputBuffer->setSource(outputVector);
 
 
     auto task = std::make_unique<Task>(dataPointer->program);
@@ -81,25 +92,25 @@ JNIEXPORT void JNICALL Java_br_edu_ufsj_dcomp_reduce_Operation_process(JNIEnv *e
     task->setConfigFunction([=] (parallelme::DevicePtr &device, parallelme::KernelHash &kernelHash) {
             device = device;
             kernelHash["compare"]
-            ->setArg(0, vectorBuffer)
-            ->setArg(1, sizeBuffer)
-            ->setArg(2, lnBuffer)
-            ->setArg(3, outputBuffer)
-            ->setWorkSize(outSize);
+            ->setArg(0, dataPointer->vectorBuffer)
+            ->setArg(1, dataPointer->sizeBuffer)
+            ->setArg(2, dataPointer->lnBuffer)
+            ->setArg(3, dataPointer->outputBuffer)
+            ->setWorkSize(dataPointer->outputSize);
             kernelHash["reduce"]
-            ->setArg(0, outputBuffer)
-            ->setArg(1, outSizeBuffer)
-            ->setArg(2, resultBuffer)
+            ->setArg(0, dataPointer->outputBuffer)
+            ->setArg(1, dataPointer->outSizeBuffer)
+            ->setArg(2, dataPointer->resultBuffer)
             ->setWorkSize(1);
 
 
     });
     dataPointer->runtime->submitTask(std::move(task));
     dataPointer->runtime->finish();
-    resultBuffer->copyTo(&result);
+    //resultBuffer->copyTo(&result);
     //printVector(outSize,outputVector);
     //resultBuffer->copyTo(&result);
-    __android_log_print(ANDROID_LOG_ERROR, "Print Debug", "result = %d",result);
+    //__android_log_print(ANDROID_LOG_ERROR, "Print Debug", "result = %d",result);
     //printVector(dataPointer->testSize,vector);
 /*
     //inicializo os buffers

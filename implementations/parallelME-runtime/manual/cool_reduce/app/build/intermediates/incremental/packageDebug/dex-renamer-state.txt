@@ -1,4 +1,4 @@
-#Wed Jun 14 16:59:18 BRT 2017
-base.0=/home/labpi/Documentos/renan/projetos/toyApps/manual/cool_reduce/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Mon Jun 19 10:57:58 BRT 2017
+base.0=/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/manual/cool_reduce/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.0=/home/labpi/Documentos/renan/projetos/toyApps/manual/cool_reduce/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.0=/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/manual/cool_reduce/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

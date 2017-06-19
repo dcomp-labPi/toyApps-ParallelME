@@ -1,15 +1,15 @@
 [
     {
-        "merged": "/home/labpi/Documentos/renan/projetos/toyAplications/map/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
-        "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/drawable-v21/abc_btn_colored_material.xml"
+        "merged": "/home/labpi/Documentos/renan/projetos/toyApps/manual/reduce/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/drawable-v21/abc_edit_text_material.xml"
     },
     {
         "merged": "/home/labpi/Documentos/renan/projetos/toyAplications/reduce/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
         "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "/home/labpi/Documentos/renan/projetos/toyApps/manual/reduce/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
-        "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/drawable-v21/abc_edit_text_material.xml"
+        "merged": "/home/labpi/Documentos/renan/projetos/toyAplications/map/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/drawable-v21/abc_btn_colored_material.xml"
     },
     {
         "merged": "/home/labpi/Documentos/renan/projetos/toyAplications/map/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
@@ -40,6 +40,10 @@
         "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/drawable-v21/abc_btn_colored_material.xml"
     },
     {
+        "merged": "/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/manual/cool_reduce/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
         "merged": "/home/labpi/Documentos/renan/projetos/toyAplications/reduce/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
         "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/drawable-v21/abc_btn_colored_material.xml"
     },
@@ -48,8 +52,16 @@
         "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/drawable-v21/abc_btn_colored_material.xml"
     },
     {
+        "merged": "/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/manual/cool_reduce/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
         "merged": "/home/labpi/Documentos/renan/projetos/toyApps/manual/reduce/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
         "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/manual/cool_reduce/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/drawable-v21/abc_btn_colored_material.xml"
     },
     {
         "merged": "/home/labpi/Documentos/renan/projetos/toyAplications/reduce/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
@@ -86,6 +98,10 @@
     {
         "merged": "/home/labpi/Documentos/renan/projetos/toyAplications/foreach/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
         "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/manual/cool_reduce/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/drawable-v21/notification_action_background.xml"
     },
     {
         "merged": "/home/labpi/Documentos/renan/projetos/toyAplications/foreach/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",

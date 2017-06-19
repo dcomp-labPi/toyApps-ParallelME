@@ -2,13 +2,22 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="/home/rcarvs/Android/Sdk/build-tools/25.0.2/renderscript/lib/renderscript-v8.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/reduce/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="05668b8cd6c7b07f152b6a5b4c6cff620817ba0f">
-        <dex dex="/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/manual/foreach/app/build/intermediates/pre-dexed/debug/renderscript-v8_6dc0bd444986a8210ec940b1f060ae04698325e9.jar" />
+        sha1="6ae5b5b54119def64df4e517cc5712f276d8ab63">
+        <dex dex="/home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/reduce/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_91b2ebc5112905a663d3681370d36515f4872a73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/reduce/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/reduce/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d79005caa5598433e9bdcd0981d6e8742ef18006/classes.dex" />
     </item>
 
 </items>

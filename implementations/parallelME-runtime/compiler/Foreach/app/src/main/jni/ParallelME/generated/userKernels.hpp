@@ -23,7 +23,5 @@ const char userKernels[] =
 	"   int PM_gid = get_global_id(0);\n"
 	"	PM_data[PM_gid] = foreach1_func(PM_data[PM_gid]);\n"
 	"}\n"
-	"\n"
-	"\n"
 	"\n";
 #endif

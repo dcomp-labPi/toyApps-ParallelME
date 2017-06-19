@@ -8,6 +8,10 @@
         "source": "/home/labpi/Documentos/renan/projetos/toyApps/auto/Foreach/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
+        "merged": "/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/compiler/Foreach/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/compiler/Foreach/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
         "merged": "/home/millas/WorkbenchAndStu/Foreach/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
         "source": "/home/millas/WorkbenchAndStu/Foreach/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
     },
@@ -18,6 +22,10 @@
     {
         "merged": "/home/millas/WorkbenchAndStu/Foreach/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
         "source": "/home/millas/WorkbenchAndStu/Foreach/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/compiler/Foreach/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/compiler/Foreach/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
         "merged": "/home/millas/WorkbenchAndStu/Filter/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",

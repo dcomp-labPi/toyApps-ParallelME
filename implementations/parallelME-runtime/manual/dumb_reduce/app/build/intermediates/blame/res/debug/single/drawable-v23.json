@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/manual/dumb_reduce/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
         "merged": "/home/labpi/Documentos/renan/projetos/toyAplications/reduce/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
         "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/drawable-v23/abc_control_background_material.xml"
     },

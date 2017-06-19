@@ -16,13 +16,13 @@
 
 /*
  * This file is auto-generated. DO NOT MODIFY!
- * The source Renderscript file: /home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/manual/reduce/app/src/main/rs/operation.rs
+ * The source Renderscript file: /home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/reduce/app/src/main/rs/operation.rs
  */
 
 package br.edu.ufsj.dcomp.reduce;
 
 import android.support.v8.renderscript.*;
-import android.content.res.Resources;
+import br.edu.ufsj.dcomp.reduce.operationBitCode;
 
 /**
  * @hide
@@ -31,51 +31,87 @@ public class ScriptC_operation extends ScriptC {
     private static final String __rs_resource_name = "operation";
     // Constructor
     public  ScriptC_operation(RenderScript rs) {
-        this(rs,
-             rs.getApplicationContext().getResources(),
-             rs.getApplicationContext().getResources().getIdentifier(
-                 __rs_resource_name, "raw",
-                 rs.getApplicationContext().getPackageName()));
-    }
-
-    public  ScriptC_operation(RenderScript rs, Resources resources, int id) {
-        super(rs, resources, id);
+        super(rs,
+              __rs_resource_name,
+              operationBitCode.getBitCode32(),
+              operationBitCode.getBitCode64());
+        __ALLOCATION = Element.ALLOCATION(rs);
         __I32 = Element.I32(rs);
     }
 
+    private Element __ALLOCATION;
     private Element __I32;
+    private FieldPacker __rs_fp_ALLOCATION;
+    private final static int mExportVarIdx_input = 0;
+    private Allocation mExportVar_input;
+    public synchronized void set_input(Allocation v) {
+        setVar(mExportVarIdx_input, v);
+        mExportVar_input = v;
+    }
+
+    public Allocation get_input() {
+        return mExportVar_input;
+    }
+
+    public Script.FieldID getFieldID_input() {
+        return createFieldID(mExportVarIdx_input, null);
+    }
+
+    private final static int mExportVarIdx_menor = 1;
+    private Allocation mExportVar_menor;
+    public synchronized void set_menor(Allocation v) {
+        setVar(mExportVarIdx_menor, v);
+        mExportVar_menor = v;
+    }
+
+    public Allocation get_menor() {
+        return mExportVar_menor;
+    }
+
+    public Script.FieldID getFieldID_menor() {
+        return createFieldID(mExportVarIdx_menor, null);
+    }
+
+    private final static int mExportVarIdx_output = 2;
+    private Allocation mExportVar_output;
+    public synchronized void set_output(Allocation v) {
+        setVar(mExportVarIdx_output, v);
+        mExportVar_output = v;
+    }
+
+    public Allocation get_output() {
+        return mExportVar_output;
+    }
+
+    public Script.FieldID getFieldID_output() {
+        return createFieldID(mExportVarIdx_output, null);
+    }
+
     //private final static int mExportForEachIdx_root = 0;
-    private final static int mExportForEachIdx_reduce = 1;
-    public Script.KernelID getKernelID_reduce() {
-        return createKernelID(mExportForEachIdx_reduce, 59, null, null);
+    private final static int mExportForEachIdx_reduce1_tile = 1;
+    public Script.KernelID getKernelID_reduce1_tile() {
+        return createKernelID(mExportForEachIdx_reduce1_tile, 42, null, null);
     }
 
-    public void forEach_reduce(Allocation ain, Allocation aout) {
-        forEach_reduce(ain, aout, null);
+    public void forEach_reduce1_tile(Allocation aout) {
+        forEach_reduce1_tile(aout, null);
     }
 
-    public void forEach_reduce(Allocation ain, Allocation aout, Script.LaunchOptions sc) {
-        // check ain
-        if (!ain.getType().getElement().isCompatible(__I32)) {
-            throw new RSRuntimeException("Type mismatch with I32!");
-        }
+    public void forEach_reduce1_tile(Allocation aout, Script.LaunchOptions sc) {
         // check aout
         if (!aout.getType().getElement().isCompatible(__I32)) {
             throw new RSRuntimeException("Type mismatch with I32!");
         }
-        Type t0, t1;        // Verify dimensions
-        t0 = ain.getType();
-        t1 = aout.getType();
-        if ((t0.getCount() != t1.getCount()) ||
-            (t0.getX() != t1.getX()) ||
-            (t0.getY() != t1.getY()) ||
-            (t0.getZ() != t1.getZ()) ||
-            (t0.hasFaces()   != t1.hasFaces()) ||
-            (t0.hasMipmaps() != t1.hasMipmaps())) {
-            throw new RSRuntimeException("Dimension mismatch between parameters ain and aout!");
-        }
+        forEach(mExportForEachIdx_reduce1_tile, (Allocation) null, aout, null, sc);
+    }
 
-        forEach(mExportForEachIdx_reduce, ain, aout, null, sc);
+    private final static int mExportFuncIdx_reduce1 = 0;
+    public Script.InvokeID getInvokeID_reduce1() {
+        return createInvokeID(mExportFuncIdx_reduce1);
+    }
+
+    public void invoke_reduce1() {
+        invoke(mExportFuncIdx_reduce1);
     }
 
 }

@@ -10,5 +10,9 @@
     {
         "merged": "/home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Foreach/app/build/intermediates/res/merged/debug/raw/arraytest.bc",
         "source": "/home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Foreach/app/build/generated/res/rs/debug/raw/arraytest.bc"
+    },
+    {
+        "merged": "/home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/auto/Foreach/app/build/intermediates/res/merged/debug/raw/arraytest.bc",
+        "source": "/home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/auto/Foreach/app/build/generated/res/rs/debug/raw/arraytest.bc"
     }
 ]

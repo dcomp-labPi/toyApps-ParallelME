@@ -9,14 +9,14 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
-
+    
     RenderScript mRender;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         mRender = RenderScript.create(this);
-        Button btnExecutar = (Button) findViewById(.id.btnExecutar);
+        Button btnExecutar = (Button) findViewById(R.id.btnExecutar);
         final EditText editTextInputSize = (EditText) findViewById(R.id.editTextInputSize);
 
         final TextView result = (TextView) findViewById(R.id.tvResultados);

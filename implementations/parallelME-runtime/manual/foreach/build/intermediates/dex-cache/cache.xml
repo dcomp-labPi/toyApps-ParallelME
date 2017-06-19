@@ -3,129 +3,111 @@
 
     <item
         is-multidex="true"
-        jar="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
+        jar="/home/labpi/.android/build-cache/2142f375ee1493897c99af3090cfd2cfa50ce84a/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
-        <dex dex="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7289189712997f8a3f5c0b3eb3b855dd84a812ab/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/labpi/.android/build-cache/07558c0343a2f221f89772a6dbcd17764a8d2fcd/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fbce2eacd62adf1d4d6320634e4be5f42a200d3a/classes.dex" />
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/manual/foreach/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9ed3798dc7b0dee056ff19f6184ee8788049517a/classes.dex" />
     </item>
     <item
         is-multidex="true"
         jar="/home/labpi/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_36e9b4e3e5222ab9337969773e1c428ca44f5505/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/labpi/.android/build-cache/5df6bb49ce658a3521b62a77b71f8b1acd423ba9/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4f086d4b8ec3fc04fa13dc8b896ff47e54c85237/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/labpi/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_1961af3705b91a836e6b6ccade4ed583493065c0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/labpi/.android/build-cache/d6cfa09671dc04db4fc460a72428442ba468d12f/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_683b5be7dbefef8e9d034e52b234fa98b1bdbb3a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/labpi/.android/build-cache/94df0ce31714fb2843e2455d246585d7d7a586af/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_be889e23e480f5f2cf6bd81dae388b2e08e08adc/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/labpi/.android/build-cache/2142f375ee1493897c99af3090cfd2cfa50ce84a/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9ed3798dc7b0dee056ff19f6184ee8788049517a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/labpi/.android/build-cache/31f3f931cc5007999f262184f7432c0da269a967/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a1616239ce3e154a3eb27db78180d7ae1dab9d51/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/labpi/.android/build-cache/df3ac126385e48f5271b17e4d262b81421be0b8c/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3816605ad60cef403518e8fcb547c856ee76df10/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="54c9f45e423a495d962aef020427c77bf7cb22d4">
-        <dex dex="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_48eed534a1d2d70fd61e239dad3f586e95205873/classes.dex" />
+        <dex dex="/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/manual/foreach/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_36e9b4e3e5222ab9337969773e1c428ca44f5505/classes.dex" />
     </item>
     <item
         is-multidex="true"
         jar="/home/labpi/.android/build-cache/2b35d79f5d42032263e7020c166cdc1f6cc76522/output/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b69c805e8c1813e629a9ca005315e6ec132278c7/classes.dex" />
+        <dex dex="/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/manual/foreach/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b69c805e8c1813e629a9ca005315e6ec132278c7/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/labpi/.android/build-cache/a972bc0d3ab24f24a738a8bb2dbc9e589ba9431f/output/jars/classes.jar"
-        jumboMode="true"
+        jar="/home/labpi/.android/build-cache/df3ac126385e48f5271b17e4d262b81421be0b8c/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2c14c309f7f27b089b2d44cdd7c249fa6f577a70/classes.dex" />
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/manual/foreach/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3816605ad60cef403518e8fcb547c856ee76df10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/labpi/.android/build-cache/d6cfa09671dc04db4fc460a72428442ba468d12f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/manual/foreach/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_683b5be7dbefef8e9d034e52b234fa98b1bdbb3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/labpi/.android/build-cache/31f3f931cc5007999f262184f7432c0da269a967/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/manual/foreach/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a1616239ce3e154a3eb27db78180d7ae1dab9d51/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/labpi/.android/build-cache/94df0ce31714fb2843e2455d246585d7d7a586af/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/manual/foreach/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_be889e23e480f5f2cf6bd81dae388b2e08e08adc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/labpi/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/manual/foreach/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_1961af3705b91a836e6b6ccade4ed583493065c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/labpi/.android/build-cache/07558c0343a2f221f89772a6dbcd17764a8d2fcd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/manual/foreach/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fbce2eacd62adf1d4d6320634e4be5f42a200d3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/labpi/.android/build-cache/5df6bb49ce658a3521b62a77b71f8b1acd423ba9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/manual/foreach/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4f086d4b8ec3fc04fa13dc8b896ff47e54c85237/classes.dex" />
     </item>
     <item
         is-multidex="true"
         jar="/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_86fccef6c734b8af4747b152621a444cc2bbcb5b/classes.dex" />
+        <dex dex="/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/manual/foreach/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_86fccef6c734b8af4747b152621a444cc2bbcb5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/labpi/.android/build-cache/a972bc0d3ab24f24a738a8bb2dbc9e589ba9431f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/manual/foreach/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2c14c309f7f27b089b2d44cdd7c249fa6f577a70/classes.dex" />
     </item>
 
 </items>

@@ -6,7 +6,7 @@
  #
 ###
 
-APP_ABI := x86 armeabi-v7a #x86_64 arm64-v8a armeabi arm64-v8a x86 x86_64 mips mips64
+APP_ABI := x86 armeabi-v7a arm64-v8a#x86_64 arm64-v8a armeabi arm64-v8a x86 x86_64 mips mips64
 NDK_TOOLCHAIN_VERSION=clang
 APP_STL:=c++_static
 APP_PLATFORM := android-23

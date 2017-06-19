@@ -2,13 +2,13 @@
 <instant-run
     abi="arm64-v8a,armeabi-v7a,armeabi"
     api-level="24"
-    build-mode="COLD"
+    build-mode="FULL"
     density="xxhdpi"
     format="10"
     plugin-version="2.3.2"
-    timestamp="1496840988169"
+    timestamp="1497876321867"
     token="-4933678857539235959"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
@@ -23,50 +23,149 @@
         name="verifier"
         duration="0" />
 
+    <artifact
+        location="/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/manual/foreach/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/manual/foreach/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/manual/foreach/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/manual/foreach/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/manual/foreach/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/manual/foreach/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/manual/foreach/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/manual/foreach/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/manual/foreach/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/manual/foreach/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/manual/foreach/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/manual/foreach/app/build/outputs/apk/app-debug.apk"
+        type="SPLIT_MAIN" />
+
     <build
         build-mode="FULL"
-        timestamp="1496840911471"
+        timestamp="1497876321867"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            location="/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/manual/foreach/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
             location="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            location="/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/manual/foreach/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            location="/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/manual/foreach/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            location="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/manual/foreach/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/manual/foreach/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/manual/foreach/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/manual/foreach/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
             location="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/outputs/apk/app-debug.apk"
+            location="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/manual/foreach/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/manual/foreach/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/manual/foreach/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/manual/foreach/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/manual/foreach/app/build/outputs/apk/app-debug.apk"
             type="SPLIT_MAIN" />
     </build>
-    <build
-        build-mode="COLD"
-        timestamp="1496840988169"
-        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>

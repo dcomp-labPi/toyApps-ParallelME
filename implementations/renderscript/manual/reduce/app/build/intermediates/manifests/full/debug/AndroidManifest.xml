@@ -19,7 +19,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="br.edu.ufsj.dcomp.foreach.MainActivity" >
+        <activity android:name="br.edu.ufsj.dcomp.reduce.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

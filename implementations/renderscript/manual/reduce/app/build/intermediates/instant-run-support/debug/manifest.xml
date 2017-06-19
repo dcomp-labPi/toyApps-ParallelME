@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="br.edu.ufsj.dcomp.filter"
+    package="br.edu.ufsj.dcomp.reduce.manual.render"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -19,7 +19,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="br.edu.ufsj.dcomp.filter.MainActivity" >
+        <activity android:name="br.edu.ufsj.dcomp.reduce.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -29,7 +29,7 @@
 
         <provider
             android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
-            android:authorities="br.edu.ufsj.dcomp.filter.com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:authorities="br.edu.ufsj.dcomp.reduce.manual.render.com.android.tools.fd.runtime.InstantRunContentProvider"
             android:multiprocess="true" />
     </application>
 
