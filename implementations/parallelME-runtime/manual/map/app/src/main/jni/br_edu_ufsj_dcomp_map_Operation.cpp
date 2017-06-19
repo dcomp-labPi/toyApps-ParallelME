@@ -14,6 +14,7 @@ using namespace parallelme;
 struct NativeData{
     std::shared_ptr<Runtime> runtime;
     std::shared_ptr<Program> program;
+    std::shared_ptr<Buffer> buffer;
     int testSize = 0;
 };
 const static char gKernels[] = "__kernel void map(uint *inputVector,uint *outputVector){ uint id = get_global_id(0); outputVector[id] = inputVector[id]*inputVector[id]; }";
@@ -29,12 +30,19 @@ void generateVector(int size, int *vector){
 
 JNIEXPORT jlong JNICALL Java_br_edu_ufsj_dcomp_map_Operation_nativeInit(JNIEnv *env, jobject self,jint size){
     JavaVM *jvm;
+
+    int *vector = (int*) malloc(sizeof(int)*((int)size));
+    generateVector(((int)size),vector);
+
     env->GetJavaVM(&jvm);
     if(!jvm) return (jlong) nullptr;
     auto dataPointer = new NativeData();
+    dataPointer->testSize = (int) size;
     dataPointer->runtime = std::make_shared<Runtime>(jvm);
     dataPointer->program = std::make_shared<Program>(dataPointer->runtime,gKernels);
-    dataPointer->testSize = (int) size;
+    dataPointer->buffer = std::make_shared<Buffer>(sizeof(int)*((int)size));
+
+    dataPointer->buffer->setSource(vector);
     return (jlong) dataPointer;
 }
 
@@ -42,15 +50,9 @@ JNIEXPORT void JNICALL Java_br_edu_ufsj_dcomp_map_Operation_process(JNIEnv *env,
     auto dataPointer = (NativeData *) dataPointerLong;
     JavaVM *jvm;
     env->GetJavaVM(&jvm);
-    int *vector = (int*) malloc(sizeof(int)*dataPointer->testSize);
     int *result = (int*) malloc(sizeof(int)*dataPointer->testSize);
-    generateVector(dataPointer->testSize,vector);
-
-    //printVector(dataPointer->testSize,vector);
 
     //inicializo os buffers
-    auto vectorBuffer = std::make_shared<Buffer>(sizeof(int)*dataPointer->testSize);
-    vectorBuffer->setSource(vector);
     auto resultBuffer = std::make_shared<Buffer>(sizeof(int)*dataPointer->testSize);
     resultBuffer->setSource(result);
 
@@ -60,7 +62,7 @@ JNIEXPORT void JNICALL Java_br_edu_ufsj_dcomp_map_Operation_process(JNIEnv *env,
     task->setConfigFunction([=] (parallelme::DevicePtr &device, parallelme::KernelHash &kernelHash) {
             device = device;
             kernelHash["map"]
-            ->setArg(0, vectorBuffer)
+            ->setArg(0, dataPointer->buffer)
             ->setArg(1, resultBuffer)
             ->setWorkSize(dataPointer->testSize);
     });

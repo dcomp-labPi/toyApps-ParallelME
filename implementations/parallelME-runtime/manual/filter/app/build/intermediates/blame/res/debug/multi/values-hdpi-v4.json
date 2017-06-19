@@ -26,6 +26,32 @@
         ]
     },
     {
+        "outputFile": "/home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/parallelME-runtime/manual/filter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 13,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 13,
+                        "endOffset": 327
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "/home/rcarvs/Dropbox/toyApplications/manual/filter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
         "map": [
             {

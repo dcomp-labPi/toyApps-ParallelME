@@ -14,6 +14,7 @@ using namespace parallelme;
 struct NativeData{
     std::shared_ptr<Runtime> runtime;
     std::shared_ptr<Program> program;
+    std::shared_ptr<Buffer> buffer;
     int testSize = 0;
 };
 const static char gKernels[] = "__kernel void firstFilter(int *inputVector,uint *inputSize){ uint id = get_global_id(0); uint save = 0; for(uint i=0;i<inputSize[0];i++){ if(inputVector[id] > inputVector[i]){ save = 1; } } if(save != 1){ inputVector[id] = -1; } } __kernel void filter(uint *inputVector,uint *inputSize, uint *outputVector,uint *outputSize){ outputSize[0] = 0; for(uint i=0;i<inputSize[0];i++){ if(inputVector[i] == 1){ outputVector[outputSize[0]] = inputVector[i]; outputSize[0] += 1; } } }";
@@ -36,7 +37,15 @@ JNIEXPORT jlong JNICALL Java_br_edu_ufsj_dcomp_filter_Operation_nativeInit(JNIEn
     env->GetJavaVM(&jvm);
     if(!jvm) return (jlong) nullptr;
 
+
     auto dataPointer = new NativeData();
+
+    int *inputVector = (int*) malloc(sizeof(int)*dataPointer->testSize);
+    generateVector((int)size,inputVector);
+
+    dataPointer->buffer = std::make_shared<Buffer>(sizeof(int)*((int)size));
+    dataPointer->buffer->setSource(inputVector);
+
     dataPointer->runtime = std::make_shared<Runtime>(jvm);
     dataPointer->program = std::make_shared<Program>(dataPointer->runtime,gKernels);
     dataPointer->testSize = (int) size;
@@ -47,14 +56,11 @@ JNIEXPORT void JNICALL Java_br_edu_ufsj_dcomp_filter_Operation_process(JNIEnv *e
     auto dataPointer = (NativeData *) dataPointerLong;
     JavaVM *jvm;
     env->GetJavaVM(&jvm);
-    int *inputVector = (int*) malloc(sizeof(int)*dataPointer->testSize);
-    generateVector(dataPointer->testSize,inputVector);
+
     int *outputVector= (int*) malloc(sizeof(int)*dataPointer->testSize);
     //printVector(dataPointer->testSize,vector);
 
     //inicializo os buffers
-    auto vectorBuffer = std::make_shared<Buffer>(sizeof(int)*dataPointer->testSize);
-    vectorBuffer->setSource(inputVector);
     auto vectorSizeBuffer = std::make_shared<Buffer>(sizeof(int));
     vectorSizeBuffer->setSource(&dataPointer->testSize);
     auto outputBuffer = std::make_shared<Buffer>(sizeof(int)*dataPointer->testSize);
@@ -69,11 +75,11 @@ JNIEXPORT void JNICALL Java_br_edu_ufsj_dcomp_filter_Operation_process(JNIEnv *e
     task->setConfigFunction([=] (parallelme::DevicePtr &device, parallelme::KernelHash &kernelHash) {
             device = device;
             kernelHash["firstFilter"]
-            ->setArg(0, vectorBuffer)
+            ->setArg(0, dataPointer->buffer)
             ->setArg(1, vectorSizeBuffer)
             ->setWorkSize(dataPointer->testSize);
             kernelHash["filter"]
-            ->setArg(0, vectorBuffer)
+            ->setArg(0, dataPointer->buffer)
             ->setArg(1, vectorSizeBuffer)
             ->setArg(2, outputBuffer)
             ->setArg(3, outputSizeBuffer)

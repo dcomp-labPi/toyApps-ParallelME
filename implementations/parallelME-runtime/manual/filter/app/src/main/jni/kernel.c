@@ -1,4 +1,4 @@
-__kernel void firstFilter(int *inputVector,uint *inputSize){
+__kernel void firstFilter(__global int *inputVector, __global uint *inputSize){
     uint id = get_global_id(0);
     uint save = 0;
     for(uint i=0;i<inputSize[0];i++){
