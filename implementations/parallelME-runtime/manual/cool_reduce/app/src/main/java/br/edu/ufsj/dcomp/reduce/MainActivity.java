@@ -17,7 +17,6 @@ public class MainActivity extends AppCompatActivity {
         final EditText editTextInputSize = (EditText) findViewById(R.id.editTextInputSize);
 
         final TextView result = (TextView) findViewById(R.id.tvResultados);
-
         btnExecutar.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -28,12 +27,12 @@ public class MainActivity extends AppCompatActivity {
                 long startTotalTime = System.currentTimeMillis();
                 result.setText(result.getText().toString()+"Structure initialization: ");
                 long timeStart = System.currentTimeMillis();
-                Operation operation = new Operation(testSize);
+                Operation operation = new Operation();
                 long timeEnd = System.currentTimeMillis();
                 result.setText(result.getText().toString()+String.valueOf(timeEnd-timeStart)+"ms\n");
                 result.setText(result.getText().toString()+"Operation Execution ");
                 timeStart = System.currentTimeMillis();
-                operation.callProcess();
+                operation.callProcess(testSize);
                 timeEnd = System.currentTimeMillis();
                 result.setText(result.getText().toString()+String.valueOf(timeEnd-timeStart)+"ms\n");
                 long endTotalTime = System.currentTimeMillis();

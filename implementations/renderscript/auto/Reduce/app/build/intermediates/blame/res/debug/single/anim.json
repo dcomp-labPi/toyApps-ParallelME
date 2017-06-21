@@ -36,12 +36,12 @@
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/anim/abc_slide_in_bottom.xml"
     },
     {
-        "merged": "/home/labpi/Documentos/renan/projetos/toyApps/auto/Reduce/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
-        "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/anim/abc_popup_exit.xml"
-    },
-    {
         "merged": "/home/millas/WorkbenchAndStu/Filter/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/labpi/Documentos/renan/projetos/toyApps/auto/Reduce/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/anim/abc_popup_exit.xml"
     },
     {
         "merged": "/home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Reduce/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",

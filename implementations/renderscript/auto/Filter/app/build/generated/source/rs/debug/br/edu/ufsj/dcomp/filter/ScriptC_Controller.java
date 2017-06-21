@@ -118,6 +118,21 @@ public class ScriptC_Controller extends ScriptC {
         return createFieldID(mExportVarIdx_PM_gOutputXSizeFilter1, null);
     }
 
+    private final static int mExportVarIdx_PM_gSizeInFilter1 = 5;
+    private int mExportVar_PM_gSizeInFilter1;
+    public synchronized void set_PM_gSizeInFilter1(int v) {
+        setVar(mExportVarIdx_PM_gSizeInFilter1, v);
+        mExportVar_PM_gSizeInFilter1 = v;
+    }
+
+    public int get_PM_gSizeInFilter1() {
+        return mExportVar_PM_gSizeInFilter1;
+    }
+
+    public Script.FieldID getFieldID_PM_gSizeInFilter1() {
+        return createFieldID(mExportVarIdx_PM_gSizeInFilter1, null);
+    }
+
     //private final static int mExportForEachIdx_root = 0;
     private final static int mExportForEachIdx_filter1_tile = 1;
     public Script.KernelID getKernelID_filter1_tile() {

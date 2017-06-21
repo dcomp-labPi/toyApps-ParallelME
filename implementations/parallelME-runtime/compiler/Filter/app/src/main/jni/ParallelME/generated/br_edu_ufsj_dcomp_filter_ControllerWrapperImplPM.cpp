@@ -20,26 +20,17 @@
 using namespace parallelme;
 
 JNIEXPORT jlong JNICALL Java_br_edu_ufsj_dcomp_filter_ControllerWrapperImplPM_filter1
-		(JNIEnv *env, jobject self, jlong PM_runtime, jlong PM_data, int sizeIn, jintArray vectorIn) {
+		(JNIEnv *env, jobject self, jlong PM_runtime, jlong PM_data, int sizeIn) {
 	auto PM_runtimePtr = (ParallelMERuntimeData *) PM_runtime;
 	auto PM_dataPtr = (ArrayData *) PM_data;
 	auto PM_task = std::make_unique<Task>(PM_runtimePtr->program);
 	auto PM_tileBuffer = std::make_shared<Buffer>(sizeof(int) * PM_dataPtr->length);
-	auto sizeInBuffer = std::make_shared<Buffer>(sizeof(int));
-	int sin = (int) sizeIn;
-	sizeInBuffer->setSource(&sin);
-	jint *vin;
-	jboolean *val = nullptr;
-	vin = (*env).GetIntArrayElements(vectorIn,val);
-	auto vectorInBuffer = std::make_shared<Buffer>(sizeof(int)*sin);
-    vectorInBuffer->setSource(vin);
 	PM_task->addKernel("filter1_tile");
 	PM_task->setConfigFunction([=](DevicePtr &device, KernelHash &kernelHash) {
 		kernelHash["filter1_tile"]
 			->setArg(0, PM_dataPtr->buffer)
 			->setArg(1, PM_tileBuffer)
-			->setArg(2, sizeInBuffer)
-			->setArg(3, vectorInBuffer)
+			->setArg(2, sizeIn)
 			->setWorkSize(PM_dataPtr->length);
 	});
 	PM_runtimePtr->runtime->submitTask(std::move(PM_task));
@@ -50,18 +41,17 @@ JNIEXPORT jlong JNICALL Java_br_edu_ufsj_dcomp_filter_ControllerWrapperImplPM_fi
 	int PM_length = getFilterArrayLength(env, PM_tileArray);
 	auto PM_dataRetPtr = (ArrayData *)Java_org_parallelme_ParallelMERuntime_nativeCreateArray__II(env, self, PM_length, 2);
 	PM_task2->addKernel("filter1");
-	auto lengthBuffer = std::make_shared<Buffer>(sizeof(int));
-    int length = (int) PM_dataPtr->length;
-    lengthBuffer->setSource(&length);
 	PM_task2->setConfigFunction([=](DevicePtr &device, KernelHash &kernelHash) {
 		kernelHash["filter1"]
 			->setArg(0, PM_dataRetPtr->buffer)
 			->setArg(1, PM_dataPtr->buffer)
 			->setArg(2, PM_tileBuffer)
-			->setArg(3, lengthBuffer)
+			->setArg(3, PM_dataPtr->length)
 			->setWorkSize(1);
 	});
 	PM_runtimePtr->runtime->submitTask(std::move(PM_task2));
 	PM_runtimePtr->runtime->finish();
+	int *array = (int*) malloc(sizeof(int)*PM_length);
+	PM_dataRetPtr->buffer->copyTo(array);
 	return (jlong)PM_dataRetPtr;
 }

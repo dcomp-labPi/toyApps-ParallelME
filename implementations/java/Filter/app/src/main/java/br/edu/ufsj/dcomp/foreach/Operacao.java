@@ -21,13 +21,8 @@ public class Operacao {
         Arrays.fill(save,false);
         int cont = 0;
         for (int i=0;i<tmp.length;i++) {
-            for(int j=0;j<tmp.length;j++){
-                if(tmp[i] > tmp[j]){
-                    save[i] = true;
-                }
-            }
-            if(!save[i]){
-                cont++;
+            if(tmp[i] > (tmp.length/2)){
+                save[i] = true;
             }
         }
 

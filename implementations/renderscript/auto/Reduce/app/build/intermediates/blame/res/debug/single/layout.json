@@ -76,12 +76,12 @@
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/abc_activity_chooser_view.xml"
     },
     {
-        "merged": "/home/millas/WorkbenchAndStu/Foreach/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
-        "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/abc_screen_toolbar.xml"
-    },
-    {
         "merged": "/home/millas/WorkbenchAndStu/toyApps/auto/Reduce/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/millas/WorkbenchAndStu/Foreach/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout/abc_screen_toolbar.xml"
     },
     {
         "merged": "/home/millas/WorkbenchAndStu/Reduce/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",

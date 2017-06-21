@@ -53,6 +53,7 @@ ADDED from /home/labpi/Documentos/renan/projetos/toyApps/implementations/renders
 		ADDED from /home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/auto/Map/app/src/main/AndroidManifest.xml:17:27-74
 uses-sdk
 INJECTED from /home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/auto/Map/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] /home/labpi/.android/build-cache/abb08b5cb1bec587a1d0a4ec6885ae8e2cd7b663/output/AndroidManifest.xml:18:5-42
 MERGED from [com.android.support:appcompat-v7:25.3.1] /home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:support-v4:25.3.1] /home/labpi/.android/build-cache/5df6bb49ce658a3521b62a77b71f8b1acd423ba9/output/AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-fragment:25.3.1] /home/labpi/.android/build-cache/31f3f931cc5007999f262184f7432c0da269a967/output/AndroidManifest.xml:21:5-23:60

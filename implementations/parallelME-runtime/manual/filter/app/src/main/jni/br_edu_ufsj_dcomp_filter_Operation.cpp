@@ -17,7 +17,7 @@ struct NativeData{
     std::shared_ptr<Buffer> buffer;
     int testSize = 0;
 };
-const static char gKernels[] = "__kernel void firstFilter(__global int *inputVector,__global uint *inputSize){ uint id = get_global_id(0); uint save = 0; for(uint i=0;i<inputSize[0];i++){ if(inputVector[id] > inputVector[i]){ save = 1; } } if(save != 1){ inputVector[id] = -1; } } __kernel void filter(__global uint *inputVector,__global uint *inputSize, __global uint *outputVector,__global uint *outputSize){ outputSize[0] = 0; for(uint i=0;i<inputSize[0];i++){ if(inputVector[i] == 1){ outputVector[outputSize[0]] = inputVector[i]; outputSize[0] += 1; } } }";
+const static char gKernels[] = "__kernel void firstFilter(__global int *inputVector, __global uint *inputSize){ uint id = get_global_id(0); if(inputVector[id] < (inputSize[0]/2)){ inputVector[id] = -1; } } __kernel void filter(__global int *inputVector,__global uint *inputSize,__global uint *outputVector,__global uint *outputSize){ outputSize[0] = 0; for(uint i=0;i<inputSize[0];i++){ if(inputVector[i] > 0){ outputVector[outputSize[0]] = inputVector[i]; outputSize[0] += 1; } } }";
 
 
 void generateVector(int size, int *vector){

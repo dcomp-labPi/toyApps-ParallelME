@@ -10,6 +10,8 @@ public class Controller {
 	private ControllerWrapper PM_parallelME;
 
 	public Controller(RenderScript PM_mRS) {
+		//this.PM_parallelME = new ControllerWrapperImplPM();
+		//if (!this.PM_parallelME.isValid())
 		this.PM_parallelME = new ControllerWrapperImplRS(PM_mRS);
 	}
 
@@ -20,8 +22,8 @@ public class Controller {
 		for (int x = 0; x < sizeIn; x++) {
 			vectorIn[x] = x+1;
 		}
-
 		PM_parallelME.inputBind1(vectorIn);
-		PM_parallelME.filter1();
+		PM_parallelME.filter1(sizeIn);
+
 	}
 }

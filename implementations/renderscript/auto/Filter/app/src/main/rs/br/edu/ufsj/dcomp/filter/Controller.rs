@@ -16,19 +16,14 @@ rs_allocation PM_gOutputFilter1;
 rs_allocation PM_gOutputXSizeFilter1_Allocation;
 rs_allocation PM_gOutputTileFilter1;
 int PM_gOutputXSizeFilter1;
+int PM_gSizeInFilter1;
 
 static bool filter1_func(int element) {
-    bool valor = false;
 
-    for (int PM_x=0; PM_x<rsAllocationGetDimX(PM_gOutputTileFilter1); ++PM_x) {
-        int PM_value = rsGetElementA_int(PM_gOutputTileFilter1, PM_x);
-
-        if (PM_value < element) {
-            valor = true;
-        }
-    }
-
-    return valor;
+if(element > (PM_gSizeInFilter1/2)){
+return true;
+}
+return false;
 }
 
 int __attribute__((kernel)) filter1_tile(int element, uint32_t x, uint32_t y) {

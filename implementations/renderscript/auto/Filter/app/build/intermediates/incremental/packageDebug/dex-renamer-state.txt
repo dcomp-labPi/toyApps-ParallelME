@@ -1,4 +1,4 @@
-#Tue Jun 20 18:27:51 BRT 2017
+#Wed Jun 21 11:42:10 BRT 2017
 file.2=/home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/auto/Filter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3816605ad60cef403518e8fcb547c856ee76df10/classes.dex
 base.2=/home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/auto/Filter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3816605ad60cef403518e8fcb547c856ee76df10
 file.1=/home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/auto/Filter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_683b5be7dbefef8e9d034e52b234fa98b1bdbb3a/classes.dex

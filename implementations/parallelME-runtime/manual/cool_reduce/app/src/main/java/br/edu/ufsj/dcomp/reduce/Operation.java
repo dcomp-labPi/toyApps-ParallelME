@@ -7,15 +7,15 @@ package br.edu.ufsj.dcomp.reduce;
 public class Operation {
 
     private long dataPointer;
-    private native long nativeInit(int size);
-    private native void process(long dataPointerLong);
+    private native long nativeInit();
+    private native void process(long dataPointerLong,int size,long dataPointerLong2);
 
-    Operation(int testSize){
-        dataPointer = nativeInit(testSize);
+    Operation(){
+        dataPointer = nativeInit();
     }
 
-    public void callProcess(){
-        process(dataPointer);
+    public void callProcess(int testSize){
+        process(dataPointer,testSize,dataPointer);
     }
 
 

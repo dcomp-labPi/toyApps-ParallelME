@@ -9,18 +9,16 @@
 
 package br.edu.ufsj.dcomp.filter;
 
-import android.util.Log;
-
 import org.parallelme.ParallelMERuntime;
 
 public class ControllerWrapperImplPM implements ControllerWrapper {
-	private long PM_array10Ptr;
-	private boolean PM_array10FromImage = false;
-	private long PM_output13Ptr;
-	private boolean PM_output13FromImage = false;
+	private long PM_array8Ptr;
+	private boolean PM_array8FromImage = false;
+	private long PM_output11Ptr;
+	private boolean PM_output11FromImage = false;
 	private static boolean isValid;
 	 
-	private native long filter1(long runtimePtr, long dataPtr, int sizeIn, int[] vectorIn);
+	private native long filter1(long runtimePtr, long dataPtr, int sizeIn);
 	 
 	@Override
 	protected void finalize() throws Throwable {
@@ -41,12 +39,11 @@ public class ControllerWrapperImplPM implements ControllerWrapper {
 	}
 
 	public void inputBind1(int[] vectorIn) {
-		PM_array10Ptr = ParallelMERuntime.getInstance().createArray(vectorIn);
+		PM_array8Ptr = ParallelMERuntime.getInstance().createArray(vectorIn);
 	}
 
-	public void filter1(int sizeIn, int[] vectorIn) {
-
-		PM_output13Ptr = filter1(ParallelMERuntime.getInstance().runtimePointer, PM_array10Ptr, sizeIn, vectorIn);
-		PM_output13FromImage = false;
+	public void filter1(int sizeIn) {
+		PM_output11Ptr = filter1(ParallelMERuntime.getInstance().runtimePointer, PM_array8Ptr, sizeIn);
+		PM_output11FromImage = false;
 	}
 }

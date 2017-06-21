@@ -14,5 +14,5 @@ public interface ControllerWrapper {
 
 	void inputBind1(int[] vectorIn);
 
-	void filter1();
+	void filter1(int sizeIn);
 }

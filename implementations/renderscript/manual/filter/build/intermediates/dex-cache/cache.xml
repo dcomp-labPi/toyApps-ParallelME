@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/rcarvs/.android/build-cache/2b3dc2618f7417f61794c8c89309e8e6e2b6f415/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/rcarvs/Dropbox/toyApplications/auto/Filter/app/build/intermediates/pre-dexed/debug/classes_6389a566df334c2fc0f66fd43ab81c92a5a8c96e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rcarvs/.android/build-cache/6803f5d5019af8646340b339b23c346e48a45e25/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/rcarvs/Dropbox/toyApplications/auto/Filter/app/build/intermediates/pre-dexed/debug/classes_c57b577772f05de9ec7ae09cba384c09dae76058.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rcarvs/.android/build-cache/2a61bfe25fdd08ff3742a908deeff6c022a2d437/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/rcarvs/Dropbox/toyApplications/auto/Filter/app/build/intermediates/pre-dexed/debug/classes_d67ca414123b3fcf289715a389d5fd1bdb325ca3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rcarvs/.android/build-cache/148833bac278536788b537b219b6f091e06a636b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/rcarvs/Dropbox/toyApplications/auto/Filter/app/build/intermediates/pre-dexed/debug/classes_d3728bfae6966e5a7838f3bedd5bff15c79191da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rcarvs/.android/build-cache/b250b8a0e5280f08246b7a31e9965ec458d09aa3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/rcarvs/Dropbox/toyApplications/auto/Filter/app/build/intermediates/pre-dexed/debug/classes_cf5b59946960dbe832b6be38ad55b18fd4bd18e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rcarvs/.android/build-cache/f0f7c84e10977332e5c426c1a191989d38753894/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/rcarvs/Dropbox/toyApplications/auto/Filter/app/build/intermediates/pre-dexed/debug/classes_5d0ab333dea4f4a006b9c02274f78a5e877b627b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rcarvs/.android/build-cache/fd9c170630942248161bfd654aa8074ef61b2a58/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/rcarvs/Dropbox/toyApplications/auto/Filter/app/build/intermediates/pre-dexed/debug/classes_26cbdef1e862791c253ad1ac718ef61b87003fa5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rcarvs/.android/build-cache/b1f051d55d52e8d654ec94560ed3b9eab3f25134/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/rcarvs/Dropbox/toyApplications/auto/Filter/app/build/intermediates/pre-dexed/debug/classes_f4db957490e02ea09c6a7dcd7a53509dabaa160d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rcarvs/.android/build-cache/18ca50a58ad39c93f88189c30230ae9a953f6a4f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/rcarvs/Dropbox/toyApplications/auto/Filter/app/build/intermediates/pre-dexed/debug/classes_f32a5bab6782af6e762047e86495d903cf91e77a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/rcarvs/Dropbox/toyApplications/auto/Filter/app/build/intermediates/pre-dexed/debug/classes_0712ac38e5d363d8eb33f157c3a0ec415efee63f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rcarvs/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/rcarvs/Dropbox/toyApplications/auto/Filter/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_0641286f0e23b9ec20edfc44ab248d03a19db2cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rcarvs/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/rcarvs/Dropbox/toyApplications/auto/Filter/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_d31e1b8a33734272249fc762768e5d7784fb11ef.jar" />
+    </item>
+
+</items>

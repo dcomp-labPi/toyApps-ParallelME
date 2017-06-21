@@ -22,7 +22,7 @@
 package br.edu.ufsj.dcomp.map;
 
 import android.support.v8.renderscript.*;
-import br.edu.ufsj.dcomp.map.ArrayTestBitCode;
+import android.content.res.Resources;
 
 /**
  * @hide
@@ -31,10 +31,15 @@ public class ScriptC_ArrayTest extends ScriptC {
     private static final String __rs_resource_name = "arraytest";
     // Constructor
     public  ScriptC_ArrayTest(RenderScript rs) {
-        super(rs,
-              __rs_resource_name,
-              ArrayTestBitCode.getBitCode32(),
-              ArrayTestBitCode.getBitCode64());
+        this(rs,
+             rs.getApplicationContext().getResources(),
+             rs.getApplicationContext().getResources().getIdentifier(
+                 __rs_resource_name, "raw",
+                 rs.getApplicationContext().getPackageName()));
+    }
+
+    public  ScriptC_ArrayTest(RenderScript rs, Resources resources, int id) {
+        super(rs, resources, id);
         __I32 = Element.I32(rs);
     }
 
