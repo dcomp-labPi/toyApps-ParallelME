@@ -34,7 +34,7 @@ void filter1() {
 	for (int x=0; x<rsAllocationGetDimX(gOutputTileFilter1); ++x) {
 		int value = rsGetElementAt_int(gOutputTileFilter1, x);
 		if (value >= 0) {
-			rsSetElementAt_int(gOutputFilter1, rsGetElementAt_int(gInputFilter1, value), count++);
+			rsSetElementAt_int(gOutputFilter1, rsGetElementAt_int(gInputFilter1, value), count++);ex
 		}
 	}
 }
