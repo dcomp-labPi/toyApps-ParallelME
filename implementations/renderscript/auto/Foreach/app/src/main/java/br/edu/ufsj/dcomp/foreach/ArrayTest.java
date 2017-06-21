@@ -18,8 +18,6 @@ public class ArrayTest {
 		}
 		PM_parallelME.inputBind1(tmp);
 		PM_parallelME.foreach1();
-		for(int x=0;x<tmp.length;x++){
-			Log.e("Result","tmp["+String.valueOf(x)+"] = "+tmp[x]);
-		}
+
 	}
 }

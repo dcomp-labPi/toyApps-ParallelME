@@ -4,6 +4,10 @@
         "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/layout-v21/notification_template_custom_big.xml"
     },
     {
+        "merged": "/home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/map/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
         "merged": "/home/labpi/Documentos/renan/projetos/toyAplications/foreach/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
         "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/layout-v21/notification_template_custom_big.xml"
     },
@@ -36,6 +40,10 @@
         "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/layout-v21/notification_action.xml"
     },
     {
+        "merged": "/home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/map/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
         "merged": "/home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/foreach/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
         "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/layout-v21/notification_template_custom_big.xml"
     },
@@ -46,6 +54,10 @@
     {
         "merged": "/home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/foreach/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
         "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/map/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/layout-v21/notification_template_custom_big.xml"
     },
     {
         "merged": "/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
@@ -94,5 +106,9 @@
     {
         "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/manual/map/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
         "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/map/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/layout-v21/notification_action.xml"
     }
 ]

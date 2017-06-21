@@ -8,18 +8,6 @@
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "/home/millas/WorkbenchAndStu/Reduce/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
-        "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
-        "merged": "/home/millas/WorkbenchAndStu/Map/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
-        "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
-        "merged": "/home/millas/WorkbenchAndStu/toyApps/auto/Map/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
         "merged": "/home/labpi/Documentos/renan/projetos/toyApps/auto/Map/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
         "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
     },
@@ -36,35 +24,11 @@
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "/home/labpi/Documentos/renan/projetos/toyApps/auto/Map/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
         "merged": "/home/labpi/Documentos/renan/projetos/toyApps/auto/Map/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
         "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "/home/millas/WorkbenchAndStu/Filter/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "/home/millas/WorkbenchAndStu/toyApps/auto/Map/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
-        "merged": "/home/millas/WorkbenchAndStu/Filter/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
-        "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
         "merged": "/home/millas/WorkbenchAndStu/Reduce/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "/home/labpi/Dropbox/toyApplications/auto/Filter/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
-        "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
-        "merged": "/home/millas/WorkbenchAndStu/Map/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
@@ -82,5 +46,53 @@
     {
         "merged": "/home/millas/WorkbenchAndStu/Foreach/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/compiler/Map/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/compiler/Map/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/millas/WorkbenchAndStu/Reduce/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/millas/WorkbenchAndStu/Map/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/millas/WorkbenchAndStu/toyApps/auto/Map/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/labpi/Documentos/renan/projetos/toyApps/auto/Map/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/millas/WorkbenchAndStu/Filter/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/millas/WorkbenchAndStu/toyApps/auto/Map/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/compiler/Map/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/millas/WorkbenchAndStu/Filter/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/millas/WorkbenchAndStu/Map/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/labpi/Dropbox/toyApplications/auto/Filter/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
     }
 ]

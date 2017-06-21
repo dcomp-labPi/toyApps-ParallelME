@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Filter/app/build/intermediates/res/merged/debug/raw/controller.bc",
+        "source": "/home/millas/WorkbenchAndStu/toyApps-ParallelME/implementations/renderscript/auto/Filter/app/build/generated/res/rs/debug/raw/controller.bc"
+    },
+    {
+        "merged": "/home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/auto/Filter/app/build/intermediates/res/merged/debug/raw/controller.bc",
+        "source": "/home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/auto/Filter/app/build/generated/res/rs/debug/raw/controller.bc"
+    }
+]

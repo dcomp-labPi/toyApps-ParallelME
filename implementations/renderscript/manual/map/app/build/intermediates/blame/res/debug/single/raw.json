@@ -10,5 +10,9 @@
     {
         "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/manual/map/app/build/intermediates/res/merged/debug/raw/operation.bc",
         "source": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/manual/map/app/build/generated/res/rs/debug/raw/operation.bc"
+    },
+    {
+        "merged": "/home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/map/app/build/intermediates/res/merged/debug/raw/operation.bc",
+        "source": "/home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/map/app/build/generated/res/rs/debug/raw/operation.bc"
     }
 ]

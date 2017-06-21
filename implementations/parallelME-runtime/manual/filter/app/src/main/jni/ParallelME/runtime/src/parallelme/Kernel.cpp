@@ -10,6 +10,7 @@
 #include <parallelme/Buffer.hpp>
 #include <parallelme/Device.hpp>
 #include <parallelme/Program.hpp>
+
 #include <string>
 #include "dynloader/dynLoader.h"
 using namespace parallelme;
@@ -41,8 +42,8 @@ void Kernel::run() {
 
 Kernel *Kernel::setArg(unsigned id, std::shared_ptr<Buffer> buffer) {
     int err;
-    auto mem = buffer->clMem(_device);
 
+    auto mem = buffer->clMem(_device);
     err = clSetKernelArg(_clKernel, id, sizeof(mem), &mem);
     if(err < 0)
         throw KernelArgError(std::string("Buffer error: ") + std::to_string(err));

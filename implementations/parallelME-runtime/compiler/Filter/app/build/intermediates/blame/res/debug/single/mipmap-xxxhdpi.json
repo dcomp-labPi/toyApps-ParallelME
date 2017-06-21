@@ -20,8 +20,16 @@
         "source": "/home/labpi/Documentos/renan/projetos/toyApps/auto/Filter/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
+        "merged": "/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/compiler/Filter/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/compiler/Filter/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
         "merged": "/home/labpi/Documentos/renan/projetos/toyApps/auto/Filter/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
         "source": "/home/labpi/Documentos/renan/projetos/toyApps/auto/Filter/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/compiler/Filter/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/compiler/Filter/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
         "merged": "/home/millas/WorkbenchAndStu/Foreach/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",

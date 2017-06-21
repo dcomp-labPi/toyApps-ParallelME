@@ -1,0 +1,24 @@
+package br.edu.ufsj.dcomp.filter;
+
+import org.parallelme.userlibrary.Array;
+import org.parallelme.userlibrary.datatype.Int32;
+import org.parallelme.userlibrary.function.Filter;
+
+public class Controller {
+
+	public void method(final int sizeIn) {
+		final int[] vectorIn = new int[sizeIn];
+
+		for (int x = 0; x < sizeIn; x++) {
+			vectorIn[x] = x+1;
+		}
+		Array<Int32> array = new Array<>(vectorIn, Int32.class);
+		Array<Int32> result= (Array<Int32>) array.par().filter(new Filter<Int32>() {
+			@Override
+			public boolean function(Int32 element) {
+				return false;
+			}
+		});
+
+	}
+}

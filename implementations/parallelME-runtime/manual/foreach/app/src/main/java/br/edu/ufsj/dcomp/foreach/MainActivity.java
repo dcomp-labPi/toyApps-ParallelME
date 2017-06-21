@@ -17,18 +17,18 @@ public class MainActivity extends AppCompatActivity {
         final EditText editTextInputSize = (EditText) findViewById(R.id.editTextInputSize);
 
         final TextView result = (TextView) findViewById(R.id.tvResultados);
+        final Operation operation = new Operation(10000000);
 
         btnExecutar.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                int testSize = Integer.parseInt(editTextInputSize.getText().toString());
+                //2int testSize = Integer.parseInt(editTextInputSize.getText().toString());
 
 
                 result.setText("Test Output:\n");
                 long startTotalTime = System.currentTimeMillis();
                 result.setText(result.getText().toString()+"Structure initialization: ");
                 long timeStart = System.currentTimeMillis();
-                Operation operation = new Operation(testSize);
                 long timeEnd = System.currentTimeMillis();
                 result.setText(result.getText().toString()+String.valueOf(timeEnd-timeStart)+"ms\n");
                 result.setText(result.getText().toString()+"Operation Execution ");

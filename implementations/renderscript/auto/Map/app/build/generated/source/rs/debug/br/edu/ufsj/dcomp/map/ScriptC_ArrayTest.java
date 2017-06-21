@@ -16,13 +16,13 @@
 
 /*
  * This file is auto-generated. DO NOT MODIFY!
- * The source Renderscript file: /home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/src/main/rs/br/edu/ufsj/dcomp/map/ArrayTest.rs
+ * The source Renderscript file: /home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/auto/Map/app/src/main/rs/br/edu/ufsj/dcomp/map/ArrayTest.rs
  */
 
 package br.edu.ufsj.dcomp.map;
 
 import android.support.v8.renderscript.*;
-import android.content.res.Resources;
+import br.edu.ufsj.dcomp.map.ArrayTestBitCode;
 
 /**
  * @hide
@@ -31,15 +31,10 @@ public class ScriptC_ArrayTest extends ScriptC {
     private static final String __rs_resource_name = "arraytest";
     // Constructor
     public  ScriptC_ArrayTest(RenderScript rs) {
-        this(rs,
-             rs.getApplicationContext().getResources(),
-             rs.getApplicationContext().getResources().getIdentifier(
-                 __rs_resource_name, "raw",
-                 rs.getApplicationContext().getPackageName()));
-    }
-
-    public  ScriptC_ArrayTest(RenderScript rs, Resources resources, int id) {
-        super(rs, resources, id);
+        super(rs,
+              __rs_resource_name,
+              ArrayTestBitCode.getBitCode32(),
+              ArrayTestBitCode.getBitCode64());
         __I32 = Element.I32(rs);
     }
 

@@ -23859,8 +23859,8 @@
                     "startLine": 441,
                     "startColumn": 4,
                     "startOffset": 43737,
-                    "endColumn": 51,
-                    "endOffset": 43784
+                    "endColumn": 58,
+                    "endOffset": 43791
                 },
                 "from": {
                     "file": "/home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/foreach/app/src/main/res/values/strings.xml",
@@ -23868,8 +23868,8 @@
                         "startLine": 1,
                         "startColumn": 4,
                         "startOffset": 16,
-                        "endColumn": 51,
-                        "endOffset": 63
+                        "endColumn": 58,
+                        "endOffset": 70
                     }
                 }
             },
@@ -23877,9 +23877,9 @@
                 "to": {
                     "startLine": 442,
                     "startColumn": 4,
-                    "startOffset": 43789,
+                    "startOffset": 43796,
                     "endColumn": 52,
-                    "endOffset": 43837
+                    "endOffset": 43844
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -23896,9 +23896,9 @@
                 "to": {
                     "startLine": 443,
                     "startColumn": 4,
-                    "startOffset": 43842,
+                    "startOffset": 43849,
                     "endColumn": 70,
-                    "endOffset": 43908
+                    "endOffset": 43915
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -23915,9 +23915,9 @@
                 "to": {
                     "startLine": 444,
                     "startColumn": 4,
-                    "startOffset": 43913,
+                    "startOffset": 43920,
                     "endColumn": 77,
-                    "endOffset": 43986
+                    "endOffset": 43993
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -23934,9 +23934,9 @@
                 "to": {
                     "startLine": 445,
                     "startColumn": 4,
-                    "startOffset": 43991,
+                    "startOffset": 43998,
                     "endColumn": 89,
-                    "endOffset": 44076
+                    "endOffset": 44083
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -23953,9 +23953,9 @@
                 "to": {
                     "startLine": 446,
                     "startColumn": 4,
-                    "startOffset": 44081,
+                    "startOffset": 44088,
                     "endColumn": 87,
-                    "endOffset": 44164
+                    "endOffset": 44171
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -23972,9 +23972,9 @@
                 "to": {
                     "startLine": 447,
                     "startColumn": 4,
-                    "startOffset": 44169,
+                    "startOffset": 44176,
                     "endColumn": 95,
-                    "endOffset": 44260
+                    "endOffset": 44267
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -23991,10 +23991,10 @@
                 "to": {
                     "startLine": 448,
                     "startColumn": 4,
-                    "startOffset": 44265,
+                    "startOffset": 44272,
                     "endLine": 453,
                     "endColumn": 12,
-                    "endOffset": 44579
+                    "endOffset": 44586
                 },
                 "from": {
                     "file": "/home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/foreach/app/src/main/res/values/styles.xml",
@@ -24012,10 +24012,10 @@
                 "to": {
                     "startLine": 454,
                     "startColumn": 4,
-                    "startOffset": 44584,
+                    "startOffset": 44591,
                     "endLine": 460,
                     "endColumn": 12,
-                    "endOffset": 45080
+                    "endOffset": 45087
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -24033,9 +24033,9 @@
                 "to": {
                     "startLine": 461,
                     "startColumn": 4,
-                    "startOffset": 45085,
+                    "startOffset": 45092,
                     "endColumn": 88,
-                    "endOffset": 45169
+                    "endOffset": 45176
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -24052,10 +24052,10 @@
                 "to": {
                     "startLine": 462,
                     "startColumn": 4,
-                    "startOffset": 45174,
+                    "startOffset": 45181,
                     "endLine": 465,
                     "endColumn": 12,
-                    "endOffset": 45416
+                    "endOffset": 45423
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -24073,10 +24073,10 @@
                 "to": {
                     "startLine": 466,
                     "startColumn": 4,
-                    "startOffset": 45421,
+                    "startOffset": 45428,
                     "endLine": 469,
                     "endColumn": 12,
-                    "endOffset": 45697
+                    "endOffset": 45704
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -24094,10 +24094,10 @@
                 "to": {
                     "startLine": 470,
                     "startColumn": 4,
-                    "startOffset": 45702,
+                    "startOffset": 45709,
                     "endLine": 474,
                     "endColumn": 12,
-                    "endOffset": 45982
+                    "endOffset": 45989
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -24115,10 +24115,10 @@
                 "to": {
                     "startLine": 475,
                     "startColumn": 4,
-                    "startOffset": 45987,
+                    "startOffset": 45994,
                     "endLine": 480,
                     "endColumn": 12,
-                    "endOffset": 46375
+                    "endOffset": 46382
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -24136,10 +24136,10 @@
                 "to": {
                     "startLine": 481,
                     "startColumn": 4,
-                    "startOffset": 46380,
+                    "startOffset": 46387,
                     "endLine": 487,
                     "endColumn": 12,
-                    "endOffset": 46852
+                    "endOffset": 46859
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -24157,10 +24157,10 @@
                 "to": {
                     "startLine": 488,
                     "startColumn": 4,
-                    "startOffset": 46857,
+                    "startOffset": 46864,
                     "endLine": 491,
                     "endColumn": 12,
-                    "endOffset": 47074
+                    "endOffset": 47081
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -24178,10 +24178,10 @@
                 "to": {
                     "startLine": 492,
                     "startColumn": 4,
-                    "startOffset": 47079,
+                    "startOffset": 47086,
                     "endLine": 495,
                     "endColumn": 12,
-                    "endOffset": 47296
+                    "endOffset": 47303
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -24199,10 +24199,10 @@
                 "to": {
                     "startLine": 496,
                     "startColumn": 4,
-                    "startOffset": 47301,
+                    "startOffset": 47308,
                     "endLine": 500,
                     "endColumn": 12,
-                    "endOffset": 47564
+                    "endOffset": 47571
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -24220,10 +24220,10 @@
                 "to": {
                     "startLine": 501,
                     "startColumn": 4,
-                    "startOffset": 47569,
+                    "startOffset": 47576,
                     "endLine": 504,
                     "endColumn": 12,
-                    "endOffset": 47791
+                    "endOffset": 47798
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -24241,10 +24241,10 @@
                 "to": {
                     "startLine": 505,
                     "startColumn": 4,
-                    "startOffset": 47796,
+                    "startOffset": 47803,
                     "endLine": 508,
                     "endColumn": 12,
-                    "endOffset": 48021
+                    "endOffset": 48028
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -24262,10 +24262,10 @@
                 "to": {
                     "startLine": 509,
                     "startColumn": 4,
-                    "startOffset": 48026,
+                    "startOffset": 48033,
                     "endLine": 512,
                     "endColumn": 12,
-                    "endOffset": 48251
+                    "endOffset": 48258
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -24283,10 +24283,10 @@
                 "to": {
                     "startLine": 513,
                     "startColumn": 4,
-                    "startOffset": 48256,
+                    "startOffset": 48263,
                     "endLine": 516,
                     "endColumn": 12,
-                    "endOffset": 48481
+                    "endOffset": 48488
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -24304,10 +24304,10 @@
                 "to": {
                     "startLine": 517,
                     "startColumn": 4,
-                    "startOffset": 48486,
+                    "startOffset": 48493,
                     "endLine": 520,
                     "endColumn": 12,
-                    "endOffset": 48711
+                    "endOffset": 48718
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -24325,10 +24325,10 @@
                 "to": {
                     "startLine": 521,
                     "startColumn": 4,
-                    "startOffset": 48716,
+                    "startOffset": 48723,
                     "endLine": 524,
                     "endColumn": 12,
-                    "endOffset": 48938
+                    "endOffset": 48945
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -24346,10 +24346,10 @@
                 "to": {
                     "startLine": 525,
                     "startColumn": 4,
-                    "startOffset": 48943,
+                    "startOffset": 48950,
                     "endLine": 528,
                     "endColumn": 12,
-                    "endOffset": 49177
+                    "endOffset": 49184
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -24367,10 +24367,10 @@
                 "to": {
                     "startLine": 529,
                     "startColumn": 4,
-                    "startOffset": 49182,
+                    "startOffset": 49189,
                     "endLine": 532,
                     "endColumn": 12,
-                    "endOffset": 49403
+                    "endOffset": 49410
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -24388,10 +24388,10 @@
                 "to": {
                     "startLine": 533,
                     "startColumn": 4,
-                    "startOffset": 49408,
+                    "startOffset": 49415,
                     "endLine": 536,
                     "endColumn": 12,
-                    "endOffset": 49648
+                    "endOffset": 49655
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -24409,10 +24409,10 @@
                 "to": {
                     "startLine": 537,
                     "startColumn": 4,
-                    "startOffset": 49653,
+                    "startOffset": 49660,
                     "endLine": 540,
                     "endColumn": 12,
-                    "endOffset": 49878
+                    "endOffset": 49885
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -24430,10 +24430,10 @@
                 "to": {
                     "startLine": 541,
                     "startColumn": 4,
-                    "startOffset": 49883,
+                    "startOffset": 49890,
                     "endLine": 544,
                     "endColumn": 12,
-                    "endOffset": 50126
+                    "endOffset": 50133
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -24451,10 +24451,10 @@
                 "to": {
                     "startLine": 545,
                     "startColumn": 4,
-                    "startOffset": 50131,
+                    "startOffset": 50138,
                     "endLine": 548,
                     "endColumn": 12,
-                    "endOffset": 50345
+                    "endOffset": 50352
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -24472,10 +24472,10 @@
                 "to": {
                     "startLine": 549,
                     "startColumn": 4,
-                    "startOffset": 50350,
+                    "startOffset": 50357,
                     "endLine": 553,
                     "endColumn": 12,
-                    "endOffset": 50628
+                    "endOffset": 50635
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -24493,10 +24493,10 @@
                 "to": {
                     "startLine": 554,
                     "startColumn": 4,
-                    "startOffset": 50633,
+                    "startOffset": 50640,
                     "endLine": 557,
                     "endColumn": 12,
-                    "endOffset": 50836
+                    "endOffset": 50843
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -24514,10 +24514,10 @@
                 "to": {
                     "startLine": 558,
                     "startColumn": 4,
-                    "startOffset": 50841,
+                    "startOffset": 50848,
                     "endLine": 560,
                     "endColumn": 12,
-                    "endOffset": 50967
+                    "endOffset": 50974
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -24535,10 +24535,10 @@
                 "to": {
                     "startLine": 561,
                     "startColumn": 4,
-                    "startOffset": 50972,
+                    "startOffset": 50979,
                     "endLine": 564,
                     "endColumn": 12,
-                    "endOffset": 51194
+                    "endOffset": 51201
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -24556,10 +24556,10 @@
                 "to": {
                     "startLine": 565,
                     "startColumn": 4,
-                    "startOffset": 51199,
+                    "startOffset": 51206,
                     "endLine": 568,
                     "endColumn": 12,
-                    "endOffset": 51440
+                    "endOffset": 51447
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -24577,10 +24577,10 @@
                 "to": {
                     "startLine": 569,
                     "startColumn": 4,
-                    "startOffset": 51445,
+                    "startOffset": 51452,
                     "endLine": 572,
                     "endColumn": 12,
-                    "endOffset": 51665
+                    "endOffset": 51672
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -24598,10 +24598,10 @@
                 "to": {
                     "startLine": 573,
                     "startColumn": 4,
-                    "startOffset": 51670,
+                    "startOffset": 51677,
                     "endLine": 576,
                     "endColumn": 12,
-                    "endOffset": 51912
+                    "endOffset": 51919
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -24619,10 +24619,10 @@
                 "to": {
                     "startLine": 577,
                     "startColumn": 4,
-                    "startOffset": 51917,
+                    "startOffset": 51924,
                     "endLine": 580,
                     "endColumn": 12,
-                    "endOffset": 52133
+                    "endOffset": 52140
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -24640,10 +24640,10 @@
                 "to": {
                     "startLine": 581,
                     "startColumn": 4,
-                    "startOffset": 52138,
+                    "startOffset": 52145,
                     "endLine": 584,
                     "endColumn": 12,
-                    "endOffset": 52378
+                    "endOffset": 52385
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -24661,10 +24661,10 @@
                 "to": {
                     "startLine": 585,
                     "startColumn": 4,
-                    "startOffset": 52383,
+                    "startOffset": 52390,
                     "endLine": 588,
                     "endColumn": 12,
-                    "endOffset": 52654
+                    "endOffset": 52661
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -24682,10 +24682,10 @@
                 "to": {
                     "startLine": 589,
                     "startColumn": 4,
-                    "startOffset": 52659,
+                    "startOffset": 52666,
                     "endLine": 592,
                     "endColumn": 12,
-                    "endOffset": 52955
+                    "endOffset": 52962
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -24703,10 +24703,10 @@
                 "to": {
                     "startLine": 593,
                     "startColumn": 4,
-                    "startOffset": 52960,
+                    "startOffset": 52967,
                     "endLine": 596,
                     "endColumn": 12,
-                    "endOffset": 53279
+                    "endOffset": 53286
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -24724,10 +24724,10 @@
                 "to": {
                     "startLine": 597,
                     "startColumn": 4,
-                    "startOffset": 53284,
+                    "startOffset": 53291,
                     "endLine": 600,
                     "endColumn": 12,
-                    "endOffset": 53570
+                    "endOffset": 53577
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -24745,10 +24745,10 @@
                 "to": {
                     "startLine": 601,
                     "startColumn": 4,
-                    "startOffset": 53575,
+                    "startOffset": 53582,
                     "endLine": 604,
                     "endColumn": 12,
-                    "endOffset": 53884
+                    "endOffset": 53891
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -24766,9 +24766,9 @@
                 "to": {
                     "startLine": 605,
                     "startColumn": 4,
-                    "startOffset": 53889,
+                    "startOffset": 53896,
                     "endColumn": 136,
-                    "endOffset": 54021
+                    "endOffset": 54028
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -24785,9 +24785,9 @@
                 "to": {
                     "startLine": 606,
                     "startColumn": 4,
-                    "startOffset": 54026,
+                    "startOffset": 54033,
                     "endColumn": 130,
-                    "endOffset": 54152
+                    "endOffset": 54159
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -24804,9 +24804,9 @@
                 "to": {
                     "startLine": 607,
                     "startColumn": 4,
-                    "startOffset": 54157,
+                    "startOffset": 54164,
                     "endColumn": 104,
-                    "endOffset": 54257
+                    "endOffset": 54264
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -24823,10 +24823,10 @@
                 "to": {
                     "startLine": 608,
                     "startColumn": 4,
-                    "startOffset": 54262,
+                    "startOffset": 54269,
                     "endLine": 610,
                     "endColumn": 12,
-                    "endOffset": 54499
+                    "endOffset": 54506
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -24844,10 +24844,10 @@
                 "to": {
                     "startLine": 611,
                     "startColumn": 4,
-                    "startOffset": 54504,
+                    "startOffset": 54511,
                     "endLine": 613,
                     "endColumn": 12,
-                    "endOffset": 54666
+                    "endOffset": 54673
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -24865,10 +24865,10 @@
                 "to": {
                     "startLine": 614,
                     "startColumn": 4,
-                    "startOffset": 54671,
+                    "startOffset": 54678,
                     "endLine": 616,
                     "endColumn": 12,
-                    "endOffset": 54870
+                    "endOffset": 54877
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -24886,10 +24886,10 @@
                 "to": {
                     "startLine": 617,
                     "startColumn": 4,
-                    "startOffset": 54875,
+                    "startOffset": 54882,
                     "endLine": 619,
                     "endColumn": 12,
-                    "endOffset": 55078
+                    "endOffset": 55085
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -24907,10 +24907,10 @@
                 "to": {
                     "startLine": 620,
                     "startColumn": 4,
-                    "startOffset": 55083,
+                    "startOffset": 55090,
                     "endLine": 623,
                     "endColumn": 12,
-                    "endOffset": 55349
+                    "endOffset": 55356
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -24928,9 +24928,9 @@
                 "to": {
                     "startLine": 624,
                     "startColumn": 4,
-                    "startOffset": 55354,
+                    "startOffset": 55361,
                     "endColumn": 111,
-                    "endOffset": 55461
+                    "endOffset": 55468
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -24947,9 +24947,9 @@
                 "to": {
                     "startLine": 625,
                     "startColumn": 4,
-                    "startOffset": 55466,
+                    "startOffset": 55473,
                     "endColumn": 111,
-                    "endOffset": 55573
+                    "endOffset": 55580
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -24966,9 +24966,9 @@
                 "to": {
                     "startLine": 626,
                     "startColumn": 4,
-                    "startOffset": 55578,
+                    "startOffset": 55585,
                     "endColumn": 104,
-                    "endOffset": 55678
+                    "endOffset": 55685
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -24985,9 +24985,9 @@
                 "to": {
                     "startLine": 627,
                     "startColumn": 4,
-                    "startOffset": 55683,
+                    "startOffset": 55690,
                     "endColumn": 116,
-                    "endOffset": 55795
+                    "endOffset": 55802
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25004,10 +25004,10 @@
                 "to": {
                     "startLine": 628,
                     "startColumn": 4,
-                    "startOffset": 55800,
+                    "startOffset": 55807,
                     "endLine": 630,
                     "endColumn": 12,
-                    "endOffset": 56009
+                    "endOffset": 56016
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25025,10 +25025,10 @@
                 "to": {
                     "startLine": 631,
                     "startColumn": 4,
-                    "startOffset": 56014,
+                    "startOffset": 56021,
                     "endLine": 632,
                     "endColumn": 12,
-                    "endOffset": 56155
+                    "endOffset": 56162
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25046,10 +25046,10 @@
                 "to": {
                     "startLine": 633,
                     "startColumn": 4,
-                    "startOffset": 56160,
+                    "startOffset": 56167,
                     "endLine": 634,
                     "endColumn": 12,
-                    "endOffset": 56295
+                    "endOffset": 56302
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25067,10 +25067,10 @@
                 "to": {
                     "startLine": 635,
                     "startColumn": 4,
-                    "startOffset": 56300,
+                    "startOffset": 56307,
                     "endLine": 636,
                     "endColumn": 12,
-                    "endOffset": 56381
+                    "endOffset": 56388
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25088,10 +25088,10 @@
                 "to": {
                     "startLine": 637,
                     "startColumn": 4,
-                    "startOffset": 56386,
+                    "startOffset": 56393,
                     "endLine": 641,
                     "endColumn": 12,
-                    "endOffset": 56729
+                    "endOffset": 56736
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25109,9 +25109,9 @@
                 "to": {
                     "startLine": 642,
                     "startColumn": 4,
-                    "startOffset": 56734,
+                    "startOffset": 56741,
                     "endColumn": 87,
-                    "endOffset": 56817
+                    "endOffset": 56824
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25128,10 +25128,10 @@
                 "to": {
                     "startLine": 643,
                     "startColumn": 4,
-                    "startOffset": 56822,
+                    "startOffset": 56829,
                     "endLine": 646,
                     "endColumn": 12,
-                    "endOffset": 57047
+                    "endOffset": 57054
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25149,10 +25149,10 @@
                 "to": {
                     "startLine": 647,
                     "startColumn": 4,
-                    "startOffset": 57052,
+                    "startOffset": 57059,
                     "endLine": 652,
                     "endColumn": 12,
-                    "endOffset": 57465
+                    "endOffset": 57472
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25170,10 +25170,10 @@
                 "to": {
                     "startLine": 653,
                     "startColumn": 4,
-                    "startOffset": 57470,
+                    "startOffset": 57477,
                     "endLine": 656,
                     "endColumn": 12,
-                    "endOffset": 57698
+                    "endOffset": 57705
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25191,9 +25191,9 @@
                 "to": {
                     "startLine": 657,
                     "startColumn": 4,
-                    "startOffset": 57703,
+                    "startOffset": 57710,
                     "endColumn": 81,
-                    "endOffset": 57780
+                    "endOffset": 57787
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25210,10 +25210,10 @@
                 "to": {
                     "startLine": 658,
                     "startColumn": 4,
-                    "startOffset": 57785,
+                    "startOffset": 57792,
                     "endLine": 659,
                     "endColumn": 12,
-                    "endOffset": 57878
+                    "endOffset": 57885
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25231,10 +25231,10 @@
                 "to": {
                     "startLine": 660,
                     "startColumn": 4,
-                    "startOffset": 57883,
+                    "startOffset": 57890,
                     "endLine": 670,
                     "endColumn": 12,
-                    "endOffset": 58495
+                    "endOffset": 58502
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25252,9 +25252,9 @@
                 "to": {
                     "startLine": 671,
                     "startColumn": 4,
-                    "startOffset": 58500,
+                    "startOffset": 58507,
                     "endColumn": 99,
-                    "endOffset": 58595
+                    "endOffset": 58602
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25271,10 +25271,10 @@
                 "to": {
                     "startLine": 672,
                     "startColumn": 4,
-                    "startOffset": 58600,
+                    "startOffset": 58607,
                     "endLine": 675,
                     "endColumn": 12,
-                    "endOffset": 58831
+                    "endOffset": 58838
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25292,10 +25292,10 @@
                 "to": {
                     "startLine": 676,
                     "startColumn": 4,
-                    "startOffset": 58836,
+                    "startOffset": 58843,
                     "endLine": 681,
                     "endColumn": 12,
-                    "endOffset": 59255
+                    "endOffset": 59262
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25313,10 +25313,10 @@
                 "to": {
                     "startLine": 682,
                     "startColumn": 4,
-                    "startOffset": 59260,
+                    "startOffset": 59267,
                     "endLine": 685,
                     "endColumn": 12,
-                    "endOffset": 59494
+                    "endOffset": 59501
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25334,9 +25334,9 @@
                 "to": {
                     "startLine": 686,
                     "startColumn": 4,
-                    "startOffset": 59499,
+                    "startOffset": 59506,
                     "endColumn": 93,
-                    "endOffset": 59588
+                    "endOffset": 59595
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25353,9 +25353,9 @@
                 "to": {
                     "startLine": 687,
                     "startColumn": 4,
-                    "startOffset": 59593,
+                    "startOffset": 59600,
                     "endColumn": 88,
-                    "endOffset": 59677
+                    "endOffset": 59684
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25372,10 +25372,10 @@
                 "to": {
                     "startLine": 688,
                     "startColumn": 4,
-                    "startOffset": 59682,
+                    "startOffset": 59689,
                     "endLine": 691,
                     "endColumn": 12,
-                    "endOffset": 59914
+                    "endOffset": 59921
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25393,10 +25393,10 @@
                 "to": {
                     "startLine": 692,
                     "startColumn": 4,
-                    "startOffset": 59919,
+                    "startOffset": 59926,
                     "endLine": 718,
                     "endColumn": 12,
-                    "endOffset": 61966
+                    "endOffset": 61973
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25414,10 +25414,10 @@
                 "to": {
                     "startLine": 719,
                     "startColumn": 4,
-                    "startOffset": 61971,
+                    "startOffset": 61978,
                     "endLine": 722,
                     "endColumn": 12,
-                    "endOffset": 62208
+                    "endOffset": 62215
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25435,9 +25435,9 @@
                 "to": {
                     "startLine": 723,
                     "startColumn": 4,
-                    "startOffset": 62213,
+                    "startOffset": 62220,
                     "endColumn": 101,
-                    "endOffset": 62310
+                    "endOffset": 62317
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25454,10 +25454,10 @@
                 "to": {
                     "startLine": 724,
                     "startColumn": 4,
-                    "startOffset": 62315,
+                    "startOffset": 62322,
                     "endLine": 727,
                     "endColumn": 12,
-                    "endOffset": 62547
+                    "endOffset": 62554
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25475,10 +25475,10 @@
                 "to": {
                     "startLine": 728,
                     "startColumn": 4,
-                    "startOffset": 62552,
+                    "startOffset": 62559,
                     "endLine": 755,
                     "endColumn": 12,
-                    "endOffset": 64731
+                    "endOffset": 64738
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25496,10 +25496,10 @@
                 "to": {
                     "startLine": 756,
                     "startColumn": 4,
-                    "startOffset": 64736,
+                    "startOffset": 64743,
                     "endLine": 914,
                     "endColumn": 12,
-                    "endOffset": 74900
+                    "endOffset": 74907
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25517,10 +25517,10 @@
                 "to": {
                     "startLine": 915,
                     "startColumn": 4,
-                    "startOffset": 74905,
+                    "startOffset": 74912,
                     "endLine": 936,
                     "endColumn": 12,
-                    "endOffset": 76151
+                    "endOffset": 76158
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25538,10 +25538,10 @@
                 "to": {
                     "startLine": 937,
                     "startColumn": 4,
-                    "startOffset": 76156,
+                    "startOffset": 76163,
                     "endLine": 1095,
                     "endColumn": 12,
-                    "endOffset": 86419
+                    "endOffset": 86426
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25559,10 +25559,10 @@
                 "to": {
                     "startLine": 1096,
                     "startColumn": 4,
-                    "startOffset": 86424,
+                    "startOffset": 86431,
                     "endLine": 1117,
                     "endColumn": 12,
-                    "endOffset": 87682
+                    "endOffset": 87689
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25580,10 +25580,10 @@
                 "to": {
                     "startLine": 1118,
                     "startColumn": 4,
-                    "startOffset": 87687,
+                    "startOffset": 87694,
                     "endLine": 1144,
                     "endColumn": 12,
-                    "endOffset": 89174
+                    "endOffset": 89181
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25601,10 +25601,10 @@
                 "to": {
                     "startLine": 1145,
                     "startColumn": 4,
-                    "startOffset": 89179,
+                    "startOffset": 89186,
                     "endLine": 1151,
                     "endColumn": 12,
-                    "endOffset": 89710
+                    "endOffset": 89717
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25622,10 +25622,10 @@
                 "to": {
                     "startLine": 1152,
                     "startColumn": 4,
-                    "startOffset": 89715,
+                    "startOffset": 89722,
                     "endLine": 1156,
                     "endColumn": 12,
-                    "endOffset": 90040
+                    "endOffset": 90047
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25643,10 +25643,10 @@
                 "to": {
                     "startLine": 1157,
                     "startColumn": 4,
-                    "startOffset": 90045,
+                    "startOffset": 90052,
                     "endLine": 1178,
                     "endColumn": 12,
-                    "endOffset": 91305
+                    "endOffset": 91312
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25664,10 +25664,10 @@
                 "to": {
                     "startLine": 1179,
                     "startColumn": 4,
-                    "startOffset": 91310,
+                    "startOffset": 91317,
                     "endLine": 1183,
                     "endColumn": 12,
-                    "endOffset": 91561
+                    "endOffset": 91568
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25685,10 +25685,10 @@
                 "to": {
                     "startLine": 1184,
                     "startColumn": 4,
-                    "startOffset": 91566,
+                    "startOffset": 91573,
                     "endLine": 1188,
                     "endColumn": 12,
-                    "endOffset": 91797
+                    "endOffset": 91804
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25706,10 +25706,10 @@
                 "to": {
                     "startLine": 1189,
                     "startColumn": 4,
-                    "startOffset": 91802,
+                    "startOffset": 91809,
                     "endLine": 1198,
                     "endColumn": 12,
-                    "endOffset": 92344
+                    "endOffset": 92351
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25727,10 +25727,10 @@
                 "to": {
                     "startLine": 1199,
                     "startColumn": 4,
-                    "startOffset": 92349,
+                    "startOffset": 92356,
                     "endLine": 1207,
                     "endColumn": 12,
-                    "endOffset": 92838
+                    "endOffset": 92845
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25748,10 +25748,10 @@
                 "to": {
                     "startLine": 1208,
                     "startColumn": 4,
-                    "startOffset": 92843,
+                    "startOffset": 92850,
                     "endLine": 1216,
                     "endColumn": 12,
-                    "endOffset": 93443
+                    "endOffset": 93450
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25769,10 +25769,10 @@
                 "to": {
                     "startLine": 1217,
                     "startColumn": 4,
-                    "startOffset": 93448,
+                    "startOffset": 93455,
                     "endLine": 1220,
                     "endColumn": 12,
-                    "endOffset": 93641
+                    "endOffset": 93648
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25790,10 +25790,10 @@
                 "to": {
                     "startLine": 1221,
                     "startColumn": 4,
-                    "startOffset": 93646,
+                    "startOffset": 93653,
                     "endLine": 1227,
                     "endColumn": 12,
-                    "endOffset": 94221
+                    "endOffset": 94228
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25811,10 +25811,10 @@
                 "to": {
                     "startLine": 1228,
                     "startColumn": 4,
-                    "startOffset": 94226,
+                    "startOffset": 94233,
                     "endLine": 1235,
                     "endColumn": 12,
-                    "endOffset": 94785
+                    "endOffset": 94792
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25832,10 +25832,10 @@
                 "to": {
                     "startLine": 1236,
                     "startColumn": 4,
-                    "startOffset": 94790,
+                    "startOffset": 94797,
                     "endLine": 1242,
                     "endColumn": 12,
-                    "endOffset": 95160
+                    "endOffset": 95167
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25853,9 +25853,9 @@
                 "to": {
                     "startLine": 1243,
                     "startColumn": 4,
-                    "startOffset": 95165,
+                    "startOffset": 95172,
                     "endColumn": 117,
-                    "endOffset": 95278
+                    "endOffset": 95285
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25872,10 +25872,10 @@
                 "to": {
                     "startLine": 1244,
                     "startColumn": 4,
-                    "startOffset": 95283,
+                    "startOffset": 95290,
                     "endLine": 1252,
                     "endColumn": 12,
-                    "endOffset": 95816
+                    "endOffset": 95823
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25893,10 +25893,10 @@
                 "to": {
                     "startLine": 1253,
                     "startColumn": 4,
-                    "startOffset": 95821,
+                    "startOffset": 95828,
                     "endLine": 1255,
                     "endColumn": 12,
-                    "endOffset": 95973
+                    "endOffset": 95980
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25914,10 +25914,10 @@
                 "to": {
                     "startLine": 1256,
                     "startColumn": 4,
-                    "startOffset": 95978,
+                    "startOffset": 95985,
                     "endLine": 1258,
                     "endColumn": 12,
-                    "endOffset": 96169
+                    "endOffset": 96176
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25935,10 +25935,10 @@
                 "to": {
                     "startLine": 1259,
                     "startColumn": 4,
-                    "startOffset": 96174,
+                    "startOffset": 96181,
                     "endLine": 1262,
                     "endColumn": 12,
-                    "endOffset": 96442
+                    "endOffset": 96449
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25956,10 +25956,10 @@
                 "to": {
                     "startLine": 1263,
                     "startColumn": 4,
-                    "startOffset": 96447,
+                    "startOffset": 96454,
                     "endLine": 1266,
                     "endColumn": 12,
-                    "endOffset": 96698
+                    "endOffset": 96705
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25977,10 +25977,10 @@
                 "to": {
                     "startLine": 1267,
                     "startColumn": 4,
-                    "startOffset": 96703,
+                    "startOffset": 96710,
                     "endLine": 1270,
                     "endColumn": 12,
-                    "endOffset": 96868
+                    "endOffset": 96875
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -25998,10 +25998,10 @@
                 "to": {
                     "startLine": 1271,
                     "startColumn": 4,
-                    "startOffset": 96873,
+                    "startOffset": 96880,
                     "endLine": 1273,
                     "endColumn": 12,
-                    "endOffset": 97009
+                    "endOffset": 97016
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26019,9 +26019,9 @@
                 "to": {
                     "startLine": 1274,
                     "startColumn": 4,
-                    "startOffset": 97014,
+                    "startOffset": 97021,
                     "endColumn": 63,
-                    "endOffset": 97073
+                    "endOffset": 97080
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26038,10 +26038,10 @@
                 "to": {
                     "startLine": 1275,
                     "startColumn": 4,
-                    "startOffset": 97078,
+                    "startOffset": 97085,
                     "endLine": 1278,
                     "endColumn": 12,
-                    "endOffset": 97355
+                    "endOffset": 97362
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26059,10 +26059,10 @@
                 "to": {
                     "startLine": 1279,
                     "startColumn": 4,
-                    "startOffset": 97360,
+                    "startOffset": 97367,
                     "endLine": 1282,
                     "endColumn": 12,
-                    "endOffset": 97641
+                    "endOffset": 97648
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26080,10 +26080,10 @@
                 "to": {
                     "startLine": 1283,
                     "startColumn": 4,
-                    "startOffset": 97646,
+                    "startOffset": 97653,
                     "endLine": 1292,
                     "endColumn": 12,
-                    "endOffset": 98317
+                    "endOffset": 98324
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26101,10 +26101,10 @@
                 "to": {
                     "startLine": 1293,
                     "startColumn": 4,
-                    "startOffset": 98322,
+                    "startOffset": 98329,
                     "endLine": 1297,
                     "endColumn": 12,
-                    "endOffset": 98581
+                    "endOffset": 98588
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26122,10 +26122,10 @@
                 "to": {
                     "startLine": 1298,
                     "startColumn": 4,
-                    "startOffset": 98586,
+                    "startOffset": 98593,
                     "endLine": 1304,
                     "endColumn": 12,
-                    "endOffset": 98919
+                    "endOffset": 98926
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26143,10 +26143,10 @@
                 "to": {
                     "startLine": 1305,
                     "startColumn": 4,
-                    "startOffset": 98924,
+                    "startOffset": 98931,
                     "endLine": 1310,
                     "endColumn": 12,
-                    "endOffset": 99272
+                    "endOffset": 99279
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26164,9 +26164,9 @@
                 "to": {
                     "startLine": 1311,
                     "startColumn": 4,
-                    "startOffset": 99277,
+                    "startOffset": 99284,
                     "endColumn": 93,
-                    "endOffset": 99366
+                    "endOffset": 99373
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26183,10 +26183,10 @@
                 "to": {
                     "startLine": 1312,
                     "startColumn": 4,
-                    "startOffset": 99371,
+                    "startOffset": 99378,
                     "endLine": 1314,
                     "endColumn": 12,
-                    "endOffset": 99552
+                    "endOffset": 99559
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26204,10 +26204,10 @@
                 "to": {
                     "startLine": 1315,
                     "startColumn": 4,
-                    "startOffset": 99557,
+                    "startOffset": 99564,
                     "endLine": 1318,
                     "endColumn": 12,
-                    "endOffset": 99858
+                    "endOffset": 99865
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26225,10 +26225,10 @@
                 "to": {
                     "startLine": 1319,
                     "startColumn": 4,
-                    "startOffset": 99863,
+                    "startOffset": 99870,
                     "endLine": 1323,
                     "endColumn": 12,
-                    "endOffset": 100120
+                    "endOffset": 100127
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26246,10 +26246,10 @@
                 "to": {
                     "startLine": 1324,
                     "startColumn": 4,
-                    "startOffset": 100125,
+                    "startOffset": 100132,
                     "endLine": 1325,
                     "endColumn": 12,
-                    "endOffset": 100245
+                    "endOffset": 100252
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26267,10 +26267,10 @@
                 "to": {
                     "startLine": 1326,
                     "startColumn": 4,
-                    "startOffset": 100250,
+                    "startOffset": 100257,
                     "endLine": 1327,
                     "endColumn": 12,
-                    "endOffset": 100372
+                    "endOffset": 100379
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26288,10 +26288,10 @@
                 "to": {
                     "startLine": 1328,
                     "startColumn": 4,
-                    "startOffset": 100377,
+                    "startOffset": 100384,
                     "endLine": 1330,
                     "endColumn": 12,
-                    "endOffset": 100611
+                    "endOffset": 100618
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26309,10 +26309,10 @@
                 "to": {
                     "startLine": 1331,
                     "startColumn": 4,
-                    "startOffset": 100616,
+                    "startOffset": 100623,
                     "endLine": 1333,
                     "endColumn": 12,
-                    "endOffset": 100822
+                    "endOffset": 100829
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26330,10 +26330,10 @@
                 "to": {
                     "startLine": 1334,
                     "startColumn": 4,
-                    "startOffset": 100827,
+                    "startOffset": 100834,
                     "endLine": 1335,
                     "endColumn": 12,
-                    "endOffset": 100941
+                    "endOffset": 100948
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26351,10 +26351,10 @@
                 "to": {
                     "startLine": 1336,
                     "startColumn": 4,
-                    "startOffset": 100946,
+                    "startOffset": 100953,
                     "endLine": 1339,
                     "endColumn": 12,
-                    "endOffset": 101134
+                    "endOffset": 101141
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26372,10 +26372,10 @@
                 "to": {
                     "startLine": 1340,
                     "startColumn": 4,
-                    "startOffset": 101139,
+                    "startOffset": 101146,
                     "endLine": 1342,
                     "endColumn": 12,
-                    "endOffset": 101311
+                    "endOffset": 101318
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26393,10 +26393,10 @@
                 "to": {
                     "startLine": 1343,
                     "startColumn": 4,
-                    "startOffset": 101316,
+                    "startOffset": 101323,
                     "endLine": 1349,
                     "endColumn": 12,
-                    "endOffset": 101766
+                    "endOffset": 101773
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26414,10 +26414,10 @@
                 "to": {
                     "startLine": 1350,
                     "startColumn": 4,
-                    "startOffset": 101771,
+                    "startOffset": 101778,
                     "endLine": 1352,
                     "endColumn": 12,
-                    "endOffset": 101947
+                    "endOffset": 101954
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26435,10 +26435,10 @@
                 "to": {
                     "startLine": 1353,
                     "startColumn": 4,
-                    "startOffset": 101952,
+                    "startOffset": 101959,
                     "endLine": 1355,
                     "endColumn": 12,
-                    "endOffset": 102069
+                    "endOffset": 102076
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26456,10 +26456,10 @@
                 "to": {
                     "startLine": 1356,
                     "startColumn": 4,
-                    "startOffset": 102074,
+                    "startOffset": 102081,
                     "endLine": 1359,
                     "endColumn": 12,
-                    "endOffset": 102328
+                    "endOffset": 102335
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26477,10 +26477,10 @@
                 "to": {
                     "startLine": 1360,
                     "startColumn": 4,
-                    "startOffset": 102333,
+                    "startOffset": 102340,
                     "endLine": 1361,
                     "endColumn": 12,
-                    "endOffset": 102441
+                    "endOffset": 102448
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26498,10 +26498,10 @@
                 "to": {
                     "startLine": 1362,
                     "startColumn": 4,
-                    "startOffset": 102446,
+                    "startOffset": 102453,
                     "endLine": 1365,
                     "endColumn": 12,
-                    "endOffset": 102628
+                    "endOffset": 102635
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26519,10 +26519,10 @@
                 "to": {
                     "startLine": 1366,
                     "startColumn": 4,
-                    "startOffset": 102633,
+                    "startOffset": 102640,
                     "endLine": 1367,
                     "endColumn": 12,
-                    "endOffset": 102730
+                    "endOffset": 102737
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26540,10 +26540,10 @@
                 "to": {
                     "startLine": 1368,
                     "startColumn": 4,
-                    "startOffset": 102735,
+                    "startOffset": 102742,
                     "endLine": 1373,
                     "endColumn": 12,
-                    "endOffset": 103174
+                    "endOffset": 103181
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26561,10 +26561,10 @@
                 "to": {
                     "startLine": 1374,
                     "startColumn": 4,
-                    "startOffset": 103179,
+                    "startOffset": 103186,
                     "endLine": 1375,
                     "endColumn": 12,
-                    "endOffset": 103298
+                    "endOffset": 103305
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26582,10 +26582,10 @@
                 "to": {
                     "startLine": 1376,
                     "startColumn": 4,
-                    "startOffset": 103303,
+                    "startOffset": 103310,
                     "endLine": 1379,
                     "endColumn": 12,
-                    "endOffset": 103573
+                    "endOffset": 103580
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26603,10 +26603,10 @@
                 "to": {
                     "startLine": 1380,
                     "startColumn": 4,
-                    "startOffset": 103578,
+                    "startOffset": 103585,
                     "endLine": 1387,
                     "endColumn": 12,
-                    "endOffset": 104081
+                    "endOffset": 104088
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26624,10 +26624,10 @@
                 "to": {
                     "startLine": 1388,
                     "startColumn": 4,
-                    "startOffset": 104086,
+                    "startOffset": 104093,
                     "endLine": 1395,
                     "endColumn": 12,
-                    "endOffset": 104577
+                    "endOffset": 104584
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26645,10 +26645,10 @@
                 "to": {
                     "startLine": 1396,
                     "startColumn": 4,
-                    "startOffset": 104582,
+                    "startOffset": 104589,
                     "endLine": 1407,
                     "endColumn": 12,
-                    "endOffset": 105454
+                    "endOffset": 105461
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26666,10 +26666,10 @@
                 "to": {
                     "startLine": 1408,
                     "startColumn": 4,
-                    "startOffset": 105459,
+                    "startOffset": 105466,
                     "endLine": 1413,
                     "endColumn": 12,
-                    "endOffset": 105748
+                    "endOffset": 105755
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26687,10 +26687,10 @@
                 "to": {
                     "startLine": 1414,
                     "startColumn": 4,
-                    "startOffset": 105753,
+                    "startOffset": 105760,
                     "endLine": 1422,
                     "endColumn": 12,
-                    "endOffset": 106318
+                    "endOffset": 106325
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26708,10 +26708,10 @@
                 "to": {
                     "startLine": 1423,
                     "startColumn": 4,
-                    "startOffset": 106323,
+                    "startOffset": 106330,
                     "endLine": 1425,
                     "endColumn": 12,
-                    "endOffset": 106467
+                    "endOffset": 106474
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26729,10 +26729,10 @@
                 "to": {
                     "startLine": 1426,
                     "startColumn": 4,
-                    "startOffset": 106472,
+                    "startOffset": 106479,
                     "endLine": 1436,
                     "endColumn": 12,
-                    "endOffset": 107199
+                    "endOffset": 107206
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26750,10 +26750,10 @@
                 "to": {
                     "startLine": 1437,
                     "startColumn": 4,
-                    "startOffset": 107204,
+                    "startOffset": 107211,
                     "endLine": 1439,
                     "endColumn": 12,
-                    "endOffset": 107371
+                    "endOffset": 107378
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26771,10 +26771,10 @@
                 "to": {
                     "startLine": 1440,
                     "startColumn": 4,
-                    "startOffset": 107376,
+                    "startOffset": 107383,
                     "endLine": 1444,
                     "endColumn": 12,
-                    "endOffset": 107707
+                    "endOffset": 107714
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26792,10 +26792,10 @@
                 "to": {
                     "startLine": 1445,
                     "startColumn": 4,
-                    "startOffset": 107712,
+                    "startOffset": 107719,
                     "endLine": 1458,
                     "endColumn": 12,
-                    "endOffset": 108765
+                    "endOffset": 108772
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26813,10 +26813,10 @@
                 "to": {
                     "startLine": 1459,
                     "startColumn": 4,
-                    "startOffset": 108770,
+                    "startOffset": 108777,
                     "endLine": 1463,
                     "endColumn": 12,
-                    "endOffset": 109043
+                    "endOffset": 109050
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26834,10 +26834,10 @@
                 "to": {
                     "startLine": 1464,
                     "startColumn": 4,
-                    "startOffset": 109048,
+                    "startOffset": 109055,
                     "endLine": 1505,
                     "endColumn": 12,
-                    "endOffset": 112229
+                    "endOffset": 112236
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26855,10 +26855,10 @@
                 "to": {
                     "startLine": 1506,
                     "startColumn": 4,
-                    "startOffset": 112234,
+                    "startOffset": 112241,
                     "endLine": 1548,
                     "endColumn": 12,
-                    "endOffset": 115558
+                    "endOffset": 115565
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26876,9 +26876,9 @@
                 "to": {
                     "startLine": 1549,
                     "startColumn": 4,
-                    "startOffset": 115563,
+                    "startOffset": 115570,
                     "endColumn": 61,
-                    "endOffset": 115620
+                    "endOffset": 115627
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26895,10 +26895,10 @@
                 "to": {
                     "startLine": 1550,
                     "startColumn": 4,
-                    "startOffset": 115625,
+                    "startOffset": 115632,
                     "endLine": 1559,
                     "endColumn": 12,
-                    "endOffset": 116250
+                    "endOffset": 116257
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26916,10 +26916,10 @@
                 "to": {
                     "startLine": 1560,
                     "startColumn": 4,
-                    "startOffset": 116255,
+                    "startOffset": 116262,
                     "endLine": 1568,
                     "endColumn": 12,
-                    "endOffset": 116864
+                    "endOffset": 116871
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26937,9 +26937,9 @@
                 "to": {
                     "startLine": 1569,
                     "startColumn": 4,
-                    "startOffset": 116869,
+                    "startOffset": 116876,
                     "endColumn": 85,
-                    "endOffset": 116950
+                    "endOffset": 116957
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26956,10 +26956,10 @@
                 "to": {
                     "startLine": 1570,
                     "startColumn": 4,
-                    "startOffset": 116955,
+                    "startOffset": 116962,
                     "endLine": 1571,
                     "endColumn": 12,
-                    "endOffset": 117063
+                    "endOffset": 117070
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26977,10 +26977,10 @@
                 "to": {
                     "startLine": 1572,
                     "startColumn": 4,
-                    "startOffset": 117068,
+                    "startOffset": 117075,
                     "endLine": 1575,
                     "endColumn": 12,
-                    "endOffset": 117292
+                    "endOffset": 117299
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -26998,10 +26998,10 @@
                 "to": {
                     "startLine": 1576,
                     "startColumn": 4,
-                    "startOffset": 117297,
+                    "startOffset": 117304,
                     "endLine": 1578,
                     "endColumn": 12,
-                    "endOffset": 117452
+                    "endOffset": 117459
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27019,10 +27019,10 @@
                 "to": {
                     "startLine": 1579,
                     "startColumn": 4,
-                    "startOffset": 117457,
+                    "startOffset": 117464,
                     "endLine": 1581,
                     "endColumn": 12,
-                    "endOffset": 117604
+                    "endOffset": 117611
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27040,10 +27040,10 @@
                 "to": {
                     "startLine": 1582,
                     "startColumn": 4,
-                    "startOffset": 117609,
+                    "startOffset": 117616,
                     "endLine": 1584,
                     "endColumn": 12,
-                    "endOffset": 117775
+                    "endOffset": 117782
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27061,10 +27061,10 @@
                 "to": {
                     "startLine": 1585,
                     "startColumn": 4,
-                    "startOffset": 117780,
+                    "startOffset": 117787,
                     "endLine": 1587,
                     "endColumn": 12,
-                    "endOffset": 117942
+                    "endOffset": 117949
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27082,10 +27082,10 @@
                 "to": {
                     "startLine": 1588,
                     "startColumn": 4,
-                    "startOffset": 117947,
+                    "startOffset": 117954,
                     "endLine": 1591,
                     "endColumn": 12,
-                    "endOffset": 118185
+                    "endOffset": 118192
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27103,10 +27103,10 @@
                 "to": {
                     "startLine": 1592,
                     "startColumn": 4,
-                    "startOffset": 118190,
+                    "startOffset": 118197,
                     "endLine": 1594,
                     "endColumn": 12,
-                    "endOffset": 118355
+                    "endOffset": 118362
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27124,10 +27124,10 @@
                 "to": {
                     "startLine": 1595,
                     "startColumn": 4,
-                    "startOffset": 118360,
+                    "startOffset": 118367,
                     "endLine": 1597,
                     "endColumn": 12,
-                    "endOffset": 118528
+                    "endOffset": 118535
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27145,10 +27145,10 @@
                 "to": {
                     "startLine": 1598,
                     "startColumn": 4,
-                    "startOffset": 118533,
+                    "startOffset": 118540,
                     "endLine": 1600,
                     "endColumn": 12,
-                    "endOffset": 118699
+                    "endOffset": 118706
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27166,10 +27166,10 @@
                 "to": {
                     "startLine": 1601,
                     "startColumn": 4,
-                    "startOffset": 118704,
+                    "startOffset": 118711,
                     "endLine": 1604,
                     "endColumn": 12,
-                    "endOffset": 118973
+                    "endOffset": 118980
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27187,10 +27187,10 @@
                 "to": {
                     "startLine": 1605,
                     "startColumn": 4,
-                    "startOffset": 118978,
+                    "startOffset": 118985,
                     "endLine": 1607,
                     "endColumn": 12,
-                    "endOffset": 119172
+                    "endOffset": 119179
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27208,10 +27208,10 @@
                 "to": {
                     "startLine": 1608,
                     "startColumn": 4,
-                    "startOffset": 119177,
+                    "startOffset": 119184,
                     "endLine": 1611,
                     "endColumn": 12,
-                    "endOffset": 119377
+                    "endOffset": 119384
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27229,10 +27229,10 @@
                 "to": {
                     "startLine": 1612,
                     "startColumn": 4,
-                    "startOffset": 119382,
+                    "startOffset": 119389,
                     "endLine": 1615,
                     "endColumn": 12,
-                    "endOffset": 119707
+                    "endOffset": 119714
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27250,9 +27250,9 @@
                 "to": {
                     "startLine": 1616,
                     "startColumn": 4,
-                    "startOffset": 119712,
+                    "startOffset": 119719,
                     "endColumn": 83,
-                    "endOffset": 119791
+                    "endOffset": 119798
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27269,9 +27269,9 @@
                 "to": {
                     "startLine": 1617,
                     "startColumn": 4,
-                    "startOffset": 119796,
+                    "startOffset": 119803,
                     "endColumn": 95,
-                    "endOffset": 119887
+                    "endOffset": 119894
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27288,9 +27288,9 @@
                 "to": {
                     "startLine": 1618,
                     "startColumn": 4,
-                    "startOffset": 119892,
+                    "startOffset": 119899,
                     "endColumn": 95,
-                    "endOffset": 119983
+                    "endOffset": 119990
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27307,9 +27307,9 @@
                 "to": {
                     "startLine": 1619,
                     "startColumn": 4,
-                    "startOffset": 119988,
+                    "startOffset": 119995,
                     "endColumn": 97,
-                    "endOffset": 120081
+                    "endOffset": 120088
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27326,9 +27326,9 @@
                 "to": {
                     "startLine": 1620,
                     "startColumn": 4,
-                    "startOffset": 120086,
+                    "startOffset": 120093,
                     "endColumn": 99,
-                    "endOffset": 120181
+                    "endOffset": 120188
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27345,9 +27345,9 @@
                 "to": {
                     "startLine": 1621,
                     "startColumn": 4,
-                    "startOffset": 120186,
+                    "startOffset": 120193,
                     "endColumn": 101,
-                    "endOffset": 120283
+                    "endOffset": 120290
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27364,9 +27364,9 @@
                 "to": {
                     "startLine": 1622,
                     "startColumn": 4,
-                    "startOffset": 120288,
+                    "startOffset": 120295,
                     "endColumn": 101,
-                    "endOffset": 120385
+                    "endOffset": 120392
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27383,9 +27383,9 @@
                 "to": {
                     "startLine": 1623,
                     "startColumn": 4,
-                    "startOffset": 120390,
+                    "startOffset": 120397,
                     "endColumn": 101,
-                    "endOffset": 120487
+                    "endOffset": 120494
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27402,9 +27402,9 @@
                 "to": {
                     "startLine": 1624,
                     "startColumn": 4,
-                    "startOffset": 120492,
+                    "startOffset": 120499,
                     "endColumn": 101,
-                    "endOffset": 120589
+                    "endOffset": 120596
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27421,9 +27421,9 @@
                 "to": {
                     "startLine": 1625,
                     "startColumn": 4,
-                    "startOffset": 120594,
+                    "startOffset": 120601,
                     "endColumn": 101,
-                    "endOffset": 120691
+                    "endOffset": 120698
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27440,9 +27440,9 @@
                 "to": {
                     "startLine": 1626,
                     "startColumn": 4,
-                    "startOffset": 120696,
+                    "startOffset": 120703,
                     "endColumn": 99,
-                    "endOffset": 120791
+                    "endOffset": 120798
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27459,9 +27459,9 @@
                 "to": {
                     "startLine": 1627,
                     "startColumn": 4,
-                    "startOffset": 120796,
+                    "startOffset": 120803,
                     "endColumn": 95,
-                    "endOffset": 120887
+                    "endOffset": 120894
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27478,9 +27478,9 @@
                 "to": {
                     "startLine": 1628,
                     "startColumn": 4,
-                    "startOffset": 120892,
+                    "startOffset": 120899,
                     "endColumn": 111,
-                    "endOffset": 120999
+                    "endOffset": 121006
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27497,9 +27497,9 @@
                 "to": {
                     "startLine": 1629,
                     "startColumn": 4,
-                    "startOffset": 121004,
+                    "startOffset": 121011,
                     "endColumn": 128,
-                    "endOffset": 121128
+                    "endOffset": 121135
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27516,9 +27516,9 @@
                 "to": {
                     "startLine": 1630,
                     "startColumn": 4,
-                    "startOffset": 121133,
+                    "startOffset": 121140,
                     "endColumn": 122,
-                    "endOffset": 121251
+                    "endOffset": 121258
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27535,9 +27535,9 @@
                 "to": {
                     "startLine": 1631,
                     "startColumn": 4,
-                    "startOffset": 121256,
+                    "startOffset": 121263,
                     "endColumn": 130,
-                    "endOffset": 121382
+                    "endOffset": 121389
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27554,9 +27554,9 @@
                 "to": {
                     "startLine": 1632,
                     "startColumn": 4,
-                    "startOffset": 121387,
+                    "startOffset": 121394,
                     "endColumn": 130,
-                    "endOffset": 121513
+                    "endOffset": 121520
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27573,9 +27573,9 @@
                 "to": {
                     "startLine": 1633,
                     "startColumn": 4,
-                    "startOffset": 121518,
+                    "startOffset": 121525,
                     "endColumn": 97,
-                    "endOffset": 121611
+                    "endOffset": 121618
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27592,9 +27592,9 @@
                 "to": {
                     "startLine": 1634,
                     "startColumn": 4,
-                    "startOffset": 121616,
+                    "startOffset": 121623,
                     "endColumn": 113,
-                    "endOffset": 121725
+                    "endOffset": 121732
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27611,9 +27611,9 @@
                 "to": {
                     "startLine": 1635,
                     "startColumn": 4,
-                    "startOffset": 121730,
+                    "startOffset": 121737,
                     "endColumn": 93,
-                    "endOffset": 121819
+                    "endOffset": 121826
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27630,10 +27630,10 @@
                 "to": {
                     "startLine": 1636,
                     "startColumn": 4,
-                    "startOffset": 121824,
+                    "startOffset": 121831,
                     "endLine": 1639,
                     "endColumn": 12,
-                    "endOffset": 122018
+                    "endOffset": 122025
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27651,10 +27651,10 @@
                 "to": {
                     "startLine": 1640,
                     "startColumn": 4,
-                    "startOffset": 122023,
+                    "startOffset": 122030,
                     "endLine": 1643,
                     "endColumn": 12,
-                    "endOffset": 122222
+                    "endOffset": 122229
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27672,9 +27672,9 @@
                 "to": {
                     "startLine": 1644,
                     "startColumn": 4,
-                    "startOffset": 122227,
+                    "startOffset": 122234,
                     "endColumn": 68,
-                    "endOffset": 122291
+                    "endOffset": 122298
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27691,9 +27691,9 @@
                 "to": {
                     "startLine": 1645,
                     "startColumn": 4,
-                    "startOffset": 122296,
+                    "startOffset": 122303,
                     "endColumn": 115,
-                    "endOffset": 122407
+                    "endOffset": 122414
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27710,9 +27710,9 @@
                 "to": {
                     "startLine": 1646,
                     "startColumn": 4,
-                    "startOffset": 122412,
+                    "startOffset": 122419,
                     "endColumn": 127,
-                    "endOffset": 122535
+                    "endOffset": 122542
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27729,9 +27729,9 @@
                 "to": {
                     "startLine": 1647,
                     "startColumn": 4,
-                    "startOffset": 122540,
+                    "startOffset": 122547,
                     "endColumn": 63,
-                    "endOffset": 122599
+                    "endOffset": 122606
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27748,10 +27748,10 @@
                 "to": {
                     "startLine": 1648,
                     "startColumn": 4,
-                    "startOffset": 122604,
+                    "startOffset": 122611,
                     "endLine": 1651,
                     "endColumn": 12,
-                    "endOffset": 122803
+                    "endOffset": 122810
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27769,9 +27769,9 @@
                 "to": {
                     "startLine": 1652,
                     "startColumn": 4,
-                    "startOffset": 122808,
+                    "startOffset": 122815,
                     "endColumn": 68,
-                    "endOffset": 122872
+                    "endOffset": 122879
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27788,10 +27788,10 @@
                 "to": {
                     "startLine": 1653,
                     "startColumn": 4,
-                    "startOffset": 122877,
+                    "startOffset": 122884,
                     "endLine": 1656,
                     "endColumn": 12,
-                    "endOffset": 123075
+                    "endOffset": 123082
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27809,9 +27809,9 @@
                 "to": {
                     "startLine": 1657,
                     "startColumn": 4,
-                    "startOffset": 123080,
+                    "startOffset": 123087,
                     "endColumn": 69,
-                    "endOffset": 123145
+                    "endOffset": 123152
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27828,10 +27828,10 @@
                 "to": {
                     "startLine": 1658,
                     "startColumn": 4,
-                    "startOffset": 123150,
+                    "startOffset": 123157,
                     "endLine": 1659,
                     "endColumn": 12,
-                    "endOffset": 123285
+                    "endOffset": 123292
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27849,10 +27849,10 @@
                 "to": {
                     "startLine": 1660,
                     "startColumn": 4,
-                    "startOffset": 123290,
+                    "startOffset": 123297,
                     "endLine": 1661,
                     "endColumn": 12,
-                    "endOffset": 123419
+                    "endOffset": 123426
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27870,9 +27870,9 @@
                 "to": {
                     "startLine": 1662,
                     "startColumn": 4,
-                    "startOffset": 123424,
+                    "startOffset": 123431,
                     "endColumn": 95,
-                    "endOffset": 123515
+                    "endOffset": 123522
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27889,9 +27889,9 @@
                 "to": {
                     "startLine": 1663,
                     "startColumn": 4,
-                    "startOffset": 123520,
+                    "startOffset": 123527,
                     "endColumn": 111,
-                    "endOffset": 123627
+                    "endOffset": 123634
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27908,9 +27908,9 @@
                 "to": {
                     "startLine": 1664,
                     "startColumn": 4,
-                    "startOffset": 123632,
+                    "startOffset": 123639,
                     "endColumn": 99,
-                    "endOffset": 123727
+                    "endOffset": 123734
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27927,9 +27927,9 @@
                 "to": {
                     "startLine": 1665,
                     "startColumn": 4,
-                    "startOffset": 123732,
+                    "startOffset": 123739,
                     "endColumn": 115,
-                    "endOffset": 123843
+                    "endOffset": 123850
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27946,9 +27946,9 @@
                 "to": {
                     "startLine": 1666,
                     "startColumn": 4,
-                    "startOffset": 123848,
+                    "startOffset": 123855,
                     "endColumn": 95,
-                    "endOffset": 123939
+                    "endOffset": 123946
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27965,9 +27965,9 @@
                 "to": {
                     "startLine": 1667,
                     "startColumn": 4,
-                    "startOffset": 123944,
+                    "startOffset": 123951,
                     "endColumn": 111,
-                    "endOffset": 124051
+                    "endOffset": 124058
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -27984,10 +27984,10 @@
                 "to": {
                     "startLine": 1668,
                     "startColumn": 4,
-                    "startOffset": 124056,
+                    "startOffset": 124063,
                     "endLine": 1669,
                     "endColumn": 12,
-                    "endOffset": 124191
+                    "endOffset": 124198
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28005,9 +28005,9 @@
                 "to": {
                     "startLine": 1670,
                     "startColumn": 4,
-                    "startOffset": 124196,
+                    "startOffset": 124203,
                     "endColumn": 135,
-                    "endOffset": 124327
+                    "endOffset": 124334
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28024,10 +28024,10 @@
                 "to": {
                     "startLine": 1671,
                     "startColumn": 4,
-                    "startOffset": 124332,
+                    "startOffset": 124339,
                     "endLine": 1672,
                     "endColumn": 12,
-                    "endOffset": 124491
+                    "endOffset": 124498
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28045,9 +28045,9 @@
                 "to": {
                     "startLine": 1673,
                     "startColumn": 4,
-                    "startOffset": 124496,
+                    "startOffset": 124503,
                     "endColumn": 129,
-                    "endOffset": 124621
+                    "endOffset": 124628
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28064,10 +28064,10 @@
                 "to": {
                     "startLine": 1674,
                     "startColumn": 4,
-                    "startOffset": 124626,
+                    "startOffset": 124633,
                     "endLine": 1675,
                     "endColumn": 12,
-                    "endOffset": 124779
+                    "endOffset": 124786
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28085,10 +28085,10 @@
                 "to": {
                     "startLine": 1676,
                     "startColumn": 4,
-                    "startOffset": 124784,
+                    "startOffset": 124791,
                     "endLine": 1677,
                     "endColumn": 12,
-                    "endOffset": 124929
+                    "endOffset": 124936
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28106,9 +28106,9 @@
                 "to": {
                     "startLine": 1678,
                     "startColumn": 4,
-                    "startOffset": 124934,
+                    "startOffset": 124941,
                     "endColumn": 140,
-                    "endOffset": 125070
+                    "endOffset": 125077
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28125,10 +28125,10 @@
                 "to": {
                     "startLine": 1679,
                     "startColumn": 4,
-                    "startOffset": 125075,
+                    "startOffset": 125082,
                     "endLine": 1680,
                     "endColumn": 12,
-                    "endOffset": 125214
+                    "endOffset": 125221
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28146,9 +28146,9 @@
                 "to": {
                     "startLine": 1681,
                     "startColumn": 4,
-                    "startOffset": 125219,
+                    "startOffset": 125226,
                     "endColumn": 134,
-                    "endOffset": 125349
+                    "endOffset": 125356
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28165,9 +28165,9 @@
                 "to": {
                     "startLine": 1682,
                     "startColumn": 4,
-                    "startOffset": 125354,
+                    "startOffset": 125361,
                     "endColumn": 111,
-                    "endOffset": 125461
+                    "endOffset": 125468
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28184,9 +28184,9 @@
                 "to": {
                     "startLine": 1683,
                     "startColumn": 4,
-                    "startOffset": 125466,
+                    "startOffset": 125473,
                     "endColumn": 149,
-                    "endOffset": 125611
+                    "endOffset": 125618
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28203,9 +28203,9 @@
                 "to": {
                     "startLine": 1684,
                     "startColumn": 4,
-                    "startOffset": 125616,
+                    "startOffset": 125623,
                     "endColumn": 127,
-                    "endOffset": 125739
+                    "endOffset": 125746
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28222,9 +28222,9 @@
                 "to": {
                     "startLine": 1685,
                     "startColumn": 4,
-                    "startOffset": 125744,
+                    "startOffset": 125751,
                     "endColumn": 127,
-                    "endOffset": 125867
+                    "endOffset": 125874
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28241,10 +28241,10 @@
                 "to": {
                     "startLine": 1686,
                     "startColumn": 4,
-                    "startOffset": 125872,
+                    "startOffset": 125879,
                     "endLine": 1687,
                     "endColumn": 12,
-                    "endOffset": 126003
+                    "endOffset": 126010
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28262,9 +28262,9 @@
                 "to": {
                     "startLine": 1688,
                     "startColumn": 4,
-                    "startOffset": 126008,
+                    "startOffset": 126015,
                     "endColumn": 131,
-                    "endOffset": 126135
+                    "endOffset": 126142
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28281,9 +28281,9 @@
                 "to": {
                     "startLine": 1689,
                     "startColumn": 4,
-                    "startOffset": 126140,
+                    "startOffset": 126147,
                     "endColumn": 129,
-                    "endOffset": 126265
+                    "endOffset": 126272
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28300,9 +28300,9 @@
                 "to": {
                     "startLine": 1690,
                     "startColumn": 4,
-                    "startOffset": 126270,
+                    "startOffset": 126277,
                     "endColumn": 129,
-                    "endOffset": 126395
+                    "endOffset": 126402
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28319,9 +28319,9 @@
                 "to": {
                     "startLine": 1691,
                     "startColumn": 4,
-                    "startOffset": 126400,
+                    "startOffset": 126407,
                     "endColumn": 111,
-                    "endOffset": 126507
+                    "endOffset": 126514
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28338,9 +28338,9 @@
                 "to": {
                     "startLine": 1692,
                     "startColumn": 4,
-                    "startOffset": 126512,
+                    "startOffset": 126519,
                     "endColumn": 139,
-                    "endOffset": 126647
+                    "endOffset": 126654
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28357,9 +28357,9 @@
                 "to": {
                     "startLine": 1693,
                     "startColumn": 4,
-                    "startOffset": 126652,
+                    "startOffset": 126659,
                     "endColumn": 67,
-                    "endOffset": 126715
+                    "endOffset": 126722
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28376,9 +28376,9 @@
                 "to": {
                     "startLine": 1694,
                     "startColumn": 4,
-                    "startOffset": 126720,
+                    "startOffset": 126727,
                     "endColumn": 72,
-                    "endOffset": 126788
+                    "endOffset": 126795
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28395,9 +28395,9 @@
                 "to": {
                     "startLine": 1695,
                     "startColumn": 4,
-                    "startOffset": 126793,
+                    "startOffset": 126800,
                     "endColumn": 73,
-                    "endOffset": 126862
+                    "endOffset": 126869
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28414,9 +28414,9 @@
                 "to": {
                     "startLine": 1696,
                     "startColumn": 4,
-                    "startOffset": 126867,
+                    "startOffset": 126874,
                     "endColumn": 72,
-                    "endOffset": 126935
+                    "endOffset": 126942
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28433,9 +28433,9 @@
                 "to": {
                     "startLine": 1697,
                     "startColumn": 4,
-                    "startOffset": 126940,
+                    "startOffset": 126947,
                     "endColumn": 73,
-                    "endOffset": 127009
+                    "endOffset": 127016
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28452,10 +28452,10 @@
                 "to": {
                     "startLine": 1698,
                     "startColumn": 4,
-                    "startOffset": 127014,
+                    "startOffset": 127021,
                     "endLine": 1699,
                     "endColumn": 12,
-                    "endOffset": 127155
+                    "endOffset": 127162
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28473,10 +28473,10 @@
                 "to": {
                     "startLine": 1700,
                     "startColumn": 4,
-                    "startOffset": 127160,
+                    "startOffset": 127167,
                     "endLine": 1701,
                     "endColumn": 12,
-                    "endOffset": 127299
+                    "endOffset": 127306
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28494,10 +28494,10 @@
                 "to": {
                     "startLine": 1702,
                     "startColumn": 4,
-                    "startOffset": 127304,
+                    "startOffset": 127311,
                     "endLine": 1703,
                     "endColumn": 12,
-                    "endOffset": 127437
+                    "endOffset": 127444
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28515,9 +28515,9 @@
                 "to": {
                     "startLine": 1704,
                     "startColumn": 4,
-                    "startOffset": 127442,
+                    "startOffset": 127449,
                     "endColumn": 65,
-                    "endOffset": 127503
+                    "endOffset": 127510
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28534,9 +28534,9 @@
                 "to": {
                     "startLine": 1705,
                     "startColumn": 4,
-                    "startOffset": 127508,
+                    "startOffset": 127515,
                     "endColumn": 89,
-                    "endOffset": 127593
+                    "endOffset": 127600
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28553,9 +28553,9 @@
                 "to": {
                     "startLine": 1706,
                     "startColumn": 4,
-                    "startOffset": 127598,
+                    "startOffset": 127605,
                     "endColumn": 75,
-                    "endOffset": 127669
+                    "endOffset": 127676
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28572,9 +28572,9 @@
                 "to": {
                     "startLine": 1707,
                     "startColumn": 4,
-                    "startOffset": 127674,
+                    "startOffset": 127681,
                     "endColumn": 103,
-                    "endOffset": 127773
+                    "endOffset": 127780
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28591,9 +28591,9 @@
                 "to": {
                     "startLine": 1708,
                     "startColumn": 4,
-                    "startOffset": 127778,
+                    "startOffset": 127785,
                     "endColumn": 89,
-                    "endOffset": 127863
+                    "endOffset": 127870
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28610,9 +28610,9 @@
                 "to": {
                     "startLine": 1709,
                     "startColumn": 4,
-                    "startOffset": 127868,
+                    "startOffset": 127875,
                     "endColumn": 101,
-                    "endOffset": 127965
+                    "endOffset": 127972
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28629,9 +28629,9 @@
                 "to": {
                     "startLine": 1710,
                     "startColumn": 4,
-                    "startOffset": 127970,
+                    "startOffset": 127977,
                     "endColumn": 107,
-                    "endOffset": 128073
+                    "endOffset": 128080
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28648,9 +28648,9 @@
                 "to": {
                     "startLine": 1711,
                     "startColumn": 4,
-                    "startOffset": 128078,
+                    "startOffset": 128085,
                     "endColumn": 107,
-                    "endOffset": 128181
+                    "endOffset": 128188
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28667,9 +28667,9 @@
                 "to": {
                     "startLine": 1712,
                     "startColumn": 4,
-                    "startOffset": 128186,
+                    "startOffset": 128193,
                     "endColumn": 99,
-                    "endOffset": 128281
+                    "endOffset": 128288
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28686,9 +28686,9 @@
                 "to": {
                     "startLine": 1713,
                     "startColumn": 4,
-                    "startOffset": 128286,
+                    "startOffset": 128293,
                     "endColumn": 79,
-                    "endOffset": 128361
+                    "endOffset": 128368
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28705,9 +28705,9 @@
                 "to": {
                     "startLine": 1714,
                     "startColumn": 4,
-                    "startOffset": 128366,
+                    "startOffset": 128373,
                     "endColumn": 91,
-                    "endOffset": 128453
+                    "endOffset": 128460
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28724,9 +28724,9 @@
                 "to": {
                     "startLine": 1715,
                     "startColumn": 4,
-                    "startOffset": 128458,
+                    "startOffset": 128465,
                     "endColumn": 97,
-                    "endOffset": 128551
+                    "endOffset": 128558
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28743,10 +28743,10 @@
                 "to": {
                     "startLine": 1716,
                     "startColumn": 4,
-                    "startOffset": 128556,
+                    "startOffset": 128563,
                     "endLine": 1717,
                     "endColumn": 12,
-                    "endOffset": 128661
+                    "endOffset": 128668
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28764,9 +28764,9 @@
                 "to": {
                     "startLine": 1718,
                     "startColumn": 4,
-                    "startOffset": 128666,
+                    "startOffset": 128673,
                     "endColumn": 77,
-                    "endOffset": 128739
+                    "endOffset": 128746
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28783,9 +28783,9 @@
                 "to": {
                     "startLine": 1719,
                     "startColumn": 4,
-                    "startOffset": 128744,
+                    "startOffset": 128751,
                     "endColumn": 105,
-                    "endOffset": 128845
+                    "endOffset": 128852
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28802,9 +28802,9 @@
                 "to": {
                     "startLine": 1720,
                     "startColumn": 4,
-                    "startOffset": 128850,
+                    "startOffset": 128857,
                     "endColumn": 91,
-                    "endOffset": 128937
+                    "endOffset": 128944
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28821,9 +28821,9 @@
                 "to": {
                     "startLine": 1721,
                     "startColumn": 4,
-                    "startOffset": 128942,
+                    "startOffset": 128949,
                     "endColumn": 103,
-                    "endOffset": 129041
+                    "endOffset": 129048
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28840,9 +28840,9 @@
                 "to": {
                     "startLine": 1722,
                     "startColumn": 4,
-                    "startOffset": 129046,
+                    "startOffset": 129053,
                     "endColumn": 109,
-                    "endOffset": 129151
+                    "endOffset": 129158
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28859,10 +28859,10 @@
                 "to": {
                     "startLine": 1723,
                     "startColumn": 4,
-                    "startOffset": 129156,
+                    "startOffset": 129163,
                     "endLine": 1724,
                     "endColumn": 12,
-                    "endOffset": 129273
+                    "endOffset": 129280
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28880,10 +28880,10 @@
                 "to": {
                     "startLine": 1725,
                     "startColumn": 4,
-                    "startOffset": 129278,
+                    "startOffset": 129285,
                     "endLine": 1728,
                     "endColumn": 12,
-                    "endOffset": 129436
+                    "endOffset": 129443
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28901,10 +28901,10 @@
                 "to": {
                     "startLine": 1729,
                     "startColumn": 4,
-                    "startOffset": 129441,
+                    "startOffset": 129448,
                     "endLine": 1732,
                     "endColumn": 12,
-                    "endOffset": 129593
+                    "endOffset": 129600
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28922,9 +28922,9 @@
                 "to": {
                     "startLine": 1733,
                     "startColumn": 4,
-                    "startOffset": 129598,
+                    "startOffset": 129605,
                     "endColumn": 79,
-                    "endOffset": 129673
+                    "endOffset": 129680
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28941,9 +28941,9 @@
                 "to": {
                     "startLine": 1734,
                     "startColumn": 4,
-                    "startOffset": 129678,
+                    "startOffset": 129685,
                     "endColumn": 99,
-                    "endOffset": 129773
+                    "endOffset": 129780
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28960,9 +28960,9 @@
                 "to": {
                     "startLine": 1735,
                     "startColumn": 4,
-                    "startOffset": 129778,
+                    "startOffset": 129785,
                     "endColumn": 89,
-                    "endOffset": 129863
+                    "endOffset": 129870
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28979,9 +28979,9 @@
                 "to": {
                     "startLine": 1736,
                     "startColumn": 4,
-                    "startOffset": 129868,
+                    "startOffset": 129875,
                     "endColumn": 109,
-                    "endOffset": 129973
+                    "endOffset": 129980
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -28998,9 +28998,9 @@
                 "to": {
                     "startLine": 1737,
                     "startColumn": 4,
-                    "startOffset": 129978,
+                    "startOffset": 129985,
                     "endColumn": 93,
-                    "endOffset": 130067
+                    "endOffset": 130074
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29017,9 +29017,9 @@
                 "to": {
                     "startLine": 1738,
                     "startColumn": 4,
-                    "startOffset": 130072,
+                    "startOffset": 130079,
                     "endColumn": 105,
-                    "endOffset": 130173
+                    "endOffset": 130180
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29036,9 +29036,9 @@
                 "to": {
                     "startLine": 1739,
                     "startColumn": 4,
-                    "startOffset": 130178,
+                    "startOffset": 130185,
                     "endColumn": 91,
-                    "endOffset": 130265
+                    "endOffset": 130272
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29055,10 +29055,10 @@
                 "to": {
                     "startLine": 1740,
                     "startColumn": 4,
-                    "startOffset": 130270,
+                    "startOffset": 130277,
                     "endLine": 1741,
                     "endColumn": 12,
-                    "endOffset": 130365
+                    "endOffset": 130372
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29076,10 +29076,10 @@
                 "to": {
                     "startLine": 1742,
                     "startColumn": 4,
-                    "startOffset": 130370,
+                    "startOffset": 130377,
                     "endLine": 1743,
                     "endColumn": 12,
-                    "endOffset": 130477
+                    "endOffset": 130484
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29097,10 +29097,10 @@
                 "to": {
                     "startLine": 1744,
                     "startColumn": 4,
-                    "startOffset": 130482,
+                    "startOffset": 130489,
                     "endLine": 1745,
                     "endColumn": 12,
-                    "endOffset": 130591
+                    "endOffset": 130598
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29118,10 +29118,10 @@
                 "to": {
                     "startLine": 1746,
                     "startColumn": 4,
-                    "startOffset": 130596,
+                    "startOffset": 130603,
                     "endLine": 1747,
                     "endColumn": 12,
-                    "endOffset": 130707
+                    "endOffset": 130714
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29139,10 +29139,10 @@
                 "to": {
                     "startLine": 1748,
                     "startColumn": 4,
-                    "startOffset": 130712,
+                    "startOffset": 130719,
                     "endLine": 1749,
                     "endColumn": 12,
-                    "endOffset": 130823
+                    "endOffset": 130830
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29160,9 +29160,9 @@
                 "to": {
                     "startLine": 1750,
                     "startColumn": 4,
-                    "startOffset": 130828,
+                    "startOffset": 130835,
                     "endColumn": 93,
-                    "endOffset": 130917
+                    "endOffset": 130924
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29179,9 +29179,9 @@
                 "to": {
                     "startLine": 1751,
                     "startColumn": 4,
-                    "startOffset": 130922,
+                    "startOffset": 130929,
                     "endColumn": 113,
-                    "endOffset": 131031
+                    "endOffset": 131038
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29198,9 +29198,9 @@
                 "to": {
                     "startLine": 1752,
                     "startColumn": 4,
-                    "startOffset": 131036,
+                    "startOffset": 131043,
                     "endColumn": 111,
-                    "endOffset": 131143
+                    "endOffset": 131150
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29217,10 +29217,10 @@
                 "to": {
                     "startLine": 1753,
                     "startColumn": 4,
-                    "startOffset": 131148,
+                    "startOffset": 131155,
                     "endLine": 1754,
                     "endColumn": 12,
-                    "endOffset": 131245
+                    "endOffset": 131252
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29238,10 +29238,10 @@
                 "to": {
                     "startLine": 1755,
                     "startColumn": 4,
-                    "startOffset": 131250,
+                    "startOffset": 131257,
                     "endLine": 1756,
                     "endColumn": 12,
-                    "endOffset": 131365
+                    "endOffset": 131372
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29259,10 +29259,10 @@
                 "to": {
                     "startLine": 1757,
                     "startColumn": 4,
-                    "startOffset": 131370,
+                    "startOffset": 131377,
                     "endLine": 1758,
                     "endColumn": 12,
-                    "endOffset": 131487
+                    "endOffset": 131494
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29280,9 +29280,9 @@
                 "to": {
                     "startLine": 1759,
                     "startColumn": 4,
-                    "startOffset": 131492,
+                    "startOffset": 131499,
                     "endColumn": 81,
-                    "endOffset": 131569
+                    "endOffset": 131576
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29299,9 +29299,9 @@
                 "to": {
                     "startLine": 1760,
                     "startColumn": 4,
-                    "startOffset": 131574,
+                    "startOffset": 131581,
                     "endColumn": 103,
-                    "endOffset": 131673
+                    "endOffset": 131680
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29318,9 +29318,9 @@
                 "to": {
                     "startLine": 1761,
                     "startColumn": 4,
-                    "startOffset": 131678,
+                    "startOffset": 131685,
                     "endColumn": 119,
-                    "endOffset": 131793
+                    "endOffset": 131800
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29337,9 +29337,9 @@
                 "to": {
                     "startLine": 1762,
                     "startColumn": 4,
-                    "startOffset": 131798,
+                    "startOffset": 131805,
                     "endColumn": 125,
-                    "endOffset": 131919
+                    "endOffset": 131926
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29356,9 +29356,9 @@
                 "to": {
                     "startLine": 1763,
                     "startColumn": 4,
-                    "startOffset": 131924,
+                    "startOffset": 131931,
                     "endColumn": 97,
-                    "endOffset": 132017
+                    "endOffset": 132024
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29375,9 +29375,9 @@
                 "to": {
                     "startLine": 1764,
                     "startColumn": 4,
-                    "startOffset": 132022,
+                    "startOffset": 132029,
                     "endColumn": 93,
-                    "endOffset": 132111
+                    "endOffset": 132118
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29394,9 +29394,9 @@
                 "to": {
                     "startLine": 1765,
                     "startColumn": 4,
-                    "startOffset": 132116,
+                    "startOffset": 132123,
                     "endColumn": 87,
-                    "endOffset": 132199
+                    "endOffset": 132206
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29413,9 +29413,9 @@
                 "to": {
                     "startLine": 1766,
                     "startColumn": 4,
-                    "startOffset": 132204,
+                    "startOffset": 132211,
                     "endColumn": 111,
-                    "endOffset": 132311
+                    "endOffset": 132318
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29432,9 +29432,9 @@
                 "to": {
                     "startLine": 1767,
                     "startColumn": 4,
-                    "startOffset": 132316,
+                    "startOffset": 132323,
                     "endColumn": 115,
-                    "endOffset": 132427
+                    "endOffset": 132434
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29451,9 +29451,9 @@
                 "to": {
                     "startLine": 1768,
                     "startColumn": 4,
-                    "startOffset": 132432,
+                    "startOffset": 132439,
                     "endColumn": 121,
-                    "endOffset": 132549
+                    "endOffset": 132556
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29470,9 +29470,9 @@
                 "to": {
                     "startLine": 1769,
                     "startColumn": 4,
-                    "startOffset": 132554,
+                    "startOffset": 132561,
                     "endColumn": 111,
-                    "endOffset": 132661
+                    "endOffset": 132668
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29489,10 +29489,10 @@
                 "to": {
                     "startLine": 1770,
                     "startColumn": 4,
-                    "startOffset": 132666,
+                    "startOffset": 132673,
                     "endLine": 1772,
                     "endColumn": 12,
-                    "endOffset": 132836
+                    "endOffset": 132843
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29510,9 +29510,9 @@
                 "to": {
                     "startLine": 1773,
                     "startColumn": 4,
-                    "startOffset": 132841,
+                    "startOffset": 132848,
                     "endColumn": 115,
-                    "endOffset": 132952
+                    "endOffset": 132959
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29529,9 +29529,9 @@
                 "to": {
                     "startLine": 1774,
                     "startColumn": 4,
-                    "startOffset": 132957,
+                    "startOffset": 132964,
                     "endColumn": 85,
-                    "endOffset": 133038
+                    "endOffset": 133045
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29548,9 +29548,9 @@
                 "to": {
                     "startLine": 1775,
                     "startColumn": 4,
-                    "startOffset": 133043,
+                    "startOffset": 133050,
                     "endColumn": 91,
-                    "endOffset": 133130
+                    "endOffset": 133137
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29567,10 +29567,10 @@
                 "to": {
                     "startLine": 1776,
                     "startColumn": 4,
-                    "startOffset": 133135,
+                    "startOffset": 133142,
                     "endLine": 1777,
                     "endColumn": 12,
-                    "endOffset": 133242
+                    "endOffset": 133249
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29588,10 +29588,10 @@
                 "to": {
                     "startLine": 1778,
                     "startColumn": 4,
-                    "startOffset": 133247,
+                    "startOffset": 133254,
                     "endLine": 1779,
                     "endColumn": 12,
-                    "endOffset": 133366
+                    "endOffset": 133373
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29609,9 +29609,9 @@
                 "to": {
                     "startLine": 1780,
                     "startColumn": 4,
-                    "startOffset": 133371,
+                    "startOffset": 133378,
                     "endColumn": 66,
-                    "endOffset": 133433
+                    "endOffset": 133440
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29628,10 +29628,10 @@
                 "to": {
                     "startLine": 1781,
                     "startColumn": 4,
-                    "startOffset": 133438,
+                    "startOffset": 133445,
                     "endLine": 1782,
                     "endColumn": 12,
-                    "endOffset": 133559
+                    "endOffset": 133566
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29649,9 +29649,9 @@
                 "to": {
                     "startLine": 1783,
                     "startColumn": 4,
-                    "startOffset": 133564,
+                    "startOffset": 133571,
                     "endColumn": 67,
-                    "endOffset": 133627
+                    "endOffset": 133634
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29668,10 +29668,10 @@
                 "to": {
                     "startLine": 1784,
                     "startColumn": 4,
-                    "startOffset": 133632,
+                    "startOffset": 133639,
                     "endLine": 1785,
                     "endColumn": 12,
-                    "endOffset": 133755
+                    "endOffset": 133762
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29689,10 +29689,10 @@
                 "to": {
                     "startLine": 1786,
                     "startColumn": 4,
-                    "startOffset": 133760,
+                    "startOffset": 133767,
                     "endLine": 1787,
                     "endColumn": 12,
-                    "endOffset": 133899
+                    "endOffset": 133906
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29710,10 +29710,10 @@
                 "to": {
                     "startLine": 1788,
                     "startColumn": 4,
-                    "startOffset": 133904,
+                    "startOffset": 133911,
                     "endLine": 1789,
                     "endColumn": 12,
-                    "endOffset": 134027
+                    "endOffset": 134034
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29731,9 +29731,9 @@
                 "to": {
                     "startLine": 1790,
                     "startColumn": 4,
-                    "startOffset": 134032,
+                    "startOffset": 134039,
                     "endColumn": 68,
-                    "endOffset": 134096
+                    "endOffset": 134103
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29750,9 +29750,9 @@
                 "to": {
                     "startLine": 1791,
                     "startColumn": 4,
-                    "startOffset": 134101,
+                    "startOffset": 134108,
                     "endColumn": 94,
-                    "endOffset": 134191
+                    "endOffset": 134198
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29769,9 +29769,9 @@
                 "to": {
                     "startLine": 1792,
                     "startColumn": 4,
-                    "startOffset": 134196,
+                    "startOffset": 134203,
                     "endColumn": 114,
-                    "endOffset": 134306
+                    "endOffset": 134313
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29788,9 +29788,9 @@
                 "to": {
                     "startLine": 1793,
                     "startColumn": 4,
-                    "startOffset": 134311,
+                    "startOffset": 134318,
                     "endColumn": 112,
-                    "endOffset": 134419
+                    "endOffset": 134426
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29807,9 +29807,9 @@
                 "to": {
                     "startLine": 1794,
                     "startColumn": 4,
-                    "startOffset": 134424,
+                    "startOffset": 134431,
                     "endColumn": 98,
-                    "endOffset": 134518
+                    "endOffset": 134525
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29826,9 +29826,9 @@
                 "to": {
                     "startLine": 1795,
                     "startColumn": 4,
-                    "startOffset": 134523,
+                    "startOffset": 134530,
                     "endColumn": 108,
-                    "endOffset": 134627
+                    "endOffset": 134634
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29845,9 +29845,9 @@
                 "to": {
                     "startLine": 1796,
                     "startColumn": 4,
-                    "startOffset": 134632,
+                    "startOffset": 134639,
                     "endColumn": 110,
-                    "endOffset": 134738
+                    "endOffset": 134745
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29864,9 +29864,9 @@
                 "to": {
                     "startLine": 1797,
                     "startColumn": 4,
-                    "startOffset": 134743,
+                    "startOffset": 134750,
                     "endColumn": 110,
-                    "endOffset": 134849
+                    "endOffset": 134856
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29883,9 +29883,9 @@
                 "to": {
                     "startLine": 1798,
                     "startColumn": 4,
-                    "startOffset": 134854,
+                    "startOffset": 134861,
                     "endColumn": 100,
-                    "endOffset": 134950
+                    "endOffset": 134957
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29902,9 +29902,9 @@
                 "to": {
                     "startLine": 1799,
                     "startColumn": 4,
-                    "startOffset": 134955,
+                    "startOffset": 134962,
                     "endColumn": 104,
-                    "endOffset": 135055
+                    "endOffset": 135062
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29921,9 +29921,9 @@
                 "to": {
                     "startLine": 1800,
                     "startColumn": 4,
-                    "startOffset": 135060,
+                    "startOffset": 135067,
                     "endColumn": 99,
-                    "endOffset": 135155
+                    "endOffset": 135162
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29940,10 +29940,10 @@
                 "to": {
                     "startLine": 1801,
                     "startColumn": 4,
-                    "startOffset": 135160,
+                    "startOffset": 135167,
                     "endLine": 1802,
                     "endColumn": 12,
-                    "endOffset": 135285
+                    "endOffset": 135292
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29961,9 +29961,9 @@
                 "to": {
                     "startLine": 1803,
                     "startColumn": 4,
-                    "startOffset": 135290,
+                    "startOffset": 135297,
                     "endColumn": 90,
-                    "endOffset": 135376
+                    "endOffset": 135383
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29980,9 +29980,9 @@
                 "to": {
                     "startLine": 1804,
                     "startColumn": 4,
-                    "startOffset": 135381,
+                    "startOffset": 135388,
                     "endColumn": 122,
-                    "endOffset": 135499
+                    "endOffset": 135506
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -29999,9 +29999,9 @@
                 "to": {
                     "startLine": 1805,
                     "startColumn": 4,
-                    "startOffset": 135504,
+                    "startOffset": 135511,
                     "endColumn": 93,
-                    "endOffset": 135593
+                    "endOffset": 135600
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -30018,10 +30018,10 @@
                 "to": {
                     "startLine": 1806,
                     "startColumn": 4,
-                    "startOffset": 135598,
+                    "startOffset": 135605,
                     "endLine": 1807,
                     "endColumn": 12,
-                    "endOffset": 135705
+                    "endOffset": 135712
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -30039,9 +30039,9 @@
                 "to": {
                     "startLine": 1808,
                     "startColumn": 4,
-                    "startOffset": 135710,
+                    "startOffset": 135717,
                     "endColumn": 85,
-                    "endOffset": 135791
+                    "endOffset": 135798
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -30058,9 +30058,9 @@
                 "to": {
                     "startLine": 1809,
                     "startColumn": 4,
-                    "startOffset": 135796,
+                    "startOffset": 135803,
                     "endColumn": 103,
-                    "endOffset": 135895
+                    "endOffset": 135902
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -30077,9 +30077,9 @@
                 "to": {
                     "startLine": 1810,
                     "startColumn": 4,
-                    "startOffset": 135900,
+                    "startOffset": 135907,
                     "endColumn": 95,
-                    "endOffset": 135991
+                    "endOffset": 135998
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -30096,9 +30096,9 @@
                 "to": {
                     "startLine": 1811,
                     "startColumn": 4,
-                    "startOffset": 135996,
+                    "startOffset": 136003,
                     "endColumn": 74,
-                    "endOffset": 136066
+                    "endOffset": 136073
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -30115,9 +30115,9 @@
                 "to": {
                     "startLine": 1812,
                     "startColumn": 4,
-                    "startOffset": 136071,
+                    "startOffset": 136078,
                     "endColumn": 69,
-                    "endOffset": 136136
+                    "endOffset": 136143
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -30134,9 +30134,9 @@
                 "to": {
                     "startLine": 1813,
                     "startColumn": 4,
-                    "startOffset": 136141,
+                    "startOffset": 136148,
                     "endColumn": 87,
-                    "endOffset": 136224
+                    "endOffset": 136231
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -30153,10 +30153,10 @@
                 "to": {
                     "startLine": 1814,
                     "startColumn": 4,
-                    "startOffset": 136229,
+                    "startOffset": 136236,
                     "endLine": 1815,
                     "endColumn": 12,
-                    "endOffset": 136342
+                    "endOffset": 136349
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -30174,10 +30174,10 @@
                 "to": {
                     "startLine": 1816,
                     "startColumn": 4,
-                    "startOffset": 136347,
+                    "startOffset": 136354,
                     "endLine": 1817,
                     "endColumn": 12,
-                    "endOffset": 136446
+                    "endOffset": 136453
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -30195,10 +30195,10 @@
                 "to": {
                     "startLine": 1818,
                     "startColumn": 4,
-                    "startOffset": 136451,
+                    "startOffset": 136458,
                     "endLine": 1819,
                     "endColumn": 12,
-                    "endOffset": 136550
+                    "endOffset": 136557
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -30216,10 +30216,10 @@
                 "to": {
                     "startLine": 1820,
                     "startColumn": 4,
-                    "startOffset": 136555,
+                    "startOffset": 136562,
                     "endLine": 1821,
                     "endColumn": 12,
-                    "endOffset": 136676
+                    "endOffset": 136683
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -30237,9 +30237,9 @@
                 "to": {
                     "startLine": 1822,
                     "startColumn": 4,
-                    "startOffset": 136681,
+                    "startOffset": 136688,
                     "endColumn": 87,
-                    "endOffset": 136764
+                    "endOffset": 136771
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -30256,9 +30256,9 @@
                 "to": {
                     "startLine": 1823,
                     "startColumn": 4,
-                    "startOffset": 136769,
+                    "startOffset": 136776,
                     "endColumn": 107,
-                    "endOffset": 136872
+                    "endOffset": 136879
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -30275,9 +30275,9 @@
                 "to": {
                     "startLine": 1824,
                     "startColumn": 4,
-                    "startOffset": 136877,
+                    "startOffset": 136884,
                     "endColumn": 99,
-                    "endOffset": 136972
+                    "endOffset": 136979
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -30294,9 +30294,9 @@
                 "to": {
                     "startLine": 1825,
                     "startColumn": 4,
-                    "startOffset": 136977,
+                    "startOffset": 136984,
                     "endColumn": 89,
-                    "endOffset": 137062
+                    "endOffset": 137069
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -30313,9 +30313,9 @@
                 "to": {
                     "startLine": 1826,
                     "startColumn": 4,
-                    "startOffset": 137067,
+                    "startOffset": 137074,
                     "endColumn": 109,
-                    "endOffset": 137172
+                    "endOffset": 137179
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -30332,9 +30332,9 @@
                 "to": {
                     "startLine": 1827,
                     "startColumn": 4,
-                    "startOffset": 137177,
+                    "startOffset": 137184,
                     "endColumn": 83,
-                    "endOffset": 137256
+                    "endOffset": 137263
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -30351,9 +30351,9 @@
                 "to": {
                     "startLine": 1828,
                     "startColumn": 4,
-                    "startOffset": 137261,
+                    "startOffset": 137268,
                     "endColumn": 101,
-                    "endOffset": 137358
+                    "endOffset": 137365
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -30370,9 +30370,9 @@
                 "to": {
                     "startLine": 1829,
                     "startColumn": 4,
-                    "startOffset": 137363,
+                    "startOffset": 137370,
                     "endColumn": 83,
-                    "endOffset": 137442
+                    "endOffset": 137449
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -30389,9 +30389,9 @@
                 "to": {
                     "startLine": 1830,
                     "startColumn": 4,
-                    "startOffset": 137447,
+                    "startOffset": 137454,
                     "endColumn": 53,
-                    "endOffset": 137496
+                    "endOffset": 137503
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -30408,9 +30408,9 @@
                 "to": {
                     "startLine": 1831,
                     "startColumn": 4,
-                    "startOffset": 137501,
+                    "startOffset": 137508,
                     "endColumn": 63,
-                    "endOffset": 137560
+                    "endOffset": 137567
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -30427,9 +30427,9 @@
                 "to": {
                     "startLine": 1832,
                     "startColumn": 4,
-                    "startOffset": 137565,
+                    "startOffset": 137572,
                     "endColumn": 105,
-                    "endOffset": 137666
+                    "endOffset": 137673
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -30446,9 +30446,9 @@
                 "to": {
                     "startLine": 1833,
                     "startColumn": 4,
-                    "startOffset": 137671,
+                    "startOffset": 137678,
                     "endColumn": 109,
-                    "endOffset": 137776
+                    "endOffset": 137783
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -30465,9 +30465,9 @@
                 "to": {
                     "startLine": 1834,
                     "startColumn": 4,
-                    "startOffset": 137781,
+                    "startOffset": 137788,
                     "endColumn": 83,
-                    "endOffset": 137860
+                    "endOffset": 137867
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",
@@ -30484,9 +30484,9 @@
                 "to": {
                     "startLine": 1835,
                     "startColumn": 4,
-                    "startOffset": 137865,
+                    "startOffset": 137872,
                     "endColumn": 119,
-                    "endOffset": 137980
+                    "endOffset": 137987
                 },
                 "from": {
                     "file": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/values/values.xml",

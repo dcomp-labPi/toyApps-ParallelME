@@ -17,7 +17,7 @@ struct NativeData{
     std::shared_ptr<Buffer> buffer;
     int testSize = 0;
 };
-const static char gKernels[] = "__kernel void map(uint *inputVector,uint *outputVector){ uint id = get_global_id(0); outputVector[id] = inputVector[id]*inputVector[id]; }";
+const static char gKernels[] = "__kernel void map(__global uint *inputVector,__global uint *outputVector){ uint id = get_global_id(0); outputVector[id] = inputVector[id]*inputVector[id]; }";
 
 
 void generateVector(int size, int *vector){
@@ -70,6 +70,8 @@ JNIEXPORT void JNICALL Java_br_edu_ufsj_dcomp_map_Operation_process(JNIEnv *env,
     dataPointer->runtime->finish();
 
     resultBuffer->copyTo(result);
+    free(dataPointer);
+    free(result);
 
     //printVector(dataPointer->testSize,vector);
 

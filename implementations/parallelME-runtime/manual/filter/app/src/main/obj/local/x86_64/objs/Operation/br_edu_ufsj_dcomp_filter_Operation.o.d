@@ -1,7 +1,9 @@
 ./obj/local/x86_64/objs/Operation/br_edu_ufsj_dcomp_filter_Operation.o: \
   jni/br_edu_ufsj_dcomp_filter_Operation.cpp \
-  /home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/stdlib.h \
+  /home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/stdio.h \
   /home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/__config \
+  /home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/stdlib.h \
+  /home/labpi/Android/Sdk/ndk-bundle/sources/android/support/include/time.h \
   jni/ParallelME/runtime/include/parallelme/ParallelME.hpp \
   jni/ParallelME/runtime/include/parallelme/Buffer.hpp \
   /home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/cstdlib \
@@ -31,7 +33,6 @@
   jni/ParallelME/runtime/include/parallelme/Kernel.hpp \
   /home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/string \
   /home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/cstdio \
-  /home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/stdio.h \
   /home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/cwchar \
   /home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/cwctype \
   /home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/cctype \
@@ -70,9 +71,13 @@
   /home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/math.h \
   jni/br_edu_ufsj_dcomp_filter_Operation.hpp
 
-/home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/stdlib.h:
+/home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/stdio.h:
 
 /home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/__config:
+
+/home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/stdlib.h:
+
+/home/labpi/Android/Sdk/ndk-bundle/sources/android/support/include/time.h:
 
 jni/ParallelME/runtime/include/parallelme/ParallelME.hpp:
 
@@ -131,8 +136,6 @@ jni/ParallelME/runtime/include/parallelme/Kernel.hpp:
 /home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/string:
 
 /home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/cstdio:
-
-/home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/stdio.h:
 
 /home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/cwchar:
 

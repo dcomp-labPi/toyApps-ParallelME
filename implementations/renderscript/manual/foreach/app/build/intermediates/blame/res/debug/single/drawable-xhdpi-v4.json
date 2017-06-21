@@ -40,12 +40,12 @@
         "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/labpi/Documentos/renan/projetos/toyAplications/foreach/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
-        "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
-    },
-    {
         "merged": "/home/labpi/Documentos/renan/projetos/toyAplications/foreach/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
         "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/labpi/Documentos/renan/projetos/toyAplications/foreach/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
         "merged": "/home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/foreach/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png",
@@ -148,12 +148,12 @@
         "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/foreach/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_black_48dp.png",
-        "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/drawable-xhdpi-v4/abc_ic_star_black_48dp.png"
-    },
-    {
         "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/manual/foreach/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
         "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/foreach/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_black_48dp.png",
+        "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/drawable-xhdpi-v4/abc_ic_star_black_48dp.png"
     },
     {
         "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/manual/foreach/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_focused_holo.9.png",
@@ -188,20 +188,20 @@
         "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
     },
     {
-        "merged": "/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png",
-        "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
-    },
-    {
-        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/manual/foreach/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
-        "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/manual/foreach/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
         "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/manual/foreach/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png",
         "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png"
     },
     {
-        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/manual/foreach/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
-        "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+        "merged": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/manual/foreach/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/labpi/Documentos/renan/projetos/toyAplications/filter/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
     },
     {
         "merged": "/home/labpi/Documentos/renan/projetos/toyAplications/foreach/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
@@ -220,12 +220,12 @@
         "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/labpi/Documentos/renan/projetos/toyAplications/foreach/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png",
-        "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
-    },
-    {
         "merged": "/home/labpi/Documentos/renan/projetos/toyApps/manual/foreach/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png",
         "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/labpi/Documentos/renan/projetos/toyAplications/foreach/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
     },
     {
         "merged": "/home/labpi/Documentos/renan/projetos/toyApps/manual/foreach/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",

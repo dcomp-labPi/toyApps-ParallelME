@@ -1,0 +1,7 @@
+Erros que eu corrigi na versão compilada da aplicação filter:
+Não criou os buffers do vectorIn e do sizeIn, ele passava ambos diretamente para a função setArg.
+Dentro do kernel, ele não especificou o tipo esperado do vectorIn (int*).
+Passando vetor vectorIn como int[] no argumento, alterei para jintArray e criei uma interpolação para fazer o cast pra int*
+Foi declarado um tipo boolean dentro do kernel, alterei ele pra int
+Remoção do operador static da função criada no kernel
+Ele estava setando o PM_dataPtr->length diretamente no setArg, criei um buffer antes e setei o buffer do PM_dataPtr->length

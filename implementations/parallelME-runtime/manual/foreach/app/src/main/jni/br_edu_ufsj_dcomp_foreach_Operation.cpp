@@ -41,14 +41,11 @@ void generateVector(int size, int *vector){
         __android_log_print(ANDROID_LOG_ERROR, "Print Debug", "vector[%d] = %d",i,vector[i]);
     }
 }*/
-
-JNIEXPORT jlong JNICALL Java_br_edu_ufsj_dcomp_foreach_Operation_nativeInit(JNIEnv *env, jobject self,jint size){
+JNIEXPORT jlong JNICALL Java_br_edu_ufsj_dcomp_foreach_Operation_nativeUpdate(JNIEnv *env, jobject self,jobject dataPointerLong,jint size){
     JavaVM *jvm;
     env->GetJavaVM(&jvm);
     if(!jvm) return (jlong) nullptr;
-    auto dataPointer = new NativeData();
-    dataPointer->runtime = std::make_shared<Runtime>(jvm);
-    dataPointer->program = std::make_shared<Program>(dataPointer->runtime,gKernels);
+    auto dataPointer = (NativeData *) dataPointerLong;
     dataPointer->buffer = std::make_shared<Buffer>(sizeof(int)*size);
     int *vector = (int*) malloc(sizeof(int)*size);
     generateVector(size,vector);
@@ -57,8 +54,25 @@ JNIEXPORT jlong JNICALL Java_br_edu_ufsj_dcomp_foreach_Operation_nativeInit(JNIE
     return (jlong) dataPointer;
 }
 
+JNIEXPORT jlong JNICALL Java_br_edu_ufsj_dcomp_foreach_Operation_nativeInit(JNIEnv *env, jobject self,jint size){
+    JavaVM *jvm;
+    env->GetJavaVM(&jvm);
+    if(!jvm) return (jlong) nullptr;
+    auto dataPointer = new NativeData();
+    dataPointer->runtime = std::make_shared<Runtime>(jvm);
+    dataPointer->program = std::make_shared<Program>(dataPointer->runtime,gKernels);
+    dataPointer->dataSize = size;
+    return (jlong) dataPointer;
+}
+
 JNIEXPORT void JNICALL Java_br_edu_ufsj_dcomp_foreach_Operation_process(JNIEnv *env,jobject self,jobject dataPointerLong){
     auto dataPointer = (NativeData *) dataPointerLong;
+
+    dataPointer->buffer = std::make_shared<Buffer>(sizeof(int)*dataPointer->dataSize);
+    int *vector = (int*) malloc(sizeof(int)*dataPointer->dataSize);
+    generateVector(dataPointer->dataSize,vector);
+    dataPointer->buffer->setSource(vector);
+
     //crio a task
     auto task = std::make_unique<Task>(dataPointer->program);
     task->addKernel("foreach");
@@ -71,9 +85,8 @@ JNIEXPORT void JNICALL Java_br_edu_ufsj_dcomp_foreach_Operation_process(JNIEnv *
     dataPointer->runtime->submitTask(std::move(task));
     dataPointer->runtime->finish();
 
-   // vectorBuffer->copyTo(vector);
+    std::free(vector);
 
-    //printVector(dataPointer->testSize,vector);
 
 
 }

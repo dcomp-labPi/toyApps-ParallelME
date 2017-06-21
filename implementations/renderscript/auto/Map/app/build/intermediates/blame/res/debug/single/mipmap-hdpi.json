@@ -12,6 +12,10 @@
         "source": "/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/auto/Map/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
     },
     {
+        "merged": "/home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/auto/Map/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
         "merged": "/home/millas/WorkbenchAndStu/Foreach/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
         "source": "/home/millas/WorkbenchAndStu/Foreach/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
     },
@@ -58,6 +62,10 @@
     {
         "merged": "/home/labpi/Dropbox/toyApplications/auto/Filter/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
         "source": "/home/labpi/Dropbox/toyApplications/auto/Filter/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/auto/Map/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/auto/Map/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
         "merged": "/home/labpi/Documentos/renan/projetos/toyApps/auto/Map/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",

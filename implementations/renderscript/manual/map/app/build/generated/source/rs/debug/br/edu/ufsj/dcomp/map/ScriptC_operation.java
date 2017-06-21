@@ -16,13 +16,13 @@
 
 /*
  * This file is auto-generated. DO NOT MODIFY!
- * The source Renderscript file: /home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/manual/map/app/src/main/rs/operation.rs
+ * The source Renderscript file: /home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/map/app/src/main/rs/operation.rs
  */
 
 package br.edu.ufsj.dcomp.map;
 
 import android.support.v8.renderscript.*;
-import android.content.res.Resources;
+import br.edu.ufsj.dcomp.map.operationBitCode;
 
 /**
  * @hide
@@ -31,15 +31,10 @@ public class ScriptC_operation extends ScriptC {
     private static final String __rs_resource_name = "operation";
     // Constructor
     public  ScriptC_operation(RenderScript rs) {
-        this(rs,
-             rs.getApplicationContext().getResources(),
-             rs.getApplicationContext().getResources().getIdentifier(
-                 __rs_resource_name, "raw",
-                 rs.getApplicationContext().getPackageName()));
-    }
-
-    public  ScriptC_operation(RenderScript rs, Resources resources, int id) {
-        super(rs, resources, id);
+        super(rs,
+              __rs_resource_name,
+              operationBitCode.getBitCode32(),
+              operationBitCode.getBitCode64());
         __I32 = Element.I32(rs);
     }
 

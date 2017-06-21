@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
         Button btnExecutar = (Button) findViewById(R.id.btnExecutar);
         final EditText editTextInputSize = (EditText) findViewById(R.id.editTextInputSize);
         final TextView result = (TextView) findViewById(R.id.tvResultados);
+        final ArrayTest controller = new ArrayTest();
         btnExecutar.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -25,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
                 long startTotalTime = System.currentTimeMillis();
                 result.setText(result.getText().toString()+"Structure initialization: ");
                 long timeStart = System.currentTimeMillis();
-                ArrayTest controller = new ArrayTest();
+
                 long timeEnd = System.currentTimeMillis();
                 result.setText(result.getText().toString()+String.valueOf(timeEnd-timeStart)+"ms\n");
                 result.setText(result.getText().toString()+"Operation Execution ");

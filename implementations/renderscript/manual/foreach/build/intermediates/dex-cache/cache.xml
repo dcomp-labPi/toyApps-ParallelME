@@ -2,13 +2,13 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="/home/rcarvs/Android/Sdk/build-tools/25.0.2/renderscript/lib/renderscript-v8.jar"
+        is-multidex="true"
+        jar="/home/labpi/Android/Sdk/build-tools/25.0.2/renderscript/lib/renderscript-v8.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="05668b8cd6c7b07f152b6a5b4c6cff620817ba0f">
-        <dex dex="/home/rcarvs/Documentos/iniciacao/toyApps/implementations/renderscript/manual/foreach/app/build/intermediates/pre-dexed/debug/renderscript-v8_6dc0bd444986a8210ec940b1f060ae04698325e9.jar" />
+        <dex dex="/home/labpi/Documentos/renan/projetos/toyApps/implementations/renderscript/manual/foreach/app/build/intermediates/transforms/dex/debug/folders/1000/10/renderscript-v8_1e482a54c1ea96f205b9d30361f742d785463373/classes.dex" />
     </item>
 
 </items>

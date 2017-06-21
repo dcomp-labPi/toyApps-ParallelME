@@ -1,7 +1,9 @@
 ./obj/local/armeabi/objs/Operation/br_edu_ufsj_dcomp_filter_Operation.o: \
   jni/br_edu_ufsj_dcomp_filter_Operation.cpp \
-  /home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/stdlib.h \
+  /home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/stdio.h \
   /home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/__config \
+  /home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/stdlib.h \
+  /home/labpi/Android/Sdk/ndk-bundle/sources/android/support/include/time.h \
   jni/ParallelME/runtime/include/parallelme/ParallelME.hpp \
   jni/ParallelME/runtime/include/parallelme/Buffer.hpp \
   /home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/cstdlib \
@@ -31,7 +33,6 @@
   jni/ParallelME/runtime/include/parallelme/Kernel.hpp \
   /home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/string \
   /home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/cstdio \
-  /home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/stdio.h \
   /home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/cwchar \
   /home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/cwctype \
   /home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/cctype \
@@ -53,7 +54,6 @@
   /home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/__mutex_base \
   /home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/chrono \
   /home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/ctime \
-  /home/labpi/Android/Sdk/ndk-bundle/sources/android/support/include/time.h \
   /home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/ratio \
   /home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/system_error \
   /home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/cerrno \
@@ -70,9 +70,13 @@
   /home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/math.h \
   jni/br_edu_ufsj_dcomp_filter_Operation.hpp
 
-/home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/stdlib.h:
+/home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/stdio.h:
 
 /home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/__config:
+
+/home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/stdlib.h:
+
+/home/labpi/Android/Sdk/ndk-bundle/sources/android/support/include/time.h:
 
 jni/ParallelME/runtime/include/parallelme/ParallelME.hpp:
 
@@ -132,8 +136,6 @@ jni/ParallelME/runtime/include/parallelme/Kernel.hpp:
 
 /home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/cstdio:
 
-/home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/stdio.h:
-
 /home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/cwchar:
 
 /home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/cwctype:
@@ -175,8 +177,6 @@ jni/ParallelME/runtime/include/parallelme/SchedulerFCFS.hpp:
 /home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/chrono:
 
 /home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/ctime:
-
-/home/labpi/Android/Sdk/ndk-bundle/sources/android/support/include/time.h:
 
 /home/labpi/Android/Sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include/ratio:
 

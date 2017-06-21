@@ -34,5 +34,7 @@ public class ArrayTestWrapperImplRS implements ArrayTestWrapper {
 
 	public void foreach1() {
 		PM_kernel.forEach_foreach1(PM_array8Out, PM_array8Out);
+
+		PM_mRS.finish();
 	}
 }

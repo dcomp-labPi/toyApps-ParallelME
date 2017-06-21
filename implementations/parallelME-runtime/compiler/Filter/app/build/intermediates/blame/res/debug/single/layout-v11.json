@@ -8,12 +8,24 @@
         "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/layout-v11/notification_template_big_media.xml"
     },
     {
+        "merged": "/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/compiler/Filter/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
         "merged": "/home/millas/WorkbenchAndStu/Foreach/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout-v11/notification_media_action.xml"
     },
     {
+        "merged": "/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/compiler/Filter/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
         "merged": "/home/millas/WorkbenchAndStu/Foreach/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/compiler/Filter/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/layout-v11/notification_template_big_media_custom.xml"
     },
     {
         "merged": "/home/labpi/Documentos/renan/projetos/toyApps/auto/Filter/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
@@ -32,8 +44,16 @@
         "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/layout-v11/notification_template_big_media_narrow.xml"
     },
     {
+        "merged": "/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/compiler/Filter/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
         "merged": "/home/millas/WorkbenchAndStu/Foreach/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
         "source": "/home/millas/.android/build-cache/2ab4cfe064d181aa327f6c031a6cd9d8eaa0b3b7/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/compiler/Filter/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
     },
     {
         "merged": "/home/labpi/Dropbox/toyApplications/auto/Filter/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
@@ -42,6 +62,10 @@
     {
         "merged": "/home/rcarvs/Dropbox/toyApplications/auto/Filter/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
         "source": "/home/rcarvs/.android/build-cache/b8b00330178a77661c2e3327915e072b0f9a5df0/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/labpi/Documentos/renan/projetos/toyApps/implementations/parallelME-runtime/compiler/Filter/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/labpi/.android/build-cache/30ef693de030ee137223f5d9c08a4f0ce8f16eca/output/res/layout-v11/notification_template_big_media.xml"
     },
     {
         "merged": "/home/labpi/Documentos/renan/projetos/toyApps/auto/Filter/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
